@@ -6,7 +6,7 @@
                     <span class="icon menu"></span>
                 </button>
                 <a class="navbar-brand" href="{{site.baseurl}}/">
-                 State of the Map 2022
+                 State of the Map 2024
                 </a>
             </div>
 
@@ -47,24 +47,24 @@
                         <a class="" href="{{site.baseurl}}/#streaming">Videos</a>
                       {% endif %}
                     </li>-->
-                    <li>
+                    <!--<li>
                         <a class="{% if page.url contains '/programme' %}active{% endif %}" href="{{site.baseurl}}/programme/">Programme</a>
-                    </li>
+                    </li>-->
                     <!--<li>
                         <a class="{% if page.url contains '/academic_programme' %}active{% endif %}" href="{{site.baseurl}}/academic_programme/">Academic Programme</a>
                     </li>-->
-                    <li>
+                    <!--<li>
                       <a class="{% if page.url contains '/posters' %}active{% endif %}" href="{{site.baseurl}}/posters">Posters</a>
-                    </li>
-                    <li>
+                    </li>-->
+                    <!--<li>
                         <a class="{% if page.url contains '/events' %}active{% endif %}" href="{{site.baseurl}}/events/">Social Event</a>
-                    </li>
+                    </li>-->
                     <!--<li>
                       <a href="https://wiki.openstreetmap.org/wiki/State_of_the_Map_2022/registration_lightning_talks">Call for Lightning Talks</a>
                     </li>-->
-                    <li>
+                    <!--<li>
                         <a class="{% if page.url contains '/venue' %}active{% endif %}" href="{{site.baseurl}}/venue/">Venue</a>
-                    </li>
+                    </li>-->
                     <!--<li>
                         <a class="{% if page.url contains '/faq' %}active{% endif %}" href="{{site.baseurl}}/faq/">FAQ</a>
                     </li>-->
@@ -83,6 +83,13 @@
                     </li>-->
                     <li>
                       {% if page.role == 'index' %}
+                        <a class="page-scroll" href="#about">About</a>
+                      {% else %}
+                        <a class="" href="{{site.baseurl}}/#about">About</a>
+                      {% endif %}
+                    </li>
+                    <li>
+                      {% if page.role == 'index' %}
                         <a class="page-scroll" href="#sponsors">Sponsors</a>
                       {% else %}
                         <a class="" href="{{site.baseurl}}/#sponsors">Sponsors</a>
@@ -91,9 +98,9 @@
                     <!--<li>
                         <a class="{% if page.url contains '/attending' %}active{% endif %}" href="{{site.baseurl}}/attending/">Attending</a>
                     </li>-->
-                    <!--<li>
+                    <li>
                         <a class="{% if page.url contains '/codeofconduct' %}active{% endif %}" href="{{site.baseurl}}/codeofconduct">Code of conduct</a>
-                    </li>-->
+                    </li>
                 </ul>
             </div>
         </div>

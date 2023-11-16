@@ -111,7 +111,7 @@ a:focus {
 }
 
 footer a {
-    color: {{ site.color.links-white }};
+    color: {{ site.color.links-light }};
 }
 
 footer a:hover,
@@ -183,7 +183,7 @@ footer a:focus,
         background-position-x: center;
         background-position-y: top;
         background-size: cover;
-        border-bottom: 0.5px solid {{ site.color.primary-light }};
+        border-bottom: 2px solid {{ site.color.links }};
     }
 
     .navbar a, .navbar a:hover {
@@ -213,7 +213,7 @@ footer a:focus,
     text-align: center;
     color: #fff;
     position: relative;
-    background-image: url(./img/header.jpg);
+    background-image: url(./img/giraffes.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -234,14 +234,14 @@ footer a:focus,
     text-align: center;
     display: inline-block;
     width: auto;
-    margin-top: 40px;
+    margin-top: 50px;
     background-color: rgba(255, 255, 255, 0.4);
     padding: 40px;
-    border-radius: 40px 0;
+    border-radius: 0;
 }
 
 .intro .intro-body .logo > img {
-    width: 150px;
+    width: 200px;
     display: block;
 }
 
@@ -326,7 +326,7 @@ header.intro .credits {
         font-size: 100px;
         padding-bottom: 60px;
         margin-left: 8%;
-        float: left;
+        float: right;
         /*margin-top: 100px;*/
         margin-bottom: 100px;
     }
@@ -493,7 +493,7 @@ ul.banner-social-buttons li {
 
 footer {
     padding: 50px 0;
-    color: {{ site.color.links-white }};
+    color: {{ site.color.links-light }};
 }
 
 footer p {
@@ -527,7 +527,6 @@ footer img::-moz-selection,
 footer img.logo {
   width: auto;
   height: 200px;
-  filter: brightness(100);
   margin-top: -30px;
   margin-bottom: -10px;
 }
@@ -558,6 +557,7 @@ body {
 }
 
 #about .logo {
+  margin-top: 40px;
   text-align: center;
 }
 
@@ -806,8 +806,7 @@ nav .navbar-brand {
     height: 70px;
 }
 
-#sponsors .supporter a.sponsor,
-#sponsors .platinum a.sponsor {
+#sponsors .supporter a.sponsor {
     width: auto;
     height: auto;
 }
@@ -825,7 +824,6 @@ nav .navbar-brand {
 }
 
 #sponsors div.platinum img {
-    filter: grayscale(0);
 }
 
 #sponsors div.platinum h4 {
