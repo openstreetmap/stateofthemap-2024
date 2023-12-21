@@ -111,7 +111,7 @@ If you wish to be considered for a SotM travel grant, please fill out the <a hre
 
 All data will be held confidential and only used for assessing TGP applications. Please ensure that the email address that you provide is regularly monitored, as the selection committee may wish to seek clarification of responses. If no replies have been provided to requests via mail for the Travel Grant Committee within 5 days, the Travel Grant will be removed from you and assigned to the next applicants in the ranking.
 
-Applications must be received by January 31 2024.
+Applications must be received by January 31, 2024.
 
 The selection committee will aim to notify recipients of grants by the end of February 2024.
 
