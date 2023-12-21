@@ -83,7 +83,7 @@ Applicants that attend SotM for the first time receive 1 point.
 
 ### Amount required
 
-The aspected cost amount requested is to indicate, please indicate it in US Dollars or Euros. Applications without an explicit request of the amount required will not be considered. The minimum between the aspected cost and the grant size based on the residence country will be assigned.
+The expected cost amount requested is to indicate, please indicate it in US Dollars or Euros. Applications without an explicit request of the amount required will not be considered. The minimum between the expected cost and the grant size based on the residence country will be assigned.
 
 ### OpenStreetMap and Community
 
