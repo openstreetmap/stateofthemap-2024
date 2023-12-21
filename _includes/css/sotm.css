@@ -923,12 +923,11 @@ p img.bio-pic {
 /* tables */
 .prose table td,
 .prose table th {
-    border-color: {{ site.color.primary-light }};
+    border-color: {{ site.color.links }};
 }
 
 .prose table th {
     vertical-align: top;
-    background-color: {{ site.color.primary-light }};
 }
 
 /* schedule table */
