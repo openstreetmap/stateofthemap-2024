@@ -34,7 +34,7 @@ Jomo Kenyatta International Airport is an international airport serving Nairobi 
 
 <h3>Bus Travel Within East and Southern Africa</h3>
 
-Road transport is commonly used within East African countries on a daily basis because of the good road infrastructure, security, and cost effectiveness. The recent infrastructural developments and easened custom borders process,  have made bus travelling easier in other neighbouring regions to the south and central of Africa.
+Road transport is commonly used within East African countries on a daily basis because of the good road infrastructure, security, and cost effectiveness. The recent infrastructural developments and easened custom borders process have made bus travelling easier in other neighbouring regions of south and central Africa.
 
 <h2 class='space-bottom1' id='moving-around'>Moving around Nairobi</h2>
 
@@ -44,7 +44,7 @@ Nairobi City has a diverse privatised public transport system linking the Centra
 
 <h3>Taxis</h3>
 
-Like any other modern city, Nairobi enjoys a series of taxi services that operate 24 hours daily, with some running as international models(including ride-share apps like Uber and Bolt) and some locally owned and operated ones. You can either access the service through mobile phone applications or some located at strategic places within the city. Taxis are the most convenient form of transport and prove to be safest.
+Like any other modern city, Nairobi enjoys a series of taxi services that operate 24 hours daily, with some running as international models(including ride-share apps like Uber and Bolt) and some locally owned and operated ones. You can either access the service through mobile phone applications or at some strategic places within the city. Taxis are the most convenient form of transport and prove to be safest.
 
 <h2>Visa</h2>
 
@@ -82,6 +82,6 @@ Kenya as a country falls within the tropics therefore experiences comfortable cl
 
 The venue provides you with reliable and convenient internet connectivity. However, we advise you to have a personal internet/data plan as backup plan in case of any glitches like in the case of not being within WiFi reach. You can easily purchase a new Safaricom (largest telecommunication provider) sim card at the airport or any of their shop outlets in Nairobi town CBD. Safaricom offers you fast internet services and various data plans that start from as low as $5. You have the freedom to choose from other service providers such as Airtel and Telkom Kenya, who also offer good internet packages and data plans. The best practice is to download the mobile app for a given service provider from the google play store then proceed to purchase the desired data plan.
 
-The sim card you purchase will not only enable you to communicate, but also act as an e-wallet that allows you to make financial transactions across many shops, supermarkets, and pay for various services. You would be amazed at the digital literacy amongst Kenyans and how they have embraced technology that enables them accept mobile based payments, and or hard cash. You can also enjoy the convenience of online shopping by using mobile apps like Glovo and Jumia Online Shopping. Getting food and other essentials delivered to your door is also an option with available options from outlets like Foodplus, Naivas & Carrefour.
+The sim card you purchase will not only enable you to communicate, but also act as an e-wallet that allows you to make financial transactions across many shops, supermarkets, and pay for various services. You would be amazed at the digital literacy amongst Kenyans and how they have embraced technology that enables them to accept mobile based payments, and/or hard cash. You can also enjoy the convenience of online shopping by using mobile apps like Glovo and Jumia Online Shopping. Getting food and other essentials delivered to your door is also an option with available options from outlets like Foodplus, Naivas & Carrefour.
 
 Moreover, you can also access online medical services through platforms like myDawa & ponea health, which offer you quick access to professional consultation, drug dispensation and delivery with much ease.
