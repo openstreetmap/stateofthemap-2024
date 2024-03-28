@@ -213,7 +213,7 @@ footer a:focus,
     text-align: center;
     color: #fff;
     position: relative;
-    background-image: url(./img/giraffes.jpg);
+    background-image: url(./img/nairobi.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -222,6 +222,11 @@ footer a:focus,
     background-attachment: fixed;
     background-position-y: center;
     background-position-x: right;
+}
+@supports (background-image: url(./img/nairobi.webp)) {
+  .intro {
+    background-image: url(./img/nairobi.webp);
+  }
 }
 
 .intro .intro-body {
