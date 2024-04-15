@@ -150,6 +150,7 @@ Your submissions will be reviewed by a programme committee consisting of OpenStr
 * Miriam Gonzales (Geochicas, Mexico)
 * Raphael de Assis (president of UMBRAOSM/Union of Brazilian Openstreetmap Mappers)
 * Satochi Iida (OSMF Japan, Japan)
+* Séverin Menard (EOF, France, French-speaking West-African and Caribbean outreach)
 * Stefan Keller (Geometa Lab Campus Rapperswil, Eastern Switzerland University of Applied Sciences (FH OST), Switzerland)
 
 The programme committee is aware of possible conflict of interest situations. We try to balance that in the composition of the committee. Nevertheless, we have imposed some rules upon ourselves to handle conflict of interest situations:
