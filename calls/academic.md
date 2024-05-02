@@ -46,5 +46,6 @@ Please submit your presentation proposal to our **[submission form](https://pret
 You can reach the academic track committee via email to <a href="mailto:academic-sotm@openstreetmap.org">academic-sotm@openstreetmap.org</a>.
 
 * Dr. Marco Minghini – [European Commission - Joint Research Centre](https://joint-research-centre.ec.europa.eu/index_en), Ispra, Italy
-* Dr. A. Yair Grinberger - [Department of Geography](https://en.geography.huji.ac.il/), The Hebrew University of Jerusalem, Israel
+* Dr. A. Yair Grinberger – [Department of Geography](https://en.geography.huji.ac.il/), The Hebrew University of Jerusalem, Israel
+* Dr. Peter Mooney – Department of Computer Science, Maynooth University, Ireland
 
