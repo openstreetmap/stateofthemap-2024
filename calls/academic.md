@@ -12,7 +12,7 @@ OSM Science 2024 (aka the Academic Track of State of the Map) is a meeting focus
 
 <h2 id="guidelines">Submission Guidelines</h2>
 
-Authors are invited to submit extended abstracts using the State of the Map 2024 [Pretalx submission system](https://pretalx.com/state-of-the-map-2024-academic-track/cfp). Deadline for submission is **10 May 2024**.
+Authors are invited to submit extended abstracts using the State of the Map 2024 [Pretalx submission system](https://pretalx.com/state-of-the-map-2024-academic-track/cfp). Deadline for submission is **24 May 2024**.
 
 Abstracts should be between 800 and 1200 words. These limits will be strictly enforced for a fair and balanced review process.
 
@@ -31,7 +31,8 @@ The 2019 and 2020 Academic Track resulted in a [special issue](https://www.mdpi.
 <h2 id="timeline_deadlines">Timeline and Deadlines</h2>
 
 * 23 April 2024: Deadline [non-academic talk submissions]({{site.baseurl}}/calls/general)
-* 10 May 2024: Deadline academic talk submissions
+* <s>10 May 2024: Deadline academic talk submissions</s>
+* 24 May 2024: Deadline academic talk submissions
 * 15 July 2024: Program announcement
 * 6-8 September 2024: OSM Science at State of the Map 2024
 
