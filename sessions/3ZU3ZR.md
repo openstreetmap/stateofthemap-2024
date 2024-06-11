@@ -1,0 +1,27 @@
+---
+layout: session
+title: "Open mapping through tropical forest biodiversity conservation"
+code: "3ZU3ZR"
+speaker_names: ['Luis Sebastian Bravo Chacon']
+affiliations: None
+room: "Auditorium 2"
+length: "20"
+time: "Saturday, 15:30"
+time_iso: "2024-09-07T12:30:00Z"
+resources: []
+recording: False
+---
+
+The botanical collection Arboretum and Palmetum Leon Morales Soto houses 412 species from 64 botanical families, totaling 4892 individuals. The mapping carried out by the SAGEMA chapter of YouthMappers allowed sharing valuable information about Colombian flora with the university community, facilitating its conservation and recognition through the integration of collection data into OSM. The project aims to promote the conservation of threatened tropical ecosystems through open mapping. It involved the participation of 12 students and a training strategy through open workshops to replicate the project in other Latin American regions.
+
+<hr>
+
+The Universidad Nacional de Colombia is one of the most important ecological nuclei and connection points in Medellín and the Aburrá Valley. In its approximately 37 hectares, the university harbors a high diversity of fauna, especially birds, insects, small mammals, and reptiles, which find shelter, food, nesting areas, and a passage point in their biological corridor in the tree cover. Therefore, the conservation of this space is of special importance to the city. The collection stands out for housing various species representative of different Colombian tropical ecosystems, such as the dry forests of the Cauca and Magdalena canyons, the humid forests of Chocó, and the flooded forests of the Amazon, among others, offering students and visitors the opportunity to immerse themselves in the biodiversity of the extraordinary Colombian tropical forests and ensuring the maintenance of native species.
+The &#34;Open Data, Vibrant Ecosystems&#34; project aims to bring the university community closer to the care and appreciation of the flora and fauna present on the Universidad Nacional de Colombia, Medellín campus, through the recognition and appropriation of the living collection Arboretum and Palmetum Leon Morales Soto. It is based on open and collaborative mapping to encourage students to interact with the different species of palms, trees, shrubs, and herbaceous plants that the collection houses, and aims to go beyond visualization and consultation by inviting them to be active participants in the collection's tree inventory data collection, creation, use, and download through open data and the OpenStreetMap platform.
+As a result of the first phase of mapping the project, the collection's inventory was imported into OpenStreetMap, adding around 3000 new data points to the map. The project is developed in 3 phases: Training, Data validation in office and field, Data import to OSM. For the first phase, a work route was established for data import. First, information gaps and technical knowledge needed for the import were identified. Based on this analysis, collaboration was sought with volunteers from the OSM Colombia and OSM Latin America communities who had experience in tree mapping in OSM.
+A schedule of five training sessions was established for project members to acquire the knowledge and technical skills necessary for mapping the collection. As part of the project's dissemination and replicability strategy, it was decided to open the talks to the general public and especially invite the OSM Colombia and YouthMappers Latin America community to the training cycle. Five (5) training sessions were held in February and March 2024. The attendance range per talk was between 14 and 30 people, including students, educators, researchers, and institutions from 5 countries in Latin America (Colombia, Brazil, Mexico, Peru, Nicaragua, Chile). 
+The training process covered topics such as data cleaning, mapping project documentation strategies, data import models with QGIS, urban trees and green areas in the OSM ecosystem, and open data licensing. To ensure the project's replicability, a YouTube channel was created with recordings of all the training sessions. A wiki was created documenting the data cleaning process, selected tags, the validation phase, and the import model. 
+For fieldwork preparation, the QGIS program and the QField application were used. Through QGIS, tree data obtained from the university's Environmental Management System were imported, and then each campus of the Universidad Nacional de Colombia - Medellín Campus was divided into quadrants/polygons, with the aim that each member verified the tree data/points in the assigned quadrant. Field data verification was done through the QField application. The qfiel form identifies the mapper with their OSM username, allows them to add new individuals, map dead trees, and delete absent individuals. Information on species, growth habit, condition, and a photo was collected during the recognition. 
+Python code was used to complement the information collected in the field, using the GBIF open repository API to add information about the botanical family for each of the mapped species. 
+After socializing the import in the OSM Colombia community, the data import was carried out by quadrants under the user of each of the project participants, using an import model with QGIS that allows the translation of data into the tags used by the platform.
+
