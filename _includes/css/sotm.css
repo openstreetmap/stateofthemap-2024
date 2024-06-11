@@ -631,6 +631,15 @@ svg.icon {
   margin-bottom: -4px;
 }
 
+#about h4 {
+  font-size: 100%;
+  margin-bottom: 0.25em;
+}
+#about small,
+#about li {
+  font-size: 85%;
+}
+
 
 
 /* Newsletter
