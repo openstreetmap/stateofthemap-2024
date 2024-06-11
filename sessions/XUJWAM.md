@@ -8,7 +8,7 @@ room: "Auditorium 1"
 length: "20"
 time: "Sunday, 10:00"
 time_iso: "2024-09-08T07:00:00Z"
-resources: [{ description: "openrouteservice", url: "/attachments/XUJWAM_openrouteservice.org" },{ description: "HeiGIT", url: "/attachments/XUJWAM_heigit.org" },{ description: "openrouteservice GitHub Code", url: "/attachments/XUJWAM_openrouteservice" }]
+resources: [{ description: "openrouteservice", url: "https://openrouteservice.org" },{ description: "HeiGIT", url: "https://heigit.org" },{ description: "openrouteservice GitHub Code", url: "https://github.com/GIScience/openrouteservice" }]
 recording: False
 ---
 
