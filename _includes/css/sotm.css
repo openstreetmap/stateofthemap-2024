@@ -949,7 +949,13 @@ table.scheduleTable thead th,
 table.scheduleTable tr td:first-child,
 table.scheduleTable tr td.scheduleBreak {
     vertical-align: top;
-    background-color: {{ site.color.primary-light }};
+    /*background-color: {{ site.color.primary-light }};*/
+}
+
+table.scheduleTable,
+table.scheduleTable td,
+table.scheduleTable th {
+    border: 0;
 }
 
 table.scheduleTable span.speaker,
