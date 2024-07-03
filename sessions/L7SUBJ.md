@@ -2,7 +2,7 @@
 layout: session
 title: "Easy Access to ohsome full history OSM contributions using cloud hosted GeoParquet"
 code: "L7SUBJ"
-speaker_names: ['Benjamin Herfort']
+speaker_names: ['Benjamin Herfort', 'Rafael Troilo', 'Michael Auer']
 affiliations: None
 room: "Workshops"
 length: "60"
