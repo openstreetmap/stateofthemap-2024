@@ -7,13 +7,13 @@ headings: "kenya,getting-to,moving-around,accommodation,conference-venue,healthc
 
 <h2 class='space-bottom1' id='kenya'>Kenya</h2>
 
-Kenya is a vibrant and diverse East African nation with beautiful landscapes and rich cultures. The country, nestled on the equator, has amazing infrastructure, and its citizens are welcoming and friendly. 
+Kenya is a vibrant and diverse East African nation with beautiful landscapes and rich cultures. The country, nestled on the equator, has amazing infrastructure, and its citizens are welcoming and friendly.
 
 <h3 id='nairobi'>Nairobi</h3>
 
 Nairobi is Kenya's capital and largest city, with an estimated population of 5,325,160 as of 2023. It serves as the country's economic, political, and cultural heart. The metropolis is located in the south-central part of Kenya and is the biggest city in Eastern Africa, making it a very ethnically and culturally diverse city where all the major ethnic tribes reside, besides Asians, Europeans, and expatriates. It also serves as the entry point to many African countries.
 
-Nairobi is a hub for many international organisations and a gateway to some of Africa's most renowned national parks and wildlife reserves. The city has cultural attractions like museums, art galleries, and vibrant street markets. Visitors can savour a wide range of cuisines from both local and international food chains. Whether you are interested in history, wildlife, or shopping, Nairobi is the city.  
+Nairobi is a hub for many international organisations and a gateway to some of Africa's most renowned national parks and wildlife reserves. The city has cultural attractions like museums, art galleries, and vibrant street markets. Visitors can savour a wide range of cuisines from both local and international food chains. Whether you are interested in history, wildlife, or shopping, Nairobi is the city.
 
 The city has successfully hosted some major conferences, including Africa Climate Summit  (2023), UN Environment Assembly 5 (2022), RCMRD International Conference (2023), amongst many other regional and global events.
 
@@ -87,8 +87,7 @@ Nairobi is a quite welcoming city in general, but not every corner is [safe](htt
 
 The conference will try to provide sufficient information about personal safety in Nairobi. Aditionally, local volunteers can give further advice, answer your questions and help.
 
-LGBTQ community members are allowed to enter Kenya but it is important to mention that the nation is conservative when it comes to traditions and practices and therefore public showcasing of such related acts might expose one to public criticism. Unfortunately, there are no proper legal frameworks to protect this group of people.
-
+LGBTQ community members are allowed to enter Kenya but it is important to mention that the nation is conservative when it comes to traditions and practices and therefore public showcasing of such related acts might expose one to public criticism. Kenyan law criminalizes same-sex sexual activity. Enforcement of the law is rare but restrained behaviour in public is nonetheless advised. LGBTQI+ advocacy organizations, such as the Gay and Lesbian Coalition of Kenya, do have been permitted to register and conduct activities. Please also consult the travel advisories of your home country before coming.
 
 
 <h2 class='space-bottom1' id='internet'>Internet</h2>
