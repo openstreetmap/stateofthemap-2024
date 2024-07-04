@@ -73,7 +73,7 @@ The University of Nairobi (UON) has excellent structural infrastructures, includ
 
 <h2 class='space-bottom1' id='healthcare'>Public Healthcare</h2>
 
-Kenya as a country falls within the tropics therefore experiences comfortable climatic conditions which are favourable for a host of disease causing organisms. One might experience mosquitoes and other microorganisms within the ecosystem but Nairobi is not a Malaria prone zone, neither is the city at risk of any organism-caused health risks. It is important to note that any guests or persons should be responsible for their personal hygiene to avoid any unforeseen situations.
+Kenya as a country falls within the tropics therefore experiences comfortable climatic conditions which are favourable for a host of disease causing organisms. One might experience mosquitoes and other microorganisms within the ecosystem but Nairobi is not a malaria prone zone, neither is the city at risk of any organism-caused health risks. It is important to note that any guests or persons should be responsible for their personal hygiene to avoid any unforeseen situations.
 
 **Tap Water should not be ingested unless clearly indicated otherwise.**
 
