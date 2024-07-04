@@ -96,5 +96,5 @@ The venue provides you with reliable and convenient internet connectivity. Howev
 
 The SIM card you purchase will not only enable you to communicate, but also act as an e-wallet that allows you to make financial transactions across many shops, supermarkets, and pay for various services. You would be amazed at the digital literacy amongst Kenyans and how they have embraced technology that enables them to accept mobile based payments, and/or hard cash. You can also enjoy the convenience of online shopping by using mobile apps like Glovo and Jumia Online Shopping. Getting food and other essentials delivered to your door is also an option with available options from outlets like Foodplus, Naivas & Carrefour.
 
-Moreover, you can also access online medical services through platforms like myDawa & Ponea health,which offer you quick access to professional consultation, drug dispensation and delivery with much ease.
+Moreover, you can also access online medical services through platforms like myDawa & Ponea health, which offer you quick access to professional consultation, drug dispensation and delivery with much ease.
 
