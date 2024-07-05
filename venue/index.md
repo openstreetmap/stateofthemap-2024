@@ -73,7 +73,7 @@ The University of Nairobi (UON) has excellent structural infrastructures, includ
 
 <h2 class='space-bottom1' id='healthcare'>Public Healthcare</h2>
 
-Kenya as a country falls within the tropics therefore experiences comfortable climatic conditions which are favourable for a host of disease causing organisms. One might experience mosquitoes and other microorganisms within the ecosystem but Nairobi is not a Malaria prone zone, neither is the city at risk of any organism-caused health risks. It is important to note that any guests or persons should be responsible for their personal hygiene to avoid any unforeseen situations.
+Kenya as a country falls within the tropics therefore experiences comfortable climatic conditions which are favourable for a host of disease causing organisms. One might experience mosquitoes and other microorganisms within the ecosystem but Nairobi is not a malaria prone zone, neither is the city at risk of any organism-caused health risks. It is important to note that any guests or persons should be responsible for their personal hygiene to avoid any unforeseen situations.
 
 **Tap Water should not be ingested unless clearly indicated otherwise.**
 
@@ -96,5 +96,5 @@ The venue provides you with reliable and convenient internet connectivity. Howev
 
 The SIM card you purchase will not only enable you to communicate, but also act as an e-wallet that allows you to make financial transactions across many shops, supermarkets, and pay for various services. You would be amazed at the digital literacy amongst Kenyans and how they have embraced technology that enables them to accept mobile based payments, and/or hard cash. You can also enjoy the convenience of online shopping by using mobile apps like Glovo and Jumia Online Shopping. Getting food and other essentials delivered to your door is also an option with available options from outlets like Foodplus, Naivas & Carrefour.
 
-Moreover, you can also access online medical services through platforms like myDawa & Ponea health,which offer you quick access to professional consultation, drug dispensation and delivery with much ease.
+Moreover, you can also access online medical services through platforms like myDawa & Ponea health, which offer you quick access to professional consultation, drug dispensation and delivery with much ease.
 
