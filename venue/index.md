@@ -32,6 +32,9 @@ Kenya’s national language is English. The official language is Swahili which i
 
 Jomo Kenyatta International Airport (JKIA)  is an international airport serving Nairobi and Africa’s premier hub and ideal gateway into and out of East and Central Africa. The airport is situated 18km from the central business district and is the largest and busiest aviation facility in East Africa. It is the hub of Kenya Airways, the national flag carrier, Jambojet, and serves over 40 passenger airlines, including Ethiopian Airlines, Qatar Airways, KLM, Lufthansa, RwandAir. Alternative international aviation facilities are Kisumu International Airport, Eldoret International Airport, and Moi International Airport in Mombasa, with the rest spread across Kenyan regions.
 
+Note that single-use plastic bags are prohibited in Kenya. If you
+are travelling to Kenya, single use plastic bags will be confiscated at the airport. Please consider using alternative such as reusable bags instead.
+
 <h3>Bus Travel Within East and Southern Africa</h3>
 
 Road transport is commonly used within East African countries on a daily basis because of the good road infrastructure, security, and cost effectiveness. The recent infrastructural developments and easened custom borders process have made bus travelling easier in other neighbouring regions of south and central Africa.
