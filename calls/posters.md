@@ -23,7 +23,7 @@ For inspiration, see the posters from previous State of the Maps (e.g. [SotM 202
 
 ## How to enter
 
-* Upload your poster via https://files.osmfoundation.org/s/5gMewMw6FTFHF7A
+* Upload your poster via [this upload form](https://files.osmfoundation.org/s/5gMewMw6FTFHF7A)
 * File size maximum 30-40 MB
 * Format: PDF
 * Please  email sotm@openstreetmap.org with a description of your poster. For  example, the background of the project or whatever you consider  important to mention in the context of the poster – all that you would  tell people if you show them your poster. We will publish this text  together with the poster on the SotM website.
