@@ -55,6 +55,7 @@ Kenya as a country is such a welcoming state with open borders for most countrie
 
 To obtain a Visa to visit Kenya, one needs a valid passport and a Yellow fever vaccination certificate, as required by the government [ministry of health](https://health.go.ke/incoming-travellers). The eVisa can be acquired through the [online platform](https://evisa.go.ke). The eVisa should be made available between 2- 14 days after application and making the necessary payment. NB: Visas can also be acquired on arrival at the airport.
 
+If you would like to get an invitation letter from the conference organization comittee for your visa application process, please contact us at [sotm@openstreetmap.org](mailto:sotm@openstreetmap.org) with your details.
 
 <h2 class='space-bottom1' id='accommodation'>Accommodation</h2>
 
