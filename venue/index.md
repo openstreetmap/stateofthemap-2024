@@ -2,7 +2,7 @@
 layout: page-with-toc
 #title: Venue &amp; Transportation
 title: Host City
-headings: "kenya,getting-to,moving-around,accommodation,conference-venue,healthcare,safety,internet"
+headings: "kenya,getting-to,visa,moving-around,accommodation,conference-venue,healthcare,safety,internet"
 ---
 
 <h2 class='space-bottom1' id='kenya'>Kenya</h2>
@@ -39,6 +39,16 @@ are travelling to Kenya, single use plastic bags will be confiscated at the airp
 
 Road transport is commonly used within East African countries on a daily basis because of the good road infrastructure, security, and cost effectiveness. The recent infrastructural developments and easened custom borders process have made bus travelling easier in other neighbouring regions of south and central Africa.
 
+
+<h2 class='space-bottom1' id='visa'>Visa</h2>
+
+Kenya as a country is such a welcoming state with open borders for most countries worldwide. In early 2024, there have been some changes in the Visa [requirement](https://immigration.ecitizen.go.ke/index.php?id=6) and [aquisition process](https://immigration.go.ke/border-management/arrival-procedures-and-the-responsibility-of-travelers-on-arrival/) for Kenya: Foreign citizens are allowed entry into Kenya once they acquire an electronic travel authorization (ETA / eVisa). Citizens of [East Africa Community](https://www.eac.int/) member states are exempt from this requirement.
+
+To obtain a Visa to visit Kenya, one needs a valid passport and a Yellow fever vaccination certificate, as required by the government [ministry of health](https://health.go.ke/incoming-travellers). The eVisa can be acquired through the [online platform](https://evisa.go.ke). The eVisa should be made available between 2- 14 days after application and making the necessary payment. NB: Visas can also be acquired on arrival at the airport.
+
+If you would like to get an invitation letter from the conference organization comittee for your visa application process, please contact us at [sotm@openstreetmap.org](mailto:sotm@openstreetmap.org) with your details.
+
+
 <h2 class='space-bottom1' id='moving-around'>Moving around Nairobi</h2>
 
 <h3>Public Transport</h3>
@@ -49,13 +59,6 @@ Nairobi City has a diverse privatised public transport system linking the Centra
 
 Like any other modern city, Nairobi enjoys a series of taxi services that operate 24 hours daily, with some running as international models (including ride-share apps like Uber and Bolt) and some locally owned and operated ones. You can either access the service through mobile phone applications or at some strategicly located places within the city. Taxis are the most convenient form of transport and prove to be safest.
 
-<h2>Visa</h2>
-
-Kenya as a country is such a welcoming state with open borders for most countries worldwide. In early 2024, there have been some changes in the Visa [requirement](https://immigration.ecitizen.go.ke/index.php?id=6) and [aquisition process](https://immigration.go.ke/border-management/arrival-procedures-and-the-responsibility-of-travelers-on-arrival/) for Kenya: Foreign citizens are allowed entry into Kenya once they acquire an electronic travel authorization (ETA / eVisa). Citizens of [East Africa Community](https://www.eac.int/) member states are exempt from this requirement.
-
-To obtain a Visa to visit Kenya, one needs a valid passport and a Yellow fever vaccination certificate, as required by the government [ministry of health](https://health.go.ke/incoming-travellers). The eVisa can be acquired through the [online platform](https://evisa.go.ke). The eVisa should be made available between 2- 14 days after application and making the necessary payment. NB: Visas can also be acquired on arrival at the airport.
-
-If you would like to get an invitation letter from the conference organization comittee for your visa application process, please contact us at [sotm@openstreetmap.org](mailto:sotm@openstreetmap.org) with your details.
 
 <h2 class='space-bottom1' id='accommodation'>Accommodation</h2>
 
@@ -64,6 +67,7 @@ Considering the central location of the host institution, there is a wide range 
 <h3>Food</h3>
 
 Nairobi is a multicultural city, which makes it a hub of diverse culinary experiences, offering a range of options for foodies from local to international dishes. You can find these restaurants within the central business district or outside. Depending on your taste buds for the day, you will find the restaurant that fits.
+
 
 <h2 class='space-bottom1' id='conference-venue'>Venue</h2>
 
@@ -74,6 +78,7 @@ The University of Nairobi (UON) has excellent structural infrastructures, includ
 <div class='space-top2'>
 {% include map.html zoom="15" %}
 </div>
+
 
 <h2 class='space-bottom1' id='healthcare'>Public Healthcare</h2>
 
