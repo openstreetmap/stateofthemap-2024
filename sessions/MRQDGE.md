@@ -2,7 +2,7 @@
 layout: session
 title: "Photo mapping from my village to Pharmacies and Addresses"
 code: "MRQDGE"
-speaker_names: ['Yvonne']
+speaker_names: ['Yvonne Darko']
 affiliations: None
 room: "Auditorium 2"
 length: "20"
