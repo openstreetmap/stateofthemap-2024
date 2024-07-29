@@ -1172,7 +1172,210 @@
       "updated": "2024-07-01T20:22:14.705781+00:00",
       "state": null
     },
-    null
+    {
+      "code": "PG3K3G",
+      "id": 1054141,
+      "title": "Assessing the performance of AI-assisted mapping of building footprints for OSM",
+      "abstract": "fAIr is an open AI-assisted mapping service developed by the Humanitarian OpenStreetMap Team (HOT), with the aim of improving and assisting mapping for humanitarian aid and disaster relief. The proposal illustrates the research undertaken to assess the performance of fAIR underlining ML model training, from the training datasets selection process, the choice of the metrics used to measure accuracy, and finally the analysis of the results obtained testing for different metrics. The research falls within the broader spectrum of research on understanding the fine tuning process for geographic domain adaptation in image analysis validation, particularly for building footprints detection.",
+      "speakers": [
+        "ZHPUPT"
+      ],
+      "track": null,
+      "start": "2024-09-08T09:30:00+03:00",
+      "end": "2024-09-08T09:50:00+03:00",
+      "room": 3174,
+      "duration": 20,
+      "updated": "2024-07-29T06:51:04.028761+00:00",
+      "state": null
+    },
+    {
+      "code": "R9CVQD",
+      "id": 1054148,
+      "title": "Assessing the attribute accuracy and logical consistency of road data in OpenStreetMap",
+      "abstract": "Our work aims to assess OSM road data quality with a focus on car driving. Current work-in-progress proposed indicators to assess attribute accuracy, with a focus on speed limits and methods for estimating the logical consistency of road data.",
+      "speakers": [
+        "VV7SZN"
+      ],
+      "track": null,
+      "start": "2024-09-08T10:00:00+03:00",
+      "end": "2024-09-08T10:20:00+03:00",
+      "room": 3174,
+      "duration": 20,
+      "updated": "2024-07-29T06:51:17.974646+00:00",
+      "state": null
+    },
+    {
+      "code": "LAZXYU",
+      "id": 1054144,
+      "title": "From Complexity to Clarity: Simplifying OpenStreetMap Data for Improved Active Transportation Analysis",
+      "abstract": "OpenStreetMap (OSM) provides detailed street networks essential for analyzing active transportation (AT) infrastructure. However, the granularity and inconsistencies in OSM data pose challenges in modeling AT users' movements at the street level. This study proposes a novel methodology to generate axial networks for AT users using OSM data, simplifying the network while preserving topology. Applied to cities like Turin, Tel Aviv, and San Francisco, this approach effectively streamlined pedestrian and bicycle networks. The proposed methodology can enhance AT infrastructure, contributing to safer and more efficient urban mobility.",
+      "speakers": [
+        "RSVU7F"
+      ],
+      "track": null,
+      "start": "2024-09-08T10:30:00+03:00",
+      "end": "2024-09-08T10:50:00+03:00",
+      "room": 3174,
+      "duration": 20,
+      "updated": "2024-07-29T06:51:33.185765+00:00",
+      "state": null
+    },
+    {
+      "id": 1007290,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2024-09-08T08:00:00Z",
+      "end": "2024-09-08T11:30:00+03:00",
+      "room": 3174
+    },
+    {
+      "code": "VFUBCD",
+      "id": 1054140,
+      "title": "Analyzing the Spatial Distribution of Fuel Stations in Harare, Zimbabwe: Leveraging OpenStreetMap for Disaster Preparedness, Mitigation and Recovery.",
+      "abstract": "Whether they are man-made or natural, disasters pose serious risks to communities all over the world. A comprehensive evaluation of gasoline station infrastructure is necessary to ensure public safety and reduce fire dangers. This research, which focuses on Harare, Zimbabwe, uses Geographic Information Systems (GIS) to examine building patterns and access building footprints, road networks, and public facilities using the OpenStreetMap Database. Fuel station mapping and dataset overlaying allow to define fire risk levels that are susceptible to fire hazards and identify danger zones. This study supports risk management, public safety, disaster preparedness, and mitigation initiatives in Harare, Zimbabwe.",
+      "speakers": [
+        "CPZYT7"
+      ],
+      "track": null,
+      "start": "2024-09-08T11:30:00+03:00",
+      "end": "2024-09-08T11:40:00+03:00",
+      "room": 3174,
+      "duration": 10,
+      "updated": "2024-07-29T06:51:50.986393+00:00",
+      "state": null
+    },
+    {
+      "code": "MKPJFW",
+      "id": 1054143,
+      "title": "Analysis of renewable energy infrastructure representations in OpenStreetMap",
+      "abstract": "The research evaluates the accuracy and completeness of wind and solar energy infrastructure data in OpenStreetMap (OSM) for Belgium and Ireland, identifying common mapping errors and proposing techniques to enrich available data. By combining OSM data with CORINE Land Cover inventory, we study land use patterns around renewable energy infrastructures, facilitating environmental planning.",
+      "speakers": [
+        "JMPFTG"
+      ],
+      "track": null,
+      "start": "2024-09-08T11:40:00+03:00",
+      "end": "2024-09-08T11:50:00+03:00",
+      "room": 3174,
+      "duration": 10,
+      "updated": "2024-07-29T06:51:59.850931+00:00",
+      "state": null
+    },
+    {
+      "code": "HD9RQD",
+      "id": 1054142,
+      "title": "Shifting trends in global evolution of corporate mapping in OSM",
+      "abstract": "This talk will look at corporate editing in OSM at three scales - global, national and local. Our results show that corporate editing increased from 2016 to 2021, but has decreased since then. Nevertheless, in recent years there has been a diversification of corporations, with an increase in edits from Digital Egypt or Grab and other smaller corporations. Corporate mapping tends to focus more on high and medium HDI regions, but our results also suggest that there is only a small influence of corporate mapping dynamics on other parts of the OSM mapping community in a country.",
+      "speakers": [
+        "E8WPXD"
+      ],
+      "track": null,
+      "start": "2024-09-08T12:00:00+03:00",
+      "end": "2024-09-08T12:20:00+03:00",
+      "room": 3174,
+      "duration": 20,
+      "updated": "2024-07-29T06:52:14.135675+00:00",
+      "state": null
+    },
+    {
+      "code": "SHA79S",
+      "id": 1054147,
+      "title": "Investigating Corporate Editors in OpenStreetMap",
+      "abstract": "A discussion of the results of a survey distributed to corporate editors working in OSM.",
+      "speakers": [
+        "FCGY3G"
+      ],
+      "track": null,
+      "start": "2024-09-08T12:30:00+03:00",
+      "end": "2024-09-08T12:50:00+03:00",
+      "room": 3174,
+      "duration": 20,
+      "updated": "2024-07-29T06:52:19.336856+00:00",
+      "state": null
+    },
+    {
+      "id": 1007291,
+      "title": {
+        "en": "Lunch Break"
+      },
+      "start": "2024-09-08T10:00:00Z",
+      "end": "2024-09-08T14:30:00+03:00",
+      "room": 3174
+    },
+    {
+      "code": "NQHRLV",
+      "id": 1054138,
+      "title": "CRISIS MAPPING: TEACHING HIGH SCHOOL ELL STUDENTS HOW TO MAKE MAPS THAT SAVE LIVES",
+      "abstract": "This paper presents the learning outcomes of a Mini-Mapathon course developed, implemented, and evaluated for the first time in a population of 28 Asian Junior high school ELL students in three Human Geography courses at an international high school. The paper includes an introduction to crisis mapping and concludes with an analysis of students’ knowledge and skill gains, and attitudes towards map making.  Students’ survey responses were analyzed using mixed methods.  In conclusion, the paper proposes that the Mini-Mapathon course could be implemented in other schools with a larger sample size to investigate learning outcomes.",
+      "speakers": [
+        "P37CFN"
+      ],
+      "track": null,
+      "start": "2024-09-08T14:30:00+03:00",
+      "end": "2024-09-08T14:40:00+03:00",
+      "room": 3174,
+      "duration": 10,
+      "updated": "2024-07-29T06:52:30.656502+00:00",
+      "state": null
+    },
+    {
+      "code": "TXYEFS",
+      "id": 1054139,
+      "title": "The role of crowd-mapping in post-emergency humanitarian operations",
+      "abstract": "Following a theoretical and methodological analysis of the scientific literature on PGIS, this study aims to explore the unexplored potential of the connections between PGIS (using OSM) and digital humanitarianism, as well as the empirical references from a case study in Morocco.",
+      "speakers": [
+        "JHKNEZ"
+      ],
+      "track": null,
+      "start": "2024-09-08T14:40:00+03:00",
+      "end": "2024-09-08T14:50:00+03:00",
+      "room": 3174,
+      "duration": 10,
+      "updated": "2024-07-29T06:52:35.172385+00:00",
+      "state": null
+    },
+    {
+      "code": "FSYR9S",
+      "id": 1054146,
+      "title": "What happens when VGI is threatened? A systems perspective analysis of the events behind the introduction of rate limiting in OpenStreetMap",
+      "abstract": "This talk presents a systems perspective analysis of events in October-November 2023 which started with large-scale vandalism of OpenStreetMap data in Israel and ended with the introduction of rate limiting. Noting how the project reacted in face of this unique situation and the undermining of its basic assumptions facilitating the project helps uncover resilience- and vulnerability-inducing mechanisms within it, to characterize the range of possible external influences on the project, and assess their possible outcomes.",
+      "speakers": [
+        "3UBLLA",
+        "HN77EN"
+      ],
+      "track": null,
+      "start": "2024-09-08T15:00:00+03:00",
+      "end": "2024-09-08T15:20:00+03:00",
+      "room": 3174,
+      "duration": 20,
+      "updated": "2024-07-29T06:52:42.659317+00:00",
+      "state": null
+    },
+    {
+      "code": "CDT3PZ",
+      "id": 1054145,
+      "title": "Beyond the seventh mountain, beyond the seventh river - Openstreetmap as a base map in geographical research",
+      "abstract": "Openstreet map has for a long time been treated as a road map, enabling you to find a route between two points, as well as an information map, gathering various points of interests.\r\nTogether with students of the UKEN University from Krakow, we decided to look at the use of OSM as a environmental map also showing the transformation of space by humans.",
+      "speakers": [
+        "WVTSJD"
+      ],
+      "track": null,
+      "start": "2024-09-08T15:30:00+03:00",
+      "end": "2024-09-08T15:50:00+03:00",
+      "room": 3174,
+      "duration": 20,
+      "updated": "2024-07-29T06:52:47.960732+00:00",
+      "state": null
+    },
+    {
+      "id": 1007292,
+      "title": {
+        "en": "Coffe Break"
+      },
+      "start": "2024-09-08T13:00:00Z",
+      "end": "2024-09-08T16:30:00+03:00",
+      "room": 3174
+    }
   ],
   "version": "0.3.0",
   "timezone": "Africa/Nairobi",
@@ -1234,8 +1437,7 @@
       },
       "description": "",
       "color": "#49EC19"
-    },
-    null
+    }
   ],
   "rooms": [
     {
@@ -1543,6 +1745,65 @@
       "name": "Rafael Troilo",
       "avatar": ""
     },
-    null
+    {
+      "code": "WVTSJD",
+      "name": "Paweł Struś",
+      "avatar": ""
+    },
+    {
+      "code": "HN77EN",
+      "name": "Marco Minghini",
+      "avatar": "https://pretalx.com/media/avatars/Marco_Helsinki_rsYwHCA.png"
+    },
+    {
+      "code": "ZHPUPT",
+      "name": "Anna Zanchetta",
+      "avatar": ""
+    },
+    {
+      "code": "CPZYT7",
+      "name": "Kingsley Chika CHUKWU",
+      "avatar": "https://pretalx.com/media/avatars/Kingsley_Chika_CHUKWU_1_OyQc1yq.jpg"
+    },
+    {
+      "code": "RSVU7F",
+      "name": "Achituv Cohen",
+      "avatar": "https://pretalx.com/media/avatars/me_3_24_v84j6ZB.png"
+    },
+    {
+      "code": "E8WPXD",
+      "name": "Benjamin Herfort",
+      "avatar": "https://pretalx.com/media/avatars/hegit_herfort.benjamin_4zBFLGD.jpg"
+    },
+    {
+      "code": "JMPFTG",
+      "name": "Luisa Lo Presti",
+      "avatar": ""
+    },
+    {
+      "code": "3UBLLA",
+      "name": "Yair Grinberger & Marco Minghini",
+      "avatar": ""
+    },
+    {
+      "code": "P37CFN",
+      "name": "Dr. Joel Thomas",
+      "avatar": "https://pretalx.com/media/avatars/unnamed_wSscOp1.JPG"
+    },
+    {
+      "code": "FCGY3G",
+      "name": "Alex Hoferek",
+      "avatar": "https://pretalx.com/media/avatars/HVFOE1428_6K5WS8k.JPG"
+    },
+    {
+      "code": "JHKNEZ",
+      "name": "Valeria Rossi",
+      "avatar": "https://pretalx.com/media/avatars/foto_profilo_linkedin_S6wVQbS.PNG"
+    },
+    {
+      "code": "VV7SZN",
+      "name": "Wangshu Wang",
+      "avatar": "https://pretalx.com/media/avatars/wangshu1_PPFjpCv.jpg"
+    }
   ]
 }
