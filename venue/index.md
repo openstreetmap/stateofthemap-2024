@@ -105,14 +105,22 @@ Stay informed about any specific health advisories before travelling, and consul
 
 <h2 class='space-bottom1' id='safety'>Personal Safety</h2>
 
-Nairobi is a quite welcoming city in general, but not every corner is [safe](https://www.gov.uk/foreign-travel-advice/kenya/safety-and-security#crime): mugging, robbery and carjacking are frequent incidents. One should consider the company of a local person to visit most places around the city, especially Eastleigh, Central Business District, Mathare, Kibera and slum areas, as well as isolated areas in general. You might be at higher risk of attracting muggers if you appear to be in ownership of expensive items. Be vigilant at all times, but especially so around bus stations, railway stations and airports. Also be aware of thieves posing as police officers and private security guards.
+While in Nairobi, please remain vigilant and aware of your surroundings. Avoid displaying valuable items and be cautious when using public transportation or walking alone, especially after dark—Utilise reputable taxi services or rideshare apps rather than hailing cabs from the street. Keep your belongings secure and be mindful of pickpockets in crowded areas. Avoid speaking with strangers and be cautious of unsolicited offers or assistance.
 
-**Should you get attacked, do not resist! In an emergency, contact the emergency services on 999 or 112.**
+In an emergency, contact local authorities via 999 or 112 or our on-site support team immediately. 
 
-The conference will try to provide sufficient information about personal safety in Nairobi. Aditionally, local volunteers can give further advice, answer your questions and help.
+LGBTQ+ community members are allowed to enter Kenya; still, it is vital to note that you may face unique challenges, and it is important to exercise discretion and awareness of local social norms. Kenyan law criminalises same-sex sexual activity; however, enforcement of the law is rare, but restrained behaviour in public is nonetheless advised. Nairobi has a more progressive outlook compared to other regions in the country, and there is a growing LGBTQ+ community and support organisations such as the National Gay and Lesbian Human Rights Commission (NGLHRC) and Gay and Lesbian Coalition of Kenya(GALCK+) within the city. The SotM committee also has a zero-tolerance policy on discrimination, harassment or any form of mistreatment; please reach out in case of any incidences.
 
-LGBTQ community members are allowed to enter Kenya but it is important to mention that the nation is conservative when it comes to traditions and practices and therefore public showcasing of such related acts might expose one to public criticism. Kenyan law criminalizes same-sex sexual activity. Enforcement of the law is rare but restrained behaviour in public is nonetheless advised. LGBTQI+ advocacy organizations, such as the Gay and Lesbian Coalition of Kenya, do have been permitted to register and conduct activities. Please also consult the travel advisories of your home country before coming.
+<h3>Tourism</h3>
 
+Kenya is a popular tourist destination throughout the year. Tourist attractions range from the white sandy beaches at the coast to scenic landscapes, memorable mountain expeditions and the majestic beauty of a wide variety of flora and fauna. Kindly visit [“48 Hours in Nairobi: A Short Guide to the Magical City For The Active Traveller”](https://tinyurl.com/NBOTourismGuide).
+
+Most of the listed places can be accessed via a taxi; however, if you plan to visit a series of locations, we recommend booking with a local travel agency for easier facilitation. The month of September is also known for the great wildebeest migration in the savannah of the Maasai Mara, in case you might wish to spend a few more days in Kenya.
+
+
+<h3>Food</h3>
+
+Nairobi is a multicultural city, which makes it a hub of diverse culinary experiences, offering a range of options for foodies from local to international dishes. You can find these restaurants within the central business district or outside. Depending on your taste buds for the day, you will find the restaurant that fits.
 
 
 <h2 class='space-bottom1' id='getting-to'>Getting to Nairobi</h2>
@@ -128,30 +136,55 @@ are travelling to Kenya, single use plastic bags will be confiscated at the airp
 
 Road transport is commonly used within East African countries on a daily basis because of the good road infrastructure, security, and cost effectiveness. The recent infrastructural developments and easened custom borders process have made bus travelling easier in other neighbouring regions of south and central Africa.
 
+<h2>Getting to Nairobi</h2>
 
-<h2 class='space-bottom1' id='visa'>Visa</h2>
+<h3 class='space-bottom1' id='visa'>Visa</h3>
 
-Kenya as a country is such a welcoming state with open borders for most countries worldwide. In early 2024, there have been some changes in the Visa [requirement](https://immigration.ecitizen.go.ke/index.php?id=6) and [aquisition process](https://immigration.go.ke/border-management/arrival-procedures-and-the-responsibility-of-travelers-on-arrival/) for Kenya: Foreign citizens are allowed entry into Kenya once they acquire an electronic travel authorization (ETA / eVisa). Citizens of [East Africa Community](https://www.eac.int/) member states are exempt from this requirement.
+Beginning in January 2024, the Government of Kenya has introduced an electronic travel authorisation (eTA) requirement for all non-East African residents travelling into Kenya. This means that any traveller who is not a citizen/resident of the East African Partner States, i.e. Burundi, Democratic Republic of Congo, Rwanda, South Sudan, Tanzania and Uganda, must apply for the eTA if they intend to travel to Kenya. The eTA is also mandatory for travellers of any other nationality who previously enjoyed visa-free travel to Kenya, do not hold a Diplomatic or similar passport or possess Kenyan work permits. 
 
-To obtain a Visa to visit Kenya, one needs a valid passport and a Yellow fever vaccination certificate, as required by the government [ministry of health](https://health.go.ke/incoming-travellers). The eVisa can be acquired through the [online platform](https://evisa.go.ke). The eVisa should be made available between 2- 14 days after application and making the necessary payment. NB: Visas can also be acquired on arrival at the airport.
+The application for the eTA is online only via the official Government of Kenya [eTA portal](https://www.etakenya.go.ke/en). It costs $34.
 
-If you would like to get an invitation letter from the conference organization comittee for your visa application process, please contact us at [sotm@openstreetmap.org](mailto:sotm@openstreetmap.org) with your details.
+Travellers are required to apply for Kenya electronic travel authorisation (eTA) before departure. While it is indicated that it takes approximately 3 days to process your eTA, we recommend applying as soon as possible and at least 1 week before your travel date. 
+
+If you would like to get an invitation letter from the conference organisation committee for your visa application process, please contact us at [sotm@openstreetmap.org](mailto:sotm@openstreetmap.org) with your details.
+
+<h3>Vaccination</h3>
+
+Travellers are responsible for complying with any travel measures stipulated by their country of departure, destination, and the respective airline.
+
+If you are travelling from yellow fever-endemic countries, you are required to have valid vaccination certificates (vaccinated ten (10) days before your departure date).
+
+We recommend participants to consult their medical practitioner for recommendations for other vaccinations and precautions that may apply to them.
+
+<h3>Custom Regulations</h3>
+
+* Drones and satellite equipment are restricted and require import permission from the Regulatory Authority, the Kenya Civil Aviation Authority. Unfortunately, this lengthy process requires additional support from a licenced entity in Kenya; we recommend working with local drone operators if needed.
+* Single-use plastic bags are banned in Kenya. If you are travelling to Kenya, single-use plastic bags will be confiscated at the border and airport. Please consider using alternatives such as reusable bags instead.
+
+<h3>Flights</h3>
+
+Jomo Kenyatta International Airport (JKIA) provides air connections to various airports worldwide. The airport is on the outskirts of the city. It takes around 35 minutes to reach the city centre by Cab/Taxi.
+
+<h3>Bus Travel Within East and Soutern Africa</h3>
+
+Road transport is commonly used across East African countries daily as a cost-effective option. Residents from Tanzania, Zanzibar, Uganda, and Rwanda can travel to Nairobi by bus. Here are some options that we recommend:
+
+Bus Company | Route | Link
+------------|-------|-----
+Tahmeed | Nairobi - Arusha - Moshi - Dar es Salaam | [https://www.tahmeedexpress.com/](https://www.tahmeedexpress.com/)
+DarLux | Nairobi - Arusha - Moshi - Dar es Salaam | [https://darlux-booking-and-parcels-office.business.site/](https://darlux-booking-and-parcels-office.business.site/)
+Farry | Zanzibar - Dar es Salaam | [https://azammarine.com/rates/](https://azammarine.com/rates/)
+Trinity Express | Nairobi - Kigali / Kampala |
+Buupass | Nairobi - Kampala | [https://buupass.com/booking](https://buupass.com/booking)
+Modern Coast | Nairobi to various East African cities | [https://www.modern.co.ke/](https://www.modern.co.ke/)
+Jaguar | Goma to Kampala | [https://www.busbusgo.com/en/bus_timetable-Kampala_Goma.html](https://www.busbusgo.com/en/bus_timetable-Kampala_Goma.html)
+
+If travelling by bus, we also recommend:
+* Travelling in groups; please check if other members from your OSM community are travelling by bus. 
+* If possible, kindly book your travel so that you arrive a day or two before the conference as these are quite long and tiring journeys.
 
 
-<h2 class='space-bottom1' id='accommodation'>Accommodation</h2>
+<h3 class='space-bottom1' id='accommodation'>Accommodation</h3>
 
 Considering the central location of the host institution, there is a wide range of accommodation services ranging from hotels, Airbnbs, and shared hostels, all with a huge range of amenities including swimming pools, rooftop restaurants, spa and health club and airport shuttle. All these facilities are spread within the city, with easy access to main roads, with others as close as walking distance from the university. Both hotels and Airbnb can rate from as low as $20 for a bed and breakfast, and hostels that can be as low as $15 a night.
-
-<h3>Food</h3>
-
-Nairobi is a multicultural city, which makes it a hub of diverse culinary experiences, offering a range of options for foodies from local to international dishes. You can find these restaurants within the central business district or outside. Depending on your taste buds for the day, you will find the restaurant that fits.
-
-
-<h2 class='space-bottom1' id='internet'>Internet</h2>
-
-The venue provides you with reliable and convenient internet connectivity. However, we advise you to have a personal internet/data plan as backup plan in case of any glitches like in the case of not being within WiFi reach. You can easily purchase a new Safaricom (largest telecommunication provider) SIM card at the airport or any of their shop outlets in Nairobi town CBD. Safaricom offers you fast internet services and various data plans that start from as low as $5. You have the freedom to choose from other service providers such as Airtel and Telkom Kenya, who also offer good internet packages and data plans. The best practice is to download the mobile app for a given service provider from the google play store then proceed to purchase the desired data plan.
-
-The SIM card you purchase will not only enable you to communicate, but also act as an e-wallet that allows you to make financial transactions across many shops, supermarkets, and pay for various services. You would be amazed at the digital literacy amongst Kenyans and how they have embraced technology that enables them to accept mobile based payments, and/or hard cash. You can also enjoy the convenience of online shopping by using mobile apps like Glovo and Jumia Online Shopping. Getting food and other essentials delivered to your door is also an option with available options from outlets like Foodplus, Naivas & Carrefour.
-
-Moreover, you can also access online medical services through platforms like myDawa & Ponea health, which offer you quick access to professional consultation, drug dispensation and delivery with much ease.
 
