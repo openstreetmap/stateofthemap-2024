@@ -916,8 +916,8 @@
     {
       "code": "NHZVNW",
       "id": 1038049,
-      "title": "How to develop your own style of OpenMapTiles with your favarite editor?",
-      "abstract": "This presentation introduces How to develop your own style of OpenMapTiles for MapLibre GL from scratch with *your favarite editor*.\r\n\r\n- Introduce of OpenMapTiles schema.\r\n- Introduce of Charites to use your favarite editor.\r\n- Introduce of other tools to compile JSON format for MapLibre GL.\r\n\r\nThis presentation describes with how to use command line tools to create MapLibre GL style.\r\nI recommend to use UNIX based operation system or Raspberry Pi.\r\nThe editors supports VS Code, Emacs, or Vim.",
+      "title": "How to develop your own style of OpenMapTiles with your favorite editor?",
+      "abstract": "This presentation introduces how to develop your own style of OpenMapTiles for MapLibre GL from scratch with *your favorite editor*.\r\n\r\n- Introduce of OpenMapTiles schema.\r\n- Introduce of Charites to use your favorite editor.\r\n- Introduce of other tools to compile JSON format for MapLibre GL.\r\n\r\nThis presentation describes with how to use command line tools to create MapLibre GL style.\r\nI recommend to use UNIX based operation system or Raspberry Pi.\r\nThe editors supports VS Code, Emacs, or Vim.",
       "speakers": [
         "QS9XHH"
       ],

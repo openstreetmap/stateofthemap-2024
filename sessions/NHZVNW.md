@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "How to develop your own style of OpenMapTiles with your favarite editor?"
+title: "How to develop your own style of OpenMapTiles with your favorite editor?"
 code: "NHZVNW"
 speaker_names: ['Taro Matsuzawa']
 affiliations: None
@@ -12,10 +12,10 @@ resources: []
 recording: False
 ---
 
-This presentation introduces How to develop your own style of OpenMapTiles for MapLibre GL from scratch with *your favarite editor*.
+This presentation introduces how to develop your own style of OpenMapTiles for MapLibre GL from scratch with *your favorite editor*.
 
 - Introduce of OpenMapTiles schema.
-- Introduce of Charites to use your favarite editor.
+- Introduce of Charites to use your favorite editor.
 - Introduce of other tools to compile JSON format for MapLibre GL.
 
 This presentation describes with how to use command line tools to create MapLibre GL style.
