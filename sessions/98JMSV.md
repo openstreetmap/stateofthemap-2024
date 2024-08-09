@@ -4,7 +4,7 @@ title: "Some Assembly Required"
 code: "98JMSV"
 speaker_names: ['Sarah Hoffmann']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "20"
 time: "Friday, 14:30"
 time_iso: "2024-09-06T11:30:00Z"

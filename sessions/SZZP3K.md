@@ -4,7 +4,7 @@ title: "Mapping Populations, Mobilizations, and Territories in Medellín"
 code: "SZZP3K"
 speaker_names: ['Luis Sebastian Bravo Chacon']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "20"
 time: "Friday, 12:00"
 time_iso: "2024-09-06T09:00:00Z"

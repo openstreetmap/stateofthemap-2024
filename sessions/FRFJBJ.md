@@ -4,7 +4,7 @@ title: "Mapping the classroom with Every Door"
 code: "FRFJBJ"
 speaker_names: ['Ilya Zverev']
 affiliations: None
-room: "Workshops"
+room: "Amboseli Hall"
 length: "60"
 time: "Friday, 14:30"
 time_iso: "2024-09-06T11:30:00Z"

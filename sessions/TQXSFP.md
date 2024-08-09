@@ -4,7 +4,7 @@ title: "From Source to Map: Strategies for Integrating External Data into OpenSt
 code: "TQXSFP"
 speaker_names: ['Amour Nyalusi']
 affiliations: None
-room: "Workshops"
+room: "Amboseli Hall"
 length: "60"
 time: "Sunday, 14:30"
 time_iso: "2024-09-08T11:30:00Z"

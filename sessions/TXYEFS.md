@@ -4,7 +4,7 @@ title: "The role of crowd-mapping in post-emergency humanitarian operations"
 code: "TXYEFS"
 speaker_names: ['Valeria Rossi']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "10"
 time: "Sunday, 14:40"
 time_iso: "2024-09-08T11:40:00Z"

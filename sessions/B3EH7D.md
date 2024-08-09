@@ -4,7 +4,7 @@ title: "Mapping Kenya: 15 Years of Map Kibera and beyond"
 code: "B3EH7D"
 speaker_names: ['Joshua Ogure', 'Erica Hagen']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "40"
 time: "Saturday, 10:00"
 time_iso: "2024-09-07T07:00:00Z"

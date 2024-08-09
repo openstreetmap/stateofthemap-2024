@@ -4,7 +4,7 @@ title: "A Replicable Model for OpenStreetMap Training Programs in High Schools"
 code: "WCFXG7"
 speaker_names: ['Zacharia Muindi', 'Laura Mugeha']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "20"
 time: "Friday, 12:30"
 time_iso: "2024-09-06T09:30:00Z"

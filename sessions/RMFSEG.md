@@ -4,7 +4,7 @@ title: "Fostering mutually beneficial partnerships with OSM local groups"
 code: "RMFSEG"
 speaker_names: ['Martin Noblecourt']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "60"
 time: "Saturday, 17:00"
 time_iso: "2024-09-07T14:00:00Z"

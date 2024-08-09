@@ -4,7 +4,7 @@ title: "Strengthening Collaboration between Organizations and Local Communities 
 code: "MRBEFX"
 speaker_names: ['Jorieke Vyncke', 'Yves Emmanuel NIKOYO EMOUGOU']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "20"
 time: "Friday, 17:30"
 time_iso: "2024-09-06T14:30:00Z"

@@ -4,7 +4,7 @@ title: "Open mapping through tropical forest biodiversity conservation"
 code: "3ZU3ZR"
 speaker_names: ['Luis Sebastian Bravo Chacon']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "20"
 time: "Saturday, 15:30"
 time_iso: "2024-09-07T12:30:00Z"

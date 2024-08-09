@@ -4,7 +4,7 @@ title: "Assessing the attribute accuracy and logical consistency of road data in
 code: "R9CVQD"
 speaker_names: ['Wangshu Wang']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "20"
 time: "Sunday, 10:00"
 time_iso: "2024-09-08T07:00:00Z"

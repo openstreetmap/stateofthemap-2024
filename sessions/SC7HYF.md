@@ -4,7 +4,7 @@ title: "Go Out And Map"
 code: "SC7HYF"
 speaker_names: ['Ilya Zverev']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "20"
 time: "Sunday, 14:30"
 time_iso: "2024-09-08T11:30:00Z"

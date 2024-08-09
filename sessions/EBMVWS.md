@@ -4,7 +4,7 @@ title: "OpenStreetMap and the GDPR"
 code: "EBMVWS"
 speaker_names: ['Andrew Hain']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "20"
 time: "Saturday, 12:30"
 time_iso: "2024-09-07T09:30:00Z"

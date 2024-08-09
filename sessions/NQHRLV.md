@@ -4,7 +4,7 @@ title: "CRISIS MAPPING: TEACHING HIGH SCHOOL ELL STUDENTS HOW TO MAKE MAPS THAT 
 code: "NQHRLV"
 speaker_names: ['Dr. Joel Thomas']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "10"
 time: "Sunday, 14:30"
 time_iso: "2024-09-08T11:30:00Z"

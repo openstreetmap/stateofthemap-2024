@@ -4,7 +4,7 @@ title: "Investigating Corporate Editors in OpenStreetMap"
 code: "SHA79S"
 speaker_names: ['Alex Hoferek']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "20"
 time: "Sunday, 12:30"
 time_iso: "2024-09-08T09:30:00Z"

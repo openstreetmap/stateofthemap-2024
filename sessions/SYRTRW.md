@@ -4,7 +4,7 @@ title: "Lightning Talks II"
 code: "SYRTRW"
 speaker_names: ['SotM Working Group']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "20"
 time: "Saturday, 17:30"
 time_iso: "2024-09-07T14:30:00Z"

@@ -4,7 +4,7 @@ title: "Beyond the seventh mountain, beyond the seventh river - Openstreetmap as
 code: "CDT3PZ"
 speaker_names: ['Paweł Struś']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "20"
 time: "Sunday, 15:30"
 time_iso: "2024-09-08T12:30:00Z"

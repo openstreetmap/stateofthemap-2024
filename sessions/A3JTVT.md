@@ -4,7 +4,7 @@ title: "The OSM Spectrum"
 code: "A3JTVT"
 speaker_names: ['Pragya Pant', 'Rabina Poudyal']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "20"
 time: "Friday, 11:30"
 time_iso: "2024-09-06T08:30:00Z"

@@ -4,7 +4,7 @@ title: "Lightning Talks I"
 code: "87HBBY"
 speaker_names: ['SotM Working Group']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "20"
 time: "Friday, 17:30"
 time_iso: "2024-09-06T14:30:00Z"

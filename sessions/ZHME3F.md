@@ -4,7 +4,7 @@ title: "Improving data homogeneity across a country"
 code: "ZHME3F"
 speaker_names: ['Claire Halleux']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "20"
 time: "Saturday, 12:30"
 time_iso: "2024-09-07T09:30:00Z"

@@ -4,7 +4,7 @@ title: "Get to know OSGeo and expand Your Open Mapping Toolkit"
 code: "98YGWG"
 speaker_names: ['Laura Mugeha']
 affiliations: None
-room: "Workshops"
+room: "Amboseli Hall"
 length: "60"
 time: "Sunday, 09:30"
 time_iso: "2024-09-08T06:30:00Z"

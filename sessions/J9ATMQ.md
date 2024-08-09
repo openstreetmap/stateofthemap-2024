@@ -4,7 +4,7 @@ title: "A Novel Approach to Street-Level Data Collection: Using Customized Bajaj
 code: "J9ATMQ"
 speaker_names: ['benedcto adam']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "20"
 time: "Friday, 15:30"
 time_iso: "2024-09-06T12:30:00Z"

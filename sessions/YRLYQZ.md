@@ -4,7 +4,7 @@ title: "GIS-based disaster management capacity building for Techwomen"
 code: "YRLYQZ"
 speaker_names: ['ASSONGTIA ASSONDJI Merveille']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "20"
 time: "Saturday, 12:00"
 time_iso: "2024-09-07T09:00:00Z"

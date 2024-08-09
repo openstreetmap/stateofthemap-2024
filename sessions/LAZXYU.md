@@ -4,7 +4,7 @@ title: "From Complexity to Clarity: Simplifying OpenStreetMap Data for Improved 
 code: "LAZXYU"
 speaker_names: ['Achituv Cohen']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "20"
 time: "Sunday, 10:30"
 time_iso: "2024-09-08T07:30:00Z"

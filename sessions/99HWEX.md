@@ -4,7 +4,7 @@ title: "Community Capacity Building- Case Study OSM Kenya"
 code: "99HWEX"
 speaker_names: ['Walter Mayeku', 'Mary Muthee']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "40"
 time: "Friday, 16:30"
 time_iso: "2024-09-06T13:30:00Z"

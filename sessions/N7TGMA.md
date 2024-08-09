@@ -4,7 +4,7 @@ title: "Catching OSM Up with External Data with a Workflow and Tools for Conflat
 code: "N7TGMA"
 speaker_names: ['Stefan Keller']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "20"
 time: "Saturday, 17:00"
 time_iso: "2024-09-07T14:00:00Z"

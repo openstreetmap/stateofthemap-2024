@@ -4,7 +4,7 @@ title: "Exporting high-quality Atlas maps in bulk by leveraging OpenStreetMap Da
 code: "AXHHF3"
 speaker_names: ['Johanes Petro Machela']
 affiliations: None
-room: "Workshops"
+room: "Amboseli Hall"
 length: "60"
 time: "Friday, 11:30"
 time_iso: "2024-09-06T08:30:00Z"

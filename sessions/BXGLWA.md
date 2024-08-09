@@ -4,10 +4,10 @@ title: "Cloud-native OSM for Visualization &amp; Analysis"
 code: "BXGLWA"
 speaker_names: ['Sajjad Anwar']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "20"
-time: "Saturday, 12:00"
-time_iso: "2024-09-07T09:00:00Z"
+time: "Saturday, 11:30"
+time_iso: "2024-09-07T08:30:00Z"
 resources: []
 recording: False
 ---

@@ -4,7 +4,7 @@ title: "The worst and best of OpenStreetMap in Ghana (Africa)"
 code: "YNBJGQ"
 speaker_names: ['Enock Seth Nyamador']
 affiliations: None
-room: "Workshops"
+room: "Online Workshops"
 length: "60"
 time: "Sunday, 11:30"
 time_iso: "2024-09-08T08:30:00Z"

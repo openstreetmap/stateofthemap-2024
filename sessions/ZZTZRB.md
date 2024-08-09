@@ -4,7 +4,7 @@ title: "Lightning Talks III"
 code: "ZZTZRB"
 speaker_names: ['SotM Working Group']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "20"
 time: "Sunday, 12:30"
 time_iso: "2024-09-08T09:30:00Z"

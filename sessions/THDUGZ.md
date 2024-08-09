@@ -4,7 +4,7 @@ title: "Using OSM for Development: opportunities and challenges in large agencie
 code: "THDUGZ"
 speaker_names: ['Erica Hagen']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "60"
 time: "Saturday, 14:30"
 time_iso: "2024-09-07T11:30:00Z"

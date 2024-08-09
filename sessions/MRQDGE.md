@@ -4,7 +4,7 @@ title: "Photo mapping from my village to Pharmacies and Addresses"
 code: "MRQDGE"
 speaker_names: ['Yvonne Darko']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "20"
 time: "Friday, 15:00"
 time_iso: "2024-09-06T12:00:00Z"

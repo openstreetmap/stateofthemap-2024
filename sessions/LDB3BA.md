@@ -4,7 +4,7 @@ title: "Sustainable Transport on the Map"
 code: "LDB3BA"
 speaker_names: ['Taylor Reich']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "60"
 time: "Friday, 12:00"
 time_iso: "2024-09-06T09:00:00Z"

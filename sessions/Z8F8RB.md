@@ -4,7 +4,7 @@ title: "Do we need 11 000 shop=* values?"
 code: "Z8F8RB"
 speaker_names: ['Mateusz Konieczny']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "20"
 time: "Sunday, 12:00"
 time_iso: "2024-09-08T09:00:00Z"

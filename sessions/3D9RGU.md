@@ -4,7 +4,7 @@ title: "Setting the Stage for the Future of Web Based Mapping"
 code: "3D9RGU"
 speaker_names: ['Martin Raifer']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "20"
 time: "Friday, 15:00"
 time_iso: "2024-09-06T12:00:00Z"

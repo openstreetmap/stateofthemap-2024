@@ -4,7 +4,7 @@ title: "Women in OSM Tech - What worked best for me."
 code: "A7DUFU"
 speaker_names: ['Anastazia Caroll']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "20"
 time: "Friday, 15:30"
 time_iso: "2024-09-06T12:30:00Z"

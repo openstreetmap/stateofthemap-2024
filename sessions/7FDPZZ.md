@@ -4,7 +4,7 @@ title: "Tuning In to Local Needs: How OpenStreetMap Enhances USAID's Development
 code: "7FDPZZ"
 speaker_names: ['Rory Nealon']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "20"
 time: "Friday, 11:30"
 time_iso: "2024-09-06T08:30:00Z"

@@ -4,7 +4,7 @@ title: "The Journal of Importing Open Data Address in Taiwan into OpenStreetMap"
 code: "ZVVQTA"
 speaker_names: ['Dennis Raylin Chen']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "20"
 time: "Saturday, 15:30"
 time_iso: "2024-09-07T12:30:00Z"

@@ -4,7 +4,7 @@ title: "OSMF Board AMA"
 code: "C8UWGW"
 speaker_names: ['Sarah Hoffmann', 'Mateusz Konieczny', 'Craig Allan', 'Daniela Waltersdorfer Jimenez', 'OSMF board', 'Arnalie Vicario', 'Guillaume Rischard', 'Roland Olbricht']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "60"
 time: "Sunday, 15:00"
 time_iso: "2024-09-08T12:00:00Z"

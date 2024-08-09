@@ -4,7 +4,7 @@ title: "The Current State of Collaboration between Digital Twin and OSM"
 code: "PRQKRX"
 speaker_names: ['Taichi Furuhashi']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "20"
 time: "Sunday, 11:30"
 time_iso: "2024-09-08T08:30:00Z"

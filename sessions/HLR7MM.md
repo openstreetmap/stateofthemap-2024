@@ -4,7 +4,7 @@ title: "Build an OpenStreetMap walking tour with a free and open source video ga
 code: "HLR7MM"
 speaker_names: ['Paul Pickell']
 affiliations: None
-room: "Workshops"
+room: "Online Workshops"
 length: "60"
 time: "Saturday, 16:30"
 time_iso: "2024-09-07T13:30:00Z"

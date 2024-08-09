@@ -4,7 +4,7 @@ title: "Incorporating OpenStreetMap into Academic Curricula: Insights from GeoTE
 code: "YNEPJM"
 speaker_names: ['Erick Mnyali']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "20"
 time: "Friday, 14:30"
 time_iso: "2024-09-06T11:30:00Z"

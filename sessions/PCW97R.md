@@ -4,7 +4,7 @@ title: "OSM Wiki editing workshop"
 code: "PCW97R"
 speaker_names: ['Mateusz Konieczny']
 affiliations: None
-room: "Workshops"
+room: "Amboseli Hall"
 length: "60"
 time: "Saturday, 11:30"
 time_iso: "2024-09-07T08:30:00Z"

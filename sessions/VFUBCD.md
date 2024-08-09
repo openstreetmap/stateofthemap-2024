@@ -4,7 +4,7 @@ title: "Analyzing the Spatial Distribution of Fuel Stations in Harare, Zimbabwe:
 code: "VFUBCD"
 speaker_names: ['Kingsley Chika CHUKWU']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "10"
 time: "Sunday, 11:30"
 time_iso: "2024-09-08T08:30:00Z"

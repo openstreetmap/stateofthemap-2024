@@ -4,7 +4,7 @@ title: "Easy Access to ohsome full history OSM contributions using cloud hosted 
 code: "L7SUBJ"
 speaker_names: ['Benjamin Herfort', 'Rafael Troilo', 'Michael Auer']
 affiliations: None
-room: "Workshops"
+room: "Amboseli Hall"
 length: "60"
 time: "Saturday, 14:30"
 time_iso: "2024-09-07T11:30:00Z"

@@ -4,7 +4,7 @@ title: "Opening Session"
 code: "WTH9FS"
 speaker_names: ['SotM Working Group']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "20"
 time: "Friday, 10:00"
 time_iso: "2024-09-06T07:00:00Z"

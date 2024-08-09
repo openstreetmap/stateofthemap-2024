@@ -4,7 +4,7 @@ title: "Closing Session"
 code: "8ZVKZV"
 speaker_names: ['SotM Working Group']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "20"
 time: "Sunday, 16:30"
 time_iso: "2024-09-08T13:30:00Z"

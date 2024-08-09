@@ -4,7 +4,7 @@ title: "Assessing the performance of AI-assisted mapping of building footprints 
 code: "PG3K3G"
 speaker_names: ['Anna Zanchetta']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "20"
 time: "Sunday, 09:30"
 time_iso: "2024-09-08T06:30:00Z"

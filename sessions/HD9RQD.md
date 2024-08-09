@@ -4,7 +4,7 @@ title: "Shifting trends in global evolution of corporate mapping in OSM"
 code: "HD9RQD"
 speaker_names: ['Benjamin Herfort']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "20"
 time: "Sunday, 12:00"
 time_iso: "2024-09-08T09:00:00Z"

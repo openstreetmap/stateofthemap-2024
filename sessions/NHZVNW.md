@@ -4,7 +4,7 @@ title: "How to develop your own style of OpenMapTiles with your favorite editor?
 code: "NHZVNW"
 speaker_names: ['Taro Matsuzawa']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "20"
 time: "Sunday, 10:30"
 time_iso: "2024-09-08T07:30:00Z"

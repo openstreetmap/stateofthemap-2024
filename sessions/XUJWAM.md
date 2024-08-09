@@ -4,7 +4,7 @@ title: "openrouteservice version 8 - Experiences and insights from 10+ years of 
 code: "XUJWAM"
 speaker_names: ['Julian Psotta']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "20"
 time: "Sunday, 10:00"
 time_iso: "2024-09-08T07:00:00Z"

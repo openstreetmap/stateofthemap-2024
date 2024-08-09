@@ -4,7 +4,7 @@ title: "What happens when VGI is threatened? A systems perspective analysis of t
 code: "FSYR9S"
 speaker_names: ['Marco Minghini', 'Yair Grinberger &amp; Marco Minghini']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "20"
 time: "Sunday, 15:00"
 time_iso: "2024-09-08T12:00:00Z"

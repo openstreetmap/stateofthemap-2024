@@ -4,7 +4,7 @@ title: "Analysis of renewable energy infrastructure representations in OpenStree
 code: "MKPJFW"
 speaker_names: ['Luisa Lo Presti']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "10"
 time: "Sunday, 11:40"
 time_iso: "2024-09-08T08:40:00Z"

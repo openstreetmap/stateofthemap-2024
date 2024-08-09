@@ -4,7 +4,7 @@ title: "OSMF board – what are they even doing?"
 code: "8XCQJB"
 speaker_names: ['Mateusz Konieczny']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "20"
 time: "Saturday, 16:30"
 time_iso: "2024-09-07T13:30:00Z"

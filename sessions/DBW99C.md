@@ -4,7 +4,7 @@ title: "AI and Open Source Mapping"
 code: "DBW99C"
 speaker_names: ['Muhammad Saleem']
 affiliations: None
-room: "Auditorium 1"
+room: "Maasai Mara"
 length: "20"
 time: "Sunday, 09:30"
 time_iso: "2024-09-08T06:30:00Z"
