@@ -957,6 +957,10 @@ table.scheduleTable td,
 table.scheduleTable th {
     border: 0;
 }
+table.scheduleTable td[rowspan],
+table.scheduleTable td.fill-darken0 {
+  border-bottom: 3px solid #b4d3f2;
+}
 
 table.scheduleTable span.speaker,
 table.scheduleTable span.extraTag {
