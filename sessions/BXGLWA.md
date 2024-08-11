@@ -2,7 +2,7 @@
 layout: session
 title: "Cloud-native OSM for Visualization &amp; Analysis"
 code: "BXGLWA"
-speaker_names: ['Sajjad Anwar']
+speaker_names: ['Sajjad Anwar', 'Wille Marcel']
 affiliations: None
 room: "Maasai Mara"
 length: "20"

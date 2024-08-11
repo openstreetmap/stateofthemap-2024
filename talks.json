@@ -508,7 +508,8 @@
       "title": "Cloud-native OSM for Visualization & Analysis",
       "abstract": "[Cloud-native approaches and formats](https://cloudnativegeo.org/) are increasingly becoming the defaults for geospatial data analysis, visualisation and distribution. Standards like STAC and formats like GeoParquet, FlatGeobuf and PMTiles are being adopted to meet high volume and performance needs. OpenStreetMap can take advantage of these new approaches to increase adoption, interoperability and solve analysis and visualisation problems that were previously complex. This talk will discuss a few ways to bring cloud-native formats to OSM use-cases and present lessons on building new applications that take advantage of these improvements. Particularly, we will discuss how to use cloud-native approaches to improve OSM validation and change visualization efforts.",
       "speakers": [
-        "PBXG7S"
+        "PBXG7S",
+        "7RHVP9"
       ],
       "track": 4515,
       "start": "2024-09-07T11:30:00+03:00",
@@ -1603,6 +1604,11 @@
       "code": "GXP7GW",
       "name": "Daniele Santini",
       "avatar": "https://pretalx.com/media/avatars/350658cf72af5f15e831323308fab29d_SpMXZcB.jpg"
+    },
+    {
+      "code": "7RHVP9",
+      "name": "Wille Marcel",
+      "avatar": "https://pretalx.com/media/avatars/headshot-2023_ttZmFP7.jpeg"
     },
     {
       "code": "RD7F9S",
