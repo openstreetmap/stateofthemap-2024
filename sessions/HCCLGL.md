@@ -2,7 +2,7 @@
 layout: session
 title: "Hands-on data validation on OSM: best practices and tools"
 code: "HCCLGL"
-speaker_names: ['Michael Montani']
+speaker_names: ['Séverin Ménard', 'Michael Montani']
 affiliations: None
 room: "Amboseli Hall"
 length: "60"
