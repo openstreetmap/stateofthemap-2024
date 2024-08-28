@@ -8,7 +8,7 @@ room: "Tsavo Hall"
 length: "20"
 time: "Saturday, 17:00"
 time_iso: "2024-09-07T14:00:00Z"
-resources: []
+resources: [{ description: "Slides (v3)", url: "https://pretalx.com/media/sotm2024/submissions/N7TGMA/resources/SotM_2024-09-07_Nairobi_online_talk_Keller_N7TGMA__y6TGVXO.pdf" }]
 recording: False
 ---
 
