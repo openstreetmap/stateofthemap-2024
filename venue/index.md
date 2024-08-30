@@ -2,7 +2,7 @@
 layout: page-with-toc
 #title: Venue &amp; Transportation
 title: Host City
-headings: "kenya,getting-to,visa,moving-around,accommodation,conference-venue,healthcare,safety,internet"
+headings: "kenya,conference-venue,getting-to,visa,moving-around,healthcare,safety,internet"
 ---
 
 <h2 class='space-bottom1' id='kenya'>Kenya</h2>
@@ -37,9 +37,9 @@ Request a cab using a ride-hailing service and enter your destination as UoN Tow
 </div>
 
 
-<h2>Getting to Nairobi</h2>
+<h2 class='space-bottom1' id="getting-to">Getting to Nairobi</h2>
 
-<h3 class='space-bottom1' id='visa'>Visa</h3>
+<h3 id='visa'>Visa</h3>
 
 Beginning in January 2024, the Government of Kenya has introduced an electronic travel authorisation (eTA) requirement for all non-East African residents travelling into Kenya. This means that any traveller who is not a citizen/resident of the East African Partner States, i.e. Burundi, Democratic Republic of Congo, Rwanda, South Sudan, Tanzania and Uganda, must apply for the eTA if they intend to travel to Kenya. The eTA is also mandatory for travellers of any other nationality who previously enjoyed visa-free travel to Kenya, do not hold a Diplomatic or similar passport or possess Kenyan work permits. 
 
