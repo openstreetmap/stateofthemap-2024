@@ -5,9 +5,9 @@ code: "V3FYDH"
 speaker_names: ['Jochen Topf', 'Frederik Ramm']
 affiliations: None
 room: "Maasai Mara"
-length: "20"
-time: "Friday, 17:00"
-time_iso: "2024-09-06T14:00:00Z"
+length: "40"
+time: "Friday, 16:30"
+time_iso: "2024-09-06T13:30:00Z"
 resources: []
 recording: False
 ---
