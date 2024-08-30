@@ -120,7 +120,7 @@ Business hours are generally from 0830hrs to 1600hrs on weekdays and from 0830hr
 
 <h3>Foreign Exchange</h3>
 
-Foreign currencies can be exchanged at the banks and Forex Bureaus. The currency of Kenya is the Shilling (KES) and is issued in 1000, 500, 200, 100 and 50 banknotes and 40, 20, 10, 5 and 1 coins. Currency exchange points are available at banks, the airport and at major malls & hotels. The daily prevailing exchange rate of major international currencies can be obtained from the [Central Bank of Kenya website]https://www.centralbank.go.ke/rates/forex-exchange-rates/). 
+Foreign currencies can be exchanged at the banks and Forex Bureaus. The currency of Kenya is the Shilling (KES) and is issued in 1000, 500, 200, 100 and 50 banknotes and 40, 20, 10, 5 and 1 coins. Currency exchange points are available at banks, the airport and at major malls & hotels. The daily prevailing exchange rate of major international currencies can be obtained from the [Central Bank of Kenya website](https://www.centralbank.go.ke/rates/forex-exchange-rates/). 
 
 <h3>Business and Shopping Hours</h3>
 
