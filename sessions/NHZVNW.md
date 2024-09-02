@@ -6,8 +6,8 @@ speaker_names: ['Taro Matsuzawa']
 affiliations: None
 room: "Maasai Mara"
 length: "20"
-time: "Sunday, 10:30"
-time_iso: "2024-09-08T07:30:00Z"
+time: "Sunday, 10:00"
+time_iso: "2024-09-08T07:00:00Z"
 resources: []
 recording: False
 ---

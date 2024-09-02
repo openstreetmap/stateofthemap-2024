@@ -6,8 +6,8 @@ speaker_names: ['Julian Psotta']
 affiliations: None
 room: "Maasai Mara"
 length: "20"
-time: "Sunday, 10:00"
-time_iso: "2024-09-08T07:00:00Z"
+time: "Sunday, 09:30"
+time_iso: "2024-09-08T06:30:00Z"
 resources: [{ description: "openrouteservice", url: "https://openrouteservice.org" },{ description: "HeiGIT", url: "https://heigit.org" },{ description: "openrouteservice GitHub Code", url: "https://github.com/GIScience/openrouteservice" }]
 recording: False
 ---
