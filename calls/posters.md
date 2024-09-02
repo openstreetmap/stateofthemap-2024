@@ -6,8 +6,6 @@ titlecontent: ""
 
 Did you miss the call for general and academic presentation? Don't worry! You still can still showcase your project or map visualiation at the State of the Map 2024! 
 
-The Call for Poster for SotM 2024 is now open!
-
 Your poster could show how well your home region is mapped; it could be a beautiful new style or map. It might focus on a community project or statistics; it might be a poster explaining and inviting people to  OpenStreetMap. What is important is that we want it to be about OSM. We  are also welcoming academic posters about research around OpenStreetMap  data.
 
 For inspiration, see the posters from previous State of the Maps (e.g. [SotM 2022 posters](https://2022.stateofthemap.org/posters/)).
