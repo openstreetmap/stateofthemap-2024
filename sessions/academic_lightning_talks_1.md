@@ -4,7 +4,7 @@ title: "Academic Lightning Talks I"
 code: "YWH3XD"
 speaker_names: ['various speakers']
 affiliations: None
-room: "Auditorium 2"
+room: "Tsavo Hall"
 length: "25"
 time: "Sunday, 11:30"
 resources: []
