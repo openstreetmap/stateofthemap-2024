@@ -8,7 +8,7 @@ room: "Maasai Mara"
 length: "20"
 time: "Sunday, 10:00"
 time_iso: "2024-09-08T07:00:00Z"
-resources: []
+resources: [{ description: "State of the Map 2024 Taro Matsuzawa", url: "https://pretalx.com/media/sotm2024/submissions/NHZVNW/resources/State_of_the_Map_2024_Taro_Matsuzawa_2s6Exli.pdf" }]
 recording: False
 ---
 

@@ -8,7 +8,7 @@ room: "Maasai Mara"
 length: "20"
 time: "Saturday, 16:30"
 time_iso: "2024-09-07T13:30:00Z"
-resources: []
+resources: [{ description: "placeholder slides", url: "https://pretalx.com/media/sotm2024/submissions/8XCQJB/resources/OSMF_board__what_are_they_even_doing_ScsbaoD.pdf" }]
 recording: False
 ---
 

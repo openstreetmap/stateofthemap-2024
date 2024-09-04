@@ -8,7 +8,7 @@ room: "Tsavo Hall"
 length: "20"
 time: "Sunday, 12:00"
 time_iso: "2024-09-08T09:00:00Z"
-resources: []
+resources: [{ description: "Slides", url: "https://pretalx.com/media/state-of-the-map-2024-academic-track/submissions/HD9RQD/resources/SOTM_2024_-_Shifting_t_p2KzpLJ.pdf" }]
 recording: False
 ---
 
