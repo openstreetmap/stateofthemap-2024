@@ -8,7 +8,7 @@ room: "Tsavo Hall"
 length: "20"
 time: "Sunday, 15:00"
 time_iso: "2024-09-08T12:00:00Z"
-resources: []
+resources: [{ description: "Slides - Powerpoint file", url: "https://pretalx.com/media/state-of-the-map-2024-academic-track/submissions/FSYR9S/resources/What_happens_when_VGI_4wABAgL.pptx" },{ description: "Slides - PDF file", url: "https://pretalx.com/media/state-of-the-map-2024-academic-track/submissions/FSYR9S/resources/What_happens_when_VGI__bDuJVwY.pdf" }]
 recording: False
 ---
 

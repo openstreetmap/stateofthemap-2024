@@ -2,13 +2,13 @@
 layout: session
 title: "Generating Ways with the Strava Heatmap"
 code: "HVVYM7"
-speaker_names: ['Derick Yang', 'Drew Robb']
+speaker_names: ['Derick Yang']
 affiliations: None
 room: "Tsavo Hall"
 length: "20"
 time: "Saturday, 16:30"
 time_iso: "2024-09-07T13:30:00Z"
-resources: []
+resources: [{ description: "Slides", url: "https://docs.google.com/presentation/d/1--ft_HS0XPUZ1QKwvZfF5ylT4cX4jFP2gcwdh8VqwsM/preview" }]
 recording: False
 ---
 
