@@ -8,7 +8,7 @@ room: "Tsavo Hall"
 length: "20"
 time: "Friday, 14:30"
 time_iso: "2024-09-06T11:30:00Z"
-resources: []
+resources: [{ description: "FPT 2024 program summary", url: "https://www.youtube.com/watch?v=dAEz64z175A&amp;t=1s" },{ description: "FPT 2024 program summary", url: "https://www.youtube.com/watch?v=dAEz64z175A&amp;t=1s" },{ description: "FPT 2024 program summary", url: "https://www.youtube.com/watch?v=dAEz64z175A&amp;t=1s" },{ description: "FPT 2024 program summary", url: "https://www.youtube.com/watch?v=dAEz64z175A&amp;t=1s" }]
 recording: False
 ---
 
