@@ -30,7 +30,7 @@ The poster I presented is about a survey I conducted in March, 2023 while I was 
 <h2 id="4">Mapping the World Together: Two Decades of Open Data</h2>
 <h3>Olanrewaju Michael</h3>
 
-[<img src="../img/posters/4.jpg">]https://files.osmfoundation.org/s/3cqRyFPRLPPZtFk)
+[<img src="../img/posters/4.jpg">](https://files.osmfoundation.org/s/3cqRyFPRLPPZtFk)
 
 Imagine a world where everyone contributes together to build a global map. For 20 years, OpenStreetMap has turned this vision into reality, powered by tens of thousands of volunteers worldwide. This open geospatial data initiative has been key in solving humanitarian challenges, from disaster response to development planning. By mapping both remote and urban areas, OpenStreetMap empowers communities, enhances navigation, and supports critical missions. It’s a testament to how collective effort and open data can address real-world problems and foster global resilience. Together, let’s build a more accurate, comprehensive, and accessible map—one contribution at a time!
 
