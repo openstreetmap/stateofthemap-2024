@@ -4,10 +4,10 @@ title: "Meet the OSMF Working Groups"
 code: "HS8SVU"
 speaker_names: ['Sarah Hoffmann']
 affiliations: None
-room: "Maasai Mara"
+room: "Tsavo Hall"
 length: "40"
-time: "Saturday, 17:00"
-time_iso: "2024-09-07T14:00:00Z"
+time: "Saturday, 14:30"
+time_iso: "2024-09-07T11:30:00Z"
 resources: []
 recording: False
 ---
