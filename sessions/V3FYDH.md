@@ -8,7 +8,7 @@ room: "Maasai Mara"
 length: "40"
 time: "Friday, 16:30"
 time_iso: "2024-09-06T13:30:00Z"
-resources: []
+resources: [{ description: "Talk", url: "https://pretalx.com/media/sotm2024/submissions/V3FYDH/resources/talk-on-the-ground_h8K7swE.pdf" }]
 recording: False
 ---
 
