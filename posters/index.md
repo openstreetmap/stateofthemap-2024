@@ -115,7 +115,7 @@ During the field data collection phase, we collaborated with the Faculty of Agri
 <h2 id="15">Mapping for Impact: Addressing Data Quality through Community Collaboration</h2>
 <h3>Perkumpulan OpenStreetMap Indonesia</h3>
 
-[<img src="../img/posters/15.jpg">](https://files.osmfoundation.org/s/942Xjdw8PZR9D5M)
+[<img src="../img/posters/15.jpg">](https://files.osmfoundation.org/s/Ng2fskfrdCMaD85)
 
 The OSM community’s reinforcement—especially from Indonesia’s local contributors—has had a major positive impact. The accomplishments of this collaboration highlight how group efforts can improve the accuracy and reliability of geospatial data for a wide range of applications.
 Perkumpulan OpenStreetMap Indonesia (POI) regularly makes efforts to reduce errors in OSM data, to improve its usability for a wide range of applications. The analysis has identified ten errors commonly found in Indonesian OSM data.
@@ -124,7 +124,7 @@ We are committed to continuing the positive trend of reducing errors in collabor
 <h2 id="16">Building a "Livability Index" for India’s Informal Settlements</h2>
 <h3>Jacob Kohn, Rushil Palavajjhala</h3>
 
-[<img src="../img/posters/16.jpg">](https://files.osmfoundation.org/s/942Xjdw8PZR9D5M)
+[<img src="../img/posters/16.jpg">](https://files.osmfoundation.org/s/fJ4FMZ6xC8zJeSq)
 
 Bandhu is a tech platform that connects India’s 300 million blue-collar migrants to affordable rental housing. In this study, we calculate a “livability index” for informal settlements in Pune, India, using OSM’s data on amenities and transportation, and Bandhu’s rental housing database. This methodology puts forth a use case for combining on-ground insights with OSM data sets on urban infrastructure, in order to help migrants make more informed decisions on rental housing.
 
