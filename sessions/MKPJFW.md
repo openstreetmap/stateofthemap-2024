@@ -8,7 +8,7 @@ room: "Tsavo Hall"
 length: "10"
 time: "Sunday, 11:40"
 time_iso: "2024-09-08T08:40:00Z"
-resources: [{ description: "Presentation slides", url: "https://pretalx.com/media/state-of-the-map-2024-academic-track/submissions/MKPJFW/resources/Analysis_of_renewable__AVv5AUq.pdf" }]
+resources: [{ description: "Slides", url: "https://pretalx.com/media/state-of-the-map-2024-academic-track/submissions/MKPJFW/resources/Analysis_of_renewable__zffvQ1a.pdf" }]
 recording: False
 ---
 

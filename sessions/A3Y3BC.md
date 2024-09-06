@@ -4,11 +4,11 @@ title: "State of the art in combining OSM and Linked Data"
 code: "A3Y3BC"
 speaker_names: ['Daniele Santini']
 affiliations: None
-room: "Maasai Mara"
+room: "Tsavo Hall"
 length: "20"
 time: "Saturday, 15:00"
 time_iso: "2024-09-07T12:00:00Z"
-resources: [{ description: "Talk slides", url: "https://pretalx.com/media/sotm2024/submissions/A3Y3BC/resources/SOTM_2024_-_OSMLD_Iyu1Ql4.pdf" }]
+resources: [{ description: "Talk slides", url: "https://pretalx.com/media/sotm2024/submissions/A3Y3BC/resources/SOTM_2024_-_OSMLD_gS3K8It.pdf" }]
 recording: False
 ---
 

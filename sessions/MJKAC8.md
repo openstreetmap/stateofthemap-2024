@@ -4,7 +4,7 @@ title: "Download OSM data translated into your language using free software comp
 code: "MJKAC8"
 speaker_names: ['Séverin Ménard']
 affiliations: None
-room: "Maasai Mara"
+room: "Tsavo Hall"
 length: "20"
 time: "Saturday, 14:30"
 time_iso: "2024-09-07T11:30:00Z"
