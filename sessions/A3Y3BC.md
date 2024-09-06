@@ -8,7 +8,7 @@ room: "Maasai Mara"
 length: "20"
 time: "Saturday, 15:00"
 time_iso: "2024-09-07T12:00:00Z"
-resources: [{ description: "Talk slides", url: "https://pretalx.com/media/sotm2024/submissions/A3Y3BC/resources/SOTM_2024_-_OSMLD_tWXgLJv.pdf" }]
+resources: [{ description: "Talk slides", url: "https://pretalx.com/media/sotm2024/submissions/A3Y3BC/resources/SOTM_2024_-_OSMLD_Iyu1Ql4.pdf" }]
 recording: False
 ---
 

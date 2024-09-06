@@ -8,7 +8,7 @@ room: "Maasai Mara"
 length: "20"
 time: "Saturday, 15:30"
 time_iso: "2024-09-07T12:30:00Z"
-resources: []
+resources: [{ description: "Slide in Hackmd format", url: "https://hackmd.io/@osm-tw/HkNyi84oR" }]
 recording: False
 ---
 
