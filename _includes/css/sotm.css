@@ -253,24 +253,28 @@ footer a:focus,
 .intro .intro-body .attending {
     text-align: center;
     display: inline-block;
-    width: 80%;
+    width: 75%;
     border-radius: 8px;
     margin-top: 80px;
     margin-bottom: 40px;
     padding: 1.5em 2em;
     color: black;
-    background-color: {{ site.color.primary-dark }};
+    background-color: {{ site.color.primary-light }};
 }
 .intro .intro-body .attending img {
-    width: 8em;
+    width: 12em;
     height: auto;
     margin-right: 1em;
     margin-left: 1em;
     margin-bottom: 0.7em;
     margin-top: 0.7em;
 }
+.intro .intro-body .attending p {
+  text-align: left;
+}
 .intro .intro-body ul {
-    list-style-type: '— ';
+    margin-left: 1em;
+    list-style-type: disc;
     text-align: left;
 }
 .intro .intro-body ul li {
