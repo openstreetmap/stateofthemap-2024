@@ -23,7 +23,7 @@ headings: "auditorium-1,auditorium-2"
 <script src="./hls.js"></script>
 <script>
 (function () {
-  const rooms = ['auditorium-A', 'auditorium-B', 'loop-cinema'];
+  const rooms = ['auditorium-1', 'auditorium-2'];
   rooms.forEach(function(room) {
     const video = document.getElementById('video-'+room);
     const videoSrc = video.dataset.streamUrl;
