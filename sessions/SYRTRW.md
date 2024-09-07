@@ -29,6 +29,9 @@ _by Letwin Pondo_
 ## Microgrants program in Latin America
 _by Maya Low_
 
+## My journey in OSM: Youth mappers Tanzania
+_by Iman Seleman_
+
 <hr>
 
 ## E-Comappers activities and growth in Rwanda
@@ -45,4 +48,7 @@ _by Letwin Pondo_
 
 ## Microgrants program in Latin America
 _by Maya Low_
+
+## My journey in OSM: Youth mappers Tanzania
+_by Iman Seleman_
 

@@ -378,7 +378,7 @@
       "track": 4512,
       "start": "2024-09-06T16:30:00+03:00",
       "end": "2024-09-06T17:30:00+03:00",
-      "room": 3179,
+      "room": 3178,
       "duration": 60,
       "updated": "2024-09-06T19:28:45.817745+00:00",
       "state": null,
@@ -844,7 +844,7 @@
       "code": "SYRTRW",
       "id": 1072874,
       "title": "Lightning Talks II",
-      "abstract": "There will be a board where you can sign up for a lightning talks. There are three slots for lightning talks at this conference. Each lightning talk is five minutes long. The topic must be about OpenStreetMap. Prior submission is not required. But if you are not in Nairobi you can send us a prerecorded lightning talk that we will stream during the conference.\r\n\r\n## E-Comappers activities and growth in Rwanda\r\n_by Liliane Nishimirwe_\r\n\r\n## Hot CWG mentorship\r\n_by Benedicta Ohene_\r\n\r\n## Youthmappers activities and growth in Sri Lanka (2021-2024)\r\n_by Sajeevini Sivajothy_\r\n\r\n## #DEI in OSM  - Ladies in maps Zimbabwe\r\n_by Letwin Pondo_\r\n\r\n## Microgrants program in Latin America\r\n_by Maya Low_",
+      "abstract": "There will be a board where you can sign up for a lightning talks. There are three slots for lightning talks at this conference. Each lightning talk is five minutes long. The topic must be about OpenStreetMap. Prior submission is not required. But if you are not in Nairobi you can send us a prerecorded lightning talk that we will stream during the conference.\r\n\r\n## E-Comappers activities and growth in Rwanda\r\n_by Liliane Nishimirwe_\r\n\r\n## Hot CWG mentorship\r\n_by Benedicta Ohene_\r\n\r\n## Youthmappers activities and growth in Sri Lanka (2021-2024)\r\n_by Sajeevini Sivajothy_\r\n\r\n## #DEI in OSM  - Ladies in maps Zimbabwe\r\n_by Letwin Pondo_\r\n\r\n## Microgrants program in Latin America\r\n_by Maya Low_\r\n\r\n## My journey in OSM: Youth mappers Tanzania\r\n_by Iman Seleman_",
       "speakers": [
         "YNFKER"
       ],
