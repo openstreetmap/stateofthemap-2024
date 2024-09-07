@@ -8,7 +8,7 @@ room: "Maasai Mara"
 length: "40"
 time: "Saturday, 10:00"
 time_iso: "2024-09-07T07:00:00Z"
-resources: []
+resources: [{ description: "Presentation Slides", url: "https://pretalx.com/media/sotm2024/submissions/B3EH7D/resources/Mapping_Kenya__15_Years_of_Map_Kibera_and_beyond_ozE68b9.pdf" }]
 recording: False
 ---
 

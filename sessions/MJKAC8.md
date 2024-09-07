@@ -8,7 +8,7 @@ room: "Tsavo Hall"
 length: "20"
 time: "Saturday, 14:30"
 time_iso: "2024-09-07T11:30:00Z"
-resources: []
+resources: [{ description: "PDF", url: "https://pretalx.com/media/sotm2024/submissions/MJKAC8/resources/SotM_2024_Nairobi_pres_SMenard_translated_OSM_data_ohw6Kc3.pdf" }]
 recording: False
 ---
 
