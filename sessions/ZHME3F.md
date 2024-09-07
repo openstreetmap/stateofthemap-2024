@@ -6,8 +6,8 @@ speaker_names: ['Claire Halleux']
 affiliations: None
 room: "Tsavo Hall"
 length: "20"
-time: "Saturday, 12:30"
-time_iso: "2024-09-07T09:30:00Z"
+time: "Saturday, 12:00"
+time_iso: "2024-09-07T09:00:00Z"
 resources: []
 recording: False
 ---

@@ -2,7 +2,7 @@
   "talks": [
     {
       "code": "WTH9FS",
-      "id": 1072579,
+      "id": 1072813,
       "title": "Opening Session",
       "abstract": "We welcome the OpenStreetMap community in Nairobi but also online to celebrate the international State of the Map conference. This session will provide also some formal instructions and helpful information. For example you will learn how the QA (question and answer) sessions are run. And what we will do on Friday and Saturday evening.",
       "speakers": [
@@ -13,13 +13,13 @@
       "end": "2024-09-06T10:20:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.591039+00:00",
+      "updated": "2024-09-06T19:28:45.817071+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "EWNBAV",
-      "id": 1072580,
+      "id": 1072814,
       "title": "UN Maps - Supporting Peace with Open Data",
       "abstract": "UN Maps is an initiative from the Department of Operational Support at the United Nations which aims not only to enrich topographic and operational data in UN mission areas but also to provide peacekeeping and humanitarian actors with topographic maps, operational geo-information, search and navigation tools, and imagery and street-level base maps. UN Maps is built on both UN internal authoritative geospatial information and open data, especially OpenStreetMap. UN Maps has also built a thriving community, called UN Mappers, around the collection and validation of open geospatial data with contributors from local communities, academia and UN staff in the field.",
       "speakers": [
@@ -30,12 +30,12 @@
       "end": "2024-09-06T10:50:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.591069+00:00",
+      "updated": "2024-09-06T19:28:45.817112+00:00",
       "state": null,
       "do_not_record": false
     },
     {
-      "id": 1072582,
+      "id": 1072815,
       "title": {
         "en": "Coffee Break"
       },
@@ -44,7 +44,7 @@
       "room": 3176
     },
     {
-      "id": 1072581,
+      "id": 1072816,
       "title": {
         "en": "Coffee Break"
       },
@@ -53,7 +53,7 @@
       "room": 3177
     },
     {
-      "id": 1072583,
+      "id": 1072817,
       "title": {
         "en": "Coffee Break"
       },
@@ -62,7 +62,7 @@
       "room": 3178
     },
     {
-      "id": 1072584,
+      "id": 1072818,
       "title": {
         "en": "Coffee Break"
       },
@@ -72,7 +72,7 @@
     },
     {
       "code": "AXHHF3",
-      "id": 1072585,
+      "id": 1072819,
       "title": "Exporting high-quality Atlas maps in bulk by leveraging OpenStreetMap Data in QGIS",
       "abstract": "This workshop is designed to provide participants with practical skills and fundamental knowledge necessary for creating high-quality maps using OpenStreetMap data in QGIS. The course will focus on creating atlases that showcase specific geographic areas by harnessing the power of OSM data. The workshop will provide a comprehensive overview of the entire process involved in atlas creation, including acquiring OSM data, developing a base map, incorporating layers and labels, and exporting the final product. Whether you are an experienced seeking to enhance your skills or a beginner looking to learn new techniques",
       "speakers": [
@@ -83,13 +83,13 @@
       "end": "2024-09-06T12:30:00+03:00",
       "room": 3178,
       "duration": 60,
-      "updated": "2024-09-06T12:20:23.591186+00:00",
+      "updated": "2024-09-06T19:28:45.817296+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "A3JTVT",
-      "id": 1072586,
+      "id": 1072820,
       "title": "The OSM Spectrum",
       "abstract": "OpenStreetMap (OSM) is a collaborative mapping platform with provides open and easy access to its users. It has diverse usability including the general public to governmental and non-governmental organizations. This abstract presents the usage of OSM in general and in the context of Nepal. OSM is used by the local community, the government sector and NGOs, tourism, classrooms, and various projects contributing to the development and gender equality making it a versatile data source. OSM gives a sense of empowerment and responsibility to individuals and contributes to fostering resilience and sustainable development.",
       "speakers": [
@@ -101,13 +101,13 @@
       "end": "2024-09-06T11:50:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.591203+00:00",
+      "updated": "2024-09-06T19:28:45.817316+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "C8B93B",
-      "id": 1072587,
+      "id": 1072821,
       "title": "OSMF Funding",
       "abstract": "The \"OSM Funding\" talk is dedicated to illuminating the management of the OpenStreetMap Foundation as a non-profit organization, reliant on donations and event sponsorship. With a commitment to transparency, the talk aims to provide a clear description of how the OSM Foundation's finances are handled, ensuring the community is informed about fund allocation and usage. By providing a clear understanding of where funds are directed and how they benefit the broader OSM Community, attendees are empowered to build mutual trust with the OSMF. The OSM Foundation endeavors to foster trust and collaboration while maximizing the impact of financial resources for the collective benefit of all of OSM.",
       "speakers": [
@@ -118,13 +118,13 @@
       "end": "2024-09-06T12:20:00+03:00",
       "room": 3177,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.591220+00:00",
+      "updated": "2024-09-06T19:28:45.817336+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "LDB3BA",
-      "id": 1072588,
+      "id": 1072822,
       "title": "Sustainable Transport on the Map",
       "abstract": "Better information leads to better city policy.  Unfortunately, many of the world’s cities still lack basic information on their own transport systems, leading to decisions measured against anecdotes rather than data. Using new tools for data processing and display, OpenStreetMap can provide the information that governments need to make better decisions. In this panel we will share recent success stories of cities adopting OSM-based metrics to plan better transport. We will reveal new tools that governments, mappers, and advocates can use. And we will discuss the challenges that still remain and the roles the OSM community can play in overcoming them.",
       "speakers": [
@@ -135,13 +135,13 @@
       "end": "2024-09-06T13:00:00+03:00",
       "room": 3176,
       "duration": 60,
-      "updated": "2024-09-06T12:20:23.591236+00:00",
+      "updated": "2024-09-06T19:28:45.817355+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "WCFXG7",
-      "id": 1072589,
+      "id": 1072823,
       "title": "A Replicable Model for OpenStreetMap Training Programs in High Schools",
       "abstract": "In this presentation, we will share our experience conducting an OpenStreetMap training program with the Kibera Girls' Soccer Academy in Kenya. We will cover various aspects such as the planning process, development of curriculum, hands-on mapping activities, and achieved outcomes. Our aim is to provide practical insights that attendees can use to run similar programs in other schools or regions, promoting greater OpenStreetMap engagement among youth.",
       "speakers": [
@@ -153,30 +153,12 @@
       "end": "2024-09-06T12:50:00+03:00",
       "room": 3177,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.591252+00:00",
+      "updated": "2024-09-06T19:28:45.817374+00:00",
       "state": null,
       "do_not_record": false
     },
     {
-      "id": 1072592,
-      "title": {
-        "en": "Lunch Break"
-      },
-      "start": "2024-09-06T10:00:00Z",
-      "end": "2024-09-06T14:30:00+03:00",
-      "room": 3177
-    },
-    {
-      "id": 1072590,
-      "title": {
-        "en": "Lunch Break"
-      },
-      "start": "2024-09-06T10:00:00Z",
-      "end": "2024-09-06T14:30:00+03:00",
-      "room": 3178
-    },
-    {
-      "id": 1072593,
+      "id": 1072826,
       "title": {
         "en": "Lunch Break"
       },
@@ -185,7 +167,16 @@
       "room": 3179
     },
     {
-      "id": 1072591,
+      "id": 1072825,
+      "title": {
+        "en": "Lunch Break"
+      },
+      "start": "2024-09-06T10:00:00Z",
+      "end": "2024-09-06T14:30:00+03:00",
+      "room": 3178
+    },
+    {
+      "id": 1072827,
       "title": {
         "en": "Lunch Break"
       },
@@ -194,25 +185,17 @@
       "room": 3176
     },
     {
-      "code": "FRFJBJ",
-      "id": 1072596,
-      "title": "Mapping the classroom with Every Door",
-      "abstract": "This is a practical lesson on mapping with Every Door app. The idea for the app is, it's not enough to just map: you should map every single thing you see. So let's train our mapping muscles a bit: it's not a problem that we're inside, treat it as an art class. We will be making art with a map editor. Hopefully nobody would ban us for this haha.",
-      "speakers": [
-        "TJ9EBM"
-      ],
-      "track": 4512,
-      "start": "2024-09-06T14:30:00+03:00",
-      "end": "2024-09-06T15:30:00+03:00",
-      "room": 3178,
-      "duration": 60,
-      "updated": "2024-09-06T12:20:23.591410+00:00",
-      "state": null,
-      "do_not_record": false
+      "id": 1072824,
+      "title": {
+        "en": "Lunch Break"
+      },
+      "start": "2024-09-06T10:00:00Z",
+      "end": "2024-09-06T14:30:00+03:00",
+      "room": 3177
     },
     {
       "code": "98JMSV",
-      "id": 1072595,
+      "id": 1072829,
       "title": "Some Assembly Required",
       "abstract": "The more detailed our mapping of the real world becomes, the more it becomes apparent that a single node, way or relation is insufficient to represent the complex properties of a real-word object. Streets have many lanes. Buildings have entrances, 3D shapes and POIs inside. And let's not even start talking about the complexity of a major railway station.\r\n\r\nThis talk will take a systematic look at the different ways how complex objects are being mapped in OSM. We explore how editors cope with the complexities of detailed mapping and discuss the implication on how our processing tools need to change to better handle relationships between objects.",
       "speakers": [
@@ -223,13 +206,13 @@
       "end": "2024-09-06T14:50:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.591394+00:00",
+      "updated": "2024-09-06T19:28:45.817505+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "YNEPJM",
-      "id": 1072594,
+      "id": 1072830,
       "title": "Incorporating OpenStreetMap into Academic Curricula: Insights from GeoTE Tanzania's Five-Week Field Training programs with YouthMappers and Academic Partners",
       "abstract": "Through this initiative, GeoTE Tanzania focuses on integrating OpenStreetMap (OSM) into academic curricula through five-week Field Training sessions with YouthMappers and academic partners. This program emphasizes practical application and problem-solving using OSM data across disciplines such as wildlife, forestry, agriculture, rural and urban development, and environmental studies. By partnering with universities like Sokoine University of Agriculture, GeoTE facilitates hands-on learning experiences that prepare students to address community challenges with geospatial techniques.",
       "speakers": [
@@ -240,30 +223,30 @@
       "end": "2024-09-06T14:50:00+03:00",
       "room": 3177,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.591377+00:00",
+      "updated": "2024-09-06T19:28:45.817523+00:00",
       "state": null,
       "do_not_record": false
     },
     {
-      "code": "MRQDGE",
-      "id": 1072598,
-      "title": "Photo mapping from my village to Pharmacies and Addresses",
-      "abstract": "**A picture is worth a thousand words**, I am a Pharmacists by training and only discovered the love for technology and maps recently. After discovering OpenStreetMap and taking up mapping based on interest. I share my experience, motivation and how I have used photos to improve OpenStreetMap data in Accra.",
+      "code": "FRFJBJ",
+      "id": 1072828,
+      "title": "Mapping the classroom with Every Door",
+      "abstract": "This is a practical lesson on mapping with Every Door app. The idea for the app is, it's not enough to just map: you should map every single thing you see. So let's train our mapping muscles a bit: it's not a problem that we're inside, treat it as an art class. We will be making art with a map editor. Hopefully nobody would ban us for this haha.",
       "speakers": [
-        "3PGXJV"
+        "TJ9EBM"
       ],
       "track": 4512,
-      "start": "2024-09-06T15:00:00+03:00",
-      "end": "2024-09-06T15:20:00+03:00",
-      "room": 3177,
-      "duration": 20,
-      "updated": "2024-09-06T12:20:23.591439+00:00",
+      "start": "2024-09-06T14:30:00+03:00",
+      "end": "2024-09-06T15:30:00+03:00",
+      "room": 3178,
+      "duration": 60,
+      "updated": "2024-09-06T19:28:45.817486+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "3D9RGU",
-      "id": 1072597,
+      "id": 1072832,
       "title": "Setting the Stage for the Future of Web Based Mapping",
       "abstract": "Over the years, iD has become a quite capable, versatile and reliable editor for OSM. However, it is currently also facing of a number of challenges: For example, it needs to keep being able to cope with the growing amount and richness of OSM’s map data, as well as to afford the increasingly important task of keeping the map up to date.\r\n\r\nThis talk outlines a proposal to transform iD’s current user interface centered around OSM’s data model into an adaptive user experience that is better tailored towards the needs of individual mappers and outlines an approach of how we can get there as a community.",
       "speakers": [
@@ -274,30 +257,30 @@
       "end": "2024-09-06T15:20:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.591425+00:00",
+      "updated": "2024-09-06T19:28:45.817559+00:00",
       "state": null,
       "do_not_record": false
     },
     {
-      "code": "A7DUFU",
-      "id": 1072599,
-      "title": "Women in OSM Tech - What worked best for me.",
-      "abstract": "This proposal outlines my journey into the tech sector via OpenStreetMap (OSM) as a woman with no prior tech background. I'll share my transformation from beginner mapper to proficient user, skilled in OSM mapping and QGIS for data analysis.In a field where women's representation is limited, my involvement in OSM Tech stands as a testament to breaking barriers and fostering inclusivity—an opportunity provided to me by OpenMap Development Tanzania (OMDTZ). I’ll show the significance of providing equal opportunities and a supportive environment for women in technology in OSM and highlight the potential of OSM as a catalyst for  personal and professional advancement.",
+      "code": "MRQDGE",
+      "id": 1072831,
+      "title": "Photo mapping from my village to Pharmacies and Addresses",
+      "abstract": "**A picture is worth a thousand words**, I am a Pharmacists by training and only discovered the love for technology and maps recently. After discovering OpenStreetMap and taking up mapping based on interest. I share my experience, motivation and how I have used photos to improve OpenStreetMap data in Accra.",
       "speakers": [
-        "QEWN7L"
+        "3PGXJV"
       ],
-      "track": 4517,
-      "start": "2024-09-06T15:30:00+03:00",
-      "end": "2024-09-06T15:50:00+03:00",
+      "track": 4512,
+      "start": "2024-09-06T15:00:00+03:00",
+      "end": "2024-09-06T15:20:00+03:00",
       "room": 3177,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.591454+00:00",
+      "updated": "2024-09-06T19:28:45.817541+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "J9ATMQ",
-      "id": 1072600,
+      "id": 1072834,
       "title": "A Novel Approach to Street-Level Data Collection: Using Customized Bajaji (tricycle) and Mapillary to Enrich OpenStreetMap in Dar es Salaam",
       "abstract": "In recent years, data creation methods have evolved, incorporating machine learning, AI, deep learning, and virtual reality to streamline processes. However, these advancements have not uniformly benefited communities in developing countries. Nonetheless, OMDTZ tirelessly seeks solutions to ensure more high-quality data are gathered, with low cost and extensive local involvement. One standout initiative involves a customized tricycle, known as bajaj, which is cost-effective, enabling access to streets of varying conditions. Equipped with an affordable street view camera, it collects images used to automate generation of vector data attributes to enrich OpenStreetMap. This session aims to share the experience and process, inspiring other communities to consider similar adaptations.",
       "speakers": [
@@ -308,21 +291,29 @@
       "end": "2024-09-06T15:50:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.591469+00:00",
+      "updated": "2024-09-06T19:28:45.817595+00:00",
       "state": null,
       "do_not_record": false
     },
     {
-      "id": 1072604,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2024-09-06T13:00:00Z",
-      "end": "2024-09-06T16:30:00+03:00",
-      "room": 3176
+      "code": "A7DUFU",
+      "id": 1072833,
+      "title": "Women in OSM Tech - What worked best for me.",
+      "abstract": "This proposal outlines my journey into the tech sector via OpenStreetMap (OSM) as a woman with no prior tech background. I'll share my transformation from beginner mapper to proficient user, skilled in OSM mapping and QGIS for data analysis.In a field where women's representation is limited, my involvement in OSM Tech stands as a testament to breaking barriers and fostering inclusivity—an opportunity provided to me by OpenMap Development Tanzania (OMDTZ). I’ll show the significance of providing equal opportunities and a supportive environment for women in technology in OSM and highlight the potential of OSM as a catalyst for  personal and professional advancement.",
+      "speakers": [
+        "QEWN7L"
+      ],
+      "track": 4517,
+      "start": "2024-09-06T15:30:00+03:00",
+      "end": "2024-09-06T15:50:00+03:00",
+      "room": 3177,
+      "duration": 20,
+      "updated": "2024-09-06T19:28:45.817577+00:00",
+      "state": null,
+      "do_not_record": false
     },
     {
-      "id": 1072603,
+      "id": 1072836,
       "title": {
         "en": "Coffee Break"
       },
@@ -331,7 +322,16 @@
       "room": 3178
     },
     {
-      "id": 1072602,
+      "id": 1072835,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2024-09-06T13:00:00Z",
+      "end": "2024-09-06T16:30:00+03:00",
+      "room": 3176
+    },
+    {
+      "id": 1072837,
       "title": {
         "en": "Coffee Break"
       },
@@ -340,7 +340,7 @@
       "room": 3179
     },
     {
-      "id": 1072601,
+      "id": 1072838,
       "title": {
         "en": "Coffee Break"
       },
@@ -350,7 +350,7 @@
     },
     {
       "code": "V3FYDH",
-      "id": 1072607,
+      "id": 1072839,
       "title": "On the Ground",
       "abstract": "OpenStreetMap is a community project to map the world. Everybody can contribute whatever they want. Or can they? What are the rules that govern what can be mapped in OSM and how? How are we creating a coherent global map and not just a bunch of random data about the world?",
       "speakers": [
@@ -362,31 +362,13 @@
       "end": "2024-09-06T17:10:00+03:00",
       "room": 3176,
       "duration": 40,
-      "updated": "2024-09-06T12:20:23.591588+00:00",
+      "updated": "2024-09-06T19:28:45.817708+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "HCCLGL",
-      "id": 1072608,
-      "title": "Hands-on data validation on OSM: best practices and tools",
-      "abstract": "The workshop is designed for beginner to intermediate mappers to better understand good practices and useful tools while performing data validation on OSM.\r\nDuring the session it will be presented how to discover and interact with mappers in the area to be validated, as well as how to use JOSM plugins and web tools as ResultMaps, Osmose, Whodidit and OSMCha to analyze errors and changesets.\r\nParticipants are requested to bring their laptops and mouses to practice together. Basic understanding of JOSM is welcome but not necessary",
-      "speakers": [
-        "BCLAGF",
-        "HGCMWV"
-      ],
-      "track": 4512,
-      "start": "2024-09-06T16:30:00+03:00",
-      "end": "2024-09-06T17:30:00+03:00",
-      "room": 3178,
-      "duration": 60,
-      "updated": "2024-09-06T12:20:23.591603+00:00",
-      "state": null,
-      "do_not_record": false
-    },
-    {
-      "code": "HCCLGL",
-      "id": 1072605,
+      "id": 1072841,
       "title": "Hands-on data validation on OSM: best practices and tools",
       "abstract": "The workshop is designed for beginner to intermediate mappers to better understand good practices and useful tools while performing data validation on OSM.\r\nDuring the session it will be presented how to discover and interact with mappers in the area to be validated, as well as how to use JOSM plugins and web tools as ResultMaps, Osmose, Whodidit and OSMCha to analyze errors and changesets.\r\nParticipants are requested to bring their laptops and mouses to practice together. Basic understanding of JOSM is welcome but not necessary",
       "speakers": [
@@ -398,13 +380,31 @@
       "end": "2024-09-06T17:30:00+03:00",
       "room": 3179,
       "duration": 60,
-      "updated": "2024-09-06T12:20:23.591557+00:00",
+      "updated": "2024-09-06T19:28:45.817745+00:00",
+      "state": null,
+      "do_not_record": false
+    },
+    {
+      "code": "HCCLGL",
+      "id": 1072840,
+      "title": "Hands-on data validation on OSM: best practices and tools",
+      "abstract": "The workshop is designed for beginner to intermediate mappers to better understand good practices and useful tools while performing data validation on OSM.\r\nDuring the session it will be presented how to discover and interact with mappers in the area to be validated, as well as how to use JOSM plugins and web tools as ResultMaps, Osmose, Whodidit and OSMCha to analyze errors and changesets.\r\nParticipants are requested to bring their laptops and mouses to practice together. Basic understanding of JOSM is welcome but not necessary",
+      "speakers": [
+        "BCLAGF",
+        "HGCMWV"
+      ],
+      "track": 4512,
+      "start": "2024-09-06T16:30:00+03:00",
+      "end": "2024-09-06T17:30:00+03:00",
+      "room": 3178,
+      "duration": 60,
+      "updated": "2024-09-06T19:28:45.817727+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "99HWEX",
-      "id": 1072606,
+      "id": 1072842,
       "title": "Community Capacity Building- Case Study OSM Kenya",
       "abstract": "Examining the case of OSM Kenya, we showcase and exhibit how initiatives have empowered local communities through open mapping, fostering collaborations, and skill development. We have catalyzed sustainable impact driving positive change across the country and around the world through empowering over 200+ young people who are members of our community. Gaining insights and strategies for enhancing community engagement and capacity within the OpenStreetMap ecosystem in Kenya and beyond borders.",
       "speakers": [
@@ -416,30 +416,13 @@
       "end": "2024-09-06T17:10:00+03:00",
       "room": 3177,
       "duration": 40,
-      "updated": "2024-09-06T12:20:23.591572+00:00",
-      "state": null,
-      "do_not_record": false
-    },
-    {
-      "code": "87HBBY",
-      "id": 1072609,
-      "title": "Lightning Talks I",
-      "abstract": "There will be a board where you can sign up for a lightning talks. There are three slots for lightning talks at this conference. Each lightning talk is five minutes long. The topic must be about OpenStreetMap. Prior submission is not required. But if you are not in Nairobi you can send us a prerecorded lightning talk that we will stream during the conference.\r\n\r\n## Discover OSM with free GIS tools in Africa geoportal\r\n_by Esri Eastern Africa_\r\n\r\n## Disaster hackathon 2.0 in Bangladesh\r\n_by Ibtehal_\r\n\r\n## YouthMappas activities an growth in Sri Lanka\r\n_by Sajeevini Sivajothy_\r\n\r\n## Geospatial conference Tanzania (GIS day) November 15-16 2024)\r\n_by Kawamala Antidius_\r\n\r\n## Discover the UN maps learning hub!\r\n_by Sevevin Menavo_\r\n\r\n## Impact of anticipatory mapping in disaster preparedness\r\n_by Jacques Niyigena",
-      "speakers": [
-        "YNFKER"
-      ],
-      "track": 5009,
-      "start": "2024-09-06T17:30:00+03:00",
-      "end": "2024-09-06T17:50:00+03:00",
-      "room": 3176,
-      "duration": 20,
-      "updated": "2024-09-06T13:00:57.535149+00:00",
+      "updated": "2024-09-06T19:28:45.817763+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "MRBEFX",
-      "id": 1072610,
+      "id": 1072844,
       "title": "Strengthening Collaboration between Organizations and Local Communities in West Africa Through the OSMer in Residence Program",
       "abstract": "Improving the map in OpenStreetMap involves data availability and reliability. Through the operations in which they are involved, organizations have a vast amount of data at their disposal, much of which is confidential and goes against the spirit of Open Data, which is all about sharing.  This session will show how the OSMer in Residence program has fostered this paradigm shift through collaboration between HOT's Western and Northern Africa Hub and Médeçins Sans Frontières",
       "speakers": [
@@ -451,13 +434,30 @@
       "end": "2024-09-06T17:50:00+03:00",
       "room": 3177,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.591633+00:00",
+      "updated": "2024-09-06T19:28:45.817799+00:00",
+      "state": null,
+      "do_not_record": false
+    },
+    {
+      "code": "87HBBY",
+      "id": 1072843,
+      "title": "Lightning Talks I",
+      "abstract": "There will be a board where you can sign up for a lightning talks. There are three slots for lightning talks at this conference. Each lightning talk is five minutes long. The topic must be about OpenStreetMap. Prior submission is not required. But if you are not in Nairobi you can send us a prerecorded lightning talk that we will stream during the conference.\r\n\r\n## Discover OSM with free GIS tools in Africa geoportal\r\n_by Esri Eastern Africa_\r\n\r\n## Disaster hackathon 2.0 in Bangladesh\r\n_by Ibtehal_\r\n\r\n## YouthMappas activities an growth in Sri Lanka\r\n_by Sajeevini Sivajothy_\r\n\r\n## Geospatial conference Tanzania (GIS day) November 15-16 2024)\r\n_by Kawamala Antidius_\r\n\r\n## Discover the UN maps learning hub!\r\n_by Sevevin Menavo_\r\n\r\n## Impact of anticipatory mapping in disaster preparedness\r\n_by Jacques Niyigena",
+      "speakers": [
+        "YNFKER"
+      ],
+      "track": 5009,
+      "start": "2024-09-06T17:30:00+03:00",
+      "end": "2024-09-06T17:50:00+03:00",
+      "room": 3176,
+      "duration": 20,
+      "updated": "2024-09-06T19:28:45.817781+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "B3EH7D",
-      "id": 1072611,
+      "id": 1072845,
       "title": "Mapping Kenya: 15 Years of Map Kibera and beyond",
       "abstract": "Map Kibera arose from a desire to expand OSM beyond the confines of Europe and North America. In 2009, it pushed the boundaries of what then-new technologies could do. What have the mappers learned over the years? This talk will welcome you to Nairobi and through the ups and downs of mapping in Kenya - from the history of mapping in 20th Kenya, through Map Kibera’s start, into slums and rural parts of Kenya, and finally to current-day Kibera, where mappers are mapping street lights, waste disposal, schools, and more. How has Map Kibera and OSM had a community impact even as drones, satellite technology and AI are revolutionizing mapping? What has changed, and what has remained the same?  We will discuss the global impact of Map Kibera, on community-based mapping in OSM and on the general application of technology in developing countries.",
       "speakers": [
@@ -469,21 +469,12 @@
       "end": "2024-09-07T10:40:00+03:00",
       "room": 3176,
       "duration": 40,
-      "updated": "2024-09-06T12:20:23.591648+00:00",
+      "updated": "2024-09-07T05:31:10.341346+00:00",
       "state": null,
       "do_not_record": false
     },
     {
-      "id": 1072615,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2024-09-07T08:00:00Z",
-      "end": "2024-09-07T11:30:00+03:00",
-      "room": 3176
-    },
-    {
-      "id": 1072612,
+      "id": 1072847,
       "title": {
         "en": "Coffee Break"
       },
@@ -492,16 +483,7 @@
       "room": 3177
     },
     {
-      "id": 1072614,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2024-09-07T08:00:00Z",
-      "end": "2024-09-07T11:30:00+03:00",
-      "room": 3179
-    },
-    {
-      "id": 1072613,
+      "id": 1072849,
       "title": {
         "en": "Coffee Break"
       },
@@ -510,26 +492,43 @@
       "room": 3178
     },
     {
-      "code": "VS77B3",
-      "id": 1072617,
-      "title": "Preparing for disasters with open map data and tools - learning through anticipatory action in Zimbabwe, Liberia and Timor Leste",
-      "abstract": "Historically, the open mapping movement’s disaster focus has been response, but evolving local capacity, insight, technology and partnerships mean new anticipatory action and disaster preparedness open mapping methodologies enable a transition from reactive to proactive approaches to disaster management.\r\n\r\nThis talk explores key findings on the transformative role of open mapping in this topic, demonstrated by three HOT collaborations; Anticipatory Response Program in Zimbabwe, Flood Tracking Project in Liberia, and Mapping for Anticipatory Action in Timor-Leste, plus analysis of post-disaster data demand from NGO and government responders. \r\n\r\nThe talk will also surface insights on how OSM communities can increase their own disaster resilience and preparedness through mapping.",
+      "id": 1072848,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2024-09-07T08:00:00Z",
+      "end": "2024-09-07T11:30:00+03:00",
+      "room": 3179
+    },
+    {
+      "id": 1072846,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2024-09-07T08:00:00Z",
+      "end": "2024-09-07T11:30:00+03:00",
+      "room": 3176
+    },
+    {
+      "code": "PCW97R",
+      "id": 1072852,
+      "title": "OSM Wiki editing workshop",
+      "abstract": "Do you know about a mistake on the OSM wiki?\r\n\r\nHave you wanted to fix it but you are unsure how?\r\n\r\nDo you want to document some already used tag?\r\n\r\nDo you want to add better illustration to some wiki page?\r\n\r\nIs translation of one of wiki pages broken or missing and you want to add it but not sure how to do this?\r\n\r\nAre you confused by OSM Wiki page?\r\n\r\nThis will be a fitting workshop for you! I will help you to fix the problem and edit OSM Wiki.\r\n\r\nIdeally, in future you will be own to make such fix on your own.",
       "speakers": [
-        "RPM7DD",
-        "AXSB3U"
+        "ZBGMZE"
       ],
-      "track": 4515,
+      "track": 4511,
       "start": "2024-09-07T11:30:00+03:00",
-      "end": "2024-09-07T11:50:00+03:00",
-      "room": 3177,
-      "duration": 20,
-      "updated": "2024-09-06T12:20:23.591750+00:00",
+      "end": "2024-09-07T12:30:00+03:00",
+      "room": 3178,
+      "duration": 60,
+      "updated": "2024-09-06T19:28:45.817957+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "BXGLWA",
-      "id": 1072618,
+      "id": 1072851,
       "title": "Cloud-native OSM for Visualization & Analysis",
       "abstract": "[Cloud-native approaches and formats](https://cloudnativegeo.org/) are increasingly becoming the defaults for geospatial data analysis, visualisation and distribution. Standards like STAC and formats like GeoParquet, FlatGeobuf and PMTiles are being adopted to meet high volume and performance needs. OpenStreetMap can take advantage of these new approaches to increase adoption, interoperability and solve analysis and visualisation problems that were previously complex. This talk will discuss a few ways to bring cloud-native formats to OSM use-cases and present lessons on building new applications that take advantage of these improvements. Particularly, we will discuss how to use cloud-native approaches to improve OSM validation and change visualization efforts.",
       "speakers": [
@@ -541,47 +540,31 @@
       "end": "2024-09-07T11:50:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.591765+00:00",
+      "updated": "2024-09-06T19:28:45.817939+00:00",
       "state": null,
       "do_not_record": false
     },
     {
-      "code": "PCW97R",
-      "id": 1072616,
-      "title": "OSM Wiki editing workshop",
-      "abstract": "Do you know about a mistake on the OSM wiki?\r\n\r\nHave you wanted to fix it but you are unsure how?\r\n\r\nDo you want to document some already used tag?\r\n\r\nDo you want to add better illustration to some wiki page?\r\n\r\nIs translation of one of wiki pages broken or missing and you want to add it but not sure how to do this?\r\n\r\nAre you confused by OSM Wiki page?\r\n\r\nThis will be a fitting workshop for you! I will help you to fix the problem and edit OSM Wiki.\r\n\r\nIdeally, in future you will be own to make such fix on your own.",
+      "code": "VS77B3",
+      "id": 1072850,
+      "title": "Preparing for disasters with open map data and tools - learning through anticipatory action in Zimbabwe, Liberia and Timor Leste",
+      "abstract": "Historically, the open mapping movement’s disaster focus has been response, but evolving local capacity, insight, technology and partnerships mean new anticipatory action and disaster preparedness open mapping methodologies enable a transition from reactive to proactive approaches to disaster management.\r\n\r\nThis talk explores key findings on the transformative role of open mapping in this topic, demonstrated by three HOT collaborations; Anticipatory Response Program in Zimbabwe, Flood Tracking Project in Liberia, and Mapping for Anticipatory Action in Timor-Leste, plus analysis of post-disaster data demand from NGO and government responders. \r\n\r\nThe talk will also surface insights on how OSM communities can increase their own disaster resilience and preparedness through mapping.",
       "speakers": [
-        "ZBGMZE"
+        "RPM7DD",
+        "AXSB3U"
       ],
-      "track": 4511,
+      "track": 4515,
       "start": "2024-09-07T11:30:00+03:00",
-      "end": "2024-09-07T12:30:00+03:00",
-      "room": 3178,
-      "duration": 60,
-      "updated": "2024-09-06T12:20:23.591735+00:00",
-      "state": null,
-      "do_not_record": false
-    },
-    {
-      "code": "YRLYQZ",
-      "id": 1072620,
-      "title": "GIS-based disaster management capacity building for Techwomen",
-      "abstract": "In disaster situations, women and girls are the most affected and suffer drastic consequences during disasters. Therefore, in order to give women the tools to adaptively manage disasters in their country, this project aims to strengthen not only their skills in understanding and managing disasters, but also in using free mapping and spatial technologies to be resilient and proactive in the face of these disasters.",
-      "speakers": [
-        "ENUAPX"
-      ],
-      "track": 4511,
-      "start": "2024-09-07T12:00:00+03:00",
-      "end": "2024-09-07T12:20:00+03:00",
+      "end": "2024-09-07T11:50:00+03:00",
       "room": 3177,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.591795+00:00",
+      "updated": "2024-09-06T19:28:45.817920+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "T3CXBD",
-      "id": 1072619,
+      "id": 1072854,
       "title": "MapLibre Tiles: A Next Generation Vector Tiles Format specially designed for OSM data",
       "abstract": "MapLibre Tiles (MLT) is a new vector tiles format which offers a significant tile size reduction and accelerated decoding performance compared to the de-facto standard Mapbox Vector Tiles (MVT). MLT also adds support for missing features like nested properties, linear referencing and M-values. Our evaluation against MVT on a OpenMapTiles schema based OSM tileset shows a reduction in tile size of nearly up to 80% with even faster decoding times. This talk explains how MLT can be used in combination with OSM data and the advantages it offers.",
       "speakers": [
@@ -592,13 +575,30 @@
       "end": "2024-09-07T12:20:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.591780+00:00",
+      "updated": "2024-09-06T19:28:45.817992+00:00",
+      "state": null,
+      "do_not_record": false
+    },
+    {
+      "code": "ZHME3F",
+      "id": 1072856,
+      "title": "Improving data homogeneity across a country",
+      "abstract": "This talk aims to share the efforts of OSM contributors to improve national datasets based on experiences in the Democratic Republic of the Congo. From data analyses to the setup of crowdmapping projects through welcoming new mappers to join and writing documentation. This talk is going to introduce a number of existing tools that proved to be useful in the DRC community.",
+      "speakers": [
+        "XPVECQ"
+      ],
+      "track": 4512,
+      "start": "2024-09-07T12:00:00+03:00",
+      "end": "2024-09-07T12:20:00+03:00",
+      "room": 3177,
+      "duration": 20,
+      "updated": "2024-09-07T11:27:01.281933+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "EBMVWS",
-      "id": 1072622,
+      "id": 1072855,
       "title": "OpenStreetMap and the GDPR",
       "abstract": "The privacy that OpenStreetMap gives to users in its software and programming interface has lagged behind the requirements of the European Union’s General Data Protection Regulation in some respects. We are now taking steps to remedy this and the changes that mappers and API clients will see are discussed here.",
       "speakers": [
@@ -609,29 +609,12 @@
       "end": "2024-09-07T12:50:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.591824+00:00",
+      "updated": "2024-09-06T19:28:45.818012+00:00",
       "state": null,
       "do_not_record": false
     },
     {
-      "code": "ZHME3F",
-      "id": 1072621,
-      "title": "Improving data homogeneity across a country",
-      "abstract": "This talk aims to share the efforts of OSM contributors to improve national datasets based on experiences in the Democratic Republic of the Congo. From data analyses to the setup of crowdmapping projects through welcoming new mappers to join and writing documentation. This talk is going to introduce a number of existing tools that proved to be useful in the DRC community.",
-      "speakers": [
-        "XPVECQ"
-      ],
-      "track": 4512,
-      "start": "2024-09-07T12:30:00+03:00",
-      "end": "2024-09-07T12:50:00+03:00",
-      "room": 3177,
-      "duration": 20,
-      "updated": "2024-09-06T12:20:23.591809+00:00",
-      "state": null,
-      "do_not_record": false
-    },
-    {
-      "id": 1072624,
+      "id": 1072857,
       "title": {
         "en": "Lunch Break"
       },
@@ -640,7 +623,7 @@
       "room": 3178
     },
     {
-      "id": 1072626,
+      "id": 1072858,
       "title": {
         "en": "Lunch Break"
       },
@@ -649,7 +632,7 @@
       "room": 3176
     },
     {
-      "id": 1072625,
+      "id": 1072859,
       "title": {
         "en": "Lunch Break"
       },
@@ -658,7 +641,7 @@
       "room": 3179
     },
     {
-      "id": 1072623,
+      "id": 1072860,
       "title": {
         "en": "Lunch Break"
       },
@@ -667,25 +650,8 @@
       "room": 3177
     },
     {
-      "code": "HS8SVU",
-      "id": 1072627,
-      "title": "Meet the OSMF Working Groups",
-      "abstract": "The OSM Foundation is kept running with the help of many volunteers. They look after our servers, the data, the community, the conference, membership and much more. In this session, some of our working groups will introduce themselves. Hear about what they do and how you can help. There will be also plenty of time to ask questions.",
-      "speakers": [
-        "RD7F9S"
-      ],
-      "track": 4517,
-      "start": "2024-09-07T14:30:00+03:00",
-      "end": "2024-09-07T15:10:00+03:00",
-      "room": 3176,
-      "duration": 40,
-      "updated": "2024-09-06T19:27:07.145461+00:00",
-      "state": null,
-      "do_not_record": false
-    },
-    {
       "code": "MJKAC8",
-      "id": 1072629,
+      "id": 1072862,
       "title": "Download OSM data translated into your language using free software components and standard protocols",
       "abstract": "This presentation will introduce a download service of OpenStreetMap GIS layers in English, but also in French for French-speaking areas. In addition to the translation aspect, this service is intended as a proof of concept for an approach that is interoperable, flexible and replicable: it uses open source software components, some of which are supported by OSGeo, and interoperable WMS and WFS protocols of the OGC (Open Geospatial Consortium), while providing detailed OSM data for the countries in question.",
       "speakers": [
@@ -696,13 +662,30 @@
       "end": "2024-09-07T14:50:00+03:00",
       "room": 3177,
       "duration": 20,
-      "updated": "2024-09-06T19:27:12.909120+00:00",
+      "updated": "2024-09-06T19:28:45.818154+00:00",
+      "state": null,
+      "do_not_record": false
+    },
+    {
+      "code": "HS8SVU",
+      "id": 1072861,
+      "title": "Meet the OSMF Working Groups",
+      "abstract": "The OSM Foundation is kept running with the help of many volunteers. They look after our servers, the data, the community, the conference, membership and much more. In this session, some of our working groups will introduce themselves. Hear about what they do and how you can help. There will be also plenty of time to ask questions.",
+      "speakers": [
+        "RD7F9S"
+      ],
+      "track": 4517,
+      "start": "2024-09-07T14:30:00+03:00",
+      "end": "2024-09-07T15:10:00+03:00",
+      "room": 3176,
+      "duration": 40,
+      "updated": "2024-09-06T19:28:45.818136+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "L7SUBJ",
-      "id": 1072628,
+      "id": 1072863,
       "title": "Easy Access to ohsome full history OSM contributions using cloud hosted GeoParquet",
       "abstract": "This workshop teaches you how you can accelerate OSM data analysis without the need to run your own computing cluster. We will provide a sneak preview about our new cloud hosted ohsome full history contributions data and will show you how you can use it to understand the dynamics in OSM.",
       "speakers": [
@@ -715,13 +698,13 @@
       "end": "2024-09-07T15:30:00+03:00",
       "room": 3178,
       "duration": 60,
-      "updated": "2024-09-06T12:20:23.591924+00:00",
+      "updated": "2024-09-06T19:28:45.818172+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "A3Y3BC",
-      "id": 1072630,
+      "id": 1072864,
       "title": "State of the art in combining OSM and Linked Data",
       "abstract": "Thousands of Linked [Open] Data sources and knowledge graphs allow to access an enormous amount of structured interconnected data with built in interoperability. This talk explains the basics of Linked Data and offers an overview about the potential its combination with OSM has and the most popular methods available for linking, extracting, combining and querying data from OSM and Linked Data sources.",
       "speakers": [
@@ -732,30 +715,13 @@
       "end": "2024-09-07T15:20:00+03:00",
       "room": 3177,
       "duration": 20,
-      "updated": "2024-09-06T19:27:23.141808+00:00",
-      "state": null,
-      "do_not_record": false
-    },
-    {
-      "code": "3ZU3ZR",
-      "id": 1072631,
-      "title": "Open mapping through tropical forest biodiversity conservation",
-      "abstract": "The botanical collection Arboretum and Palmetum Leon Morales Soto houses 412 species from 64 botanical families, totaling 4892 individuals. The mapping carried out by the SAGEMA chapter of YouthMappers allowed sharing valuable information about Colombian flora with the university community, facilitating its conservation and recognition through the integration of collection data into OSM. The project aims to promote the conservation of threatened tropical ecosystems through open mapping. It involved the participation of 12 students and a training strategy through open workshops to replicate the project in other Latin American regions.",
-      "speakers": [
-        "RPBMWS"
-      ],
-      "track": 4512,
-      "start": "2024-09-07T15:30:00+03:00",
-      "end": "2024-09-07T15:50:00+03:00",
-      "room": 3177,
-      "duration": 20,
-      "updated": "2024-09-06T12:20:23.591968+00:00",
+      "updated": "2024-09-06T19:28:45.818190+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "ZVVQTA",
-      "id": 1072632,
+      "id": 1072866,
       "title": "The Journal of Importing Open Data Address in Taiwan into OpenStreetMap",
       "abstract": "Importing a government-release open data dataset is an important data source for OpenStreetMap. I will talk about the experience of the OpenStreetMap Taiwan community importing tasks. I will describe the methods and the challenges we face during the whole import process. We have already dealt with 9 counties and cities' address datasets, and looking forward to dealing with more datasets released by other local government agencies in the future.",
       "speakers": [
@@ -766,21 +732,29 @@
       "end": "2024-09-07T15:50:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.591982+00:00",
+      "updated": "2024-09-06T19:28:45.818226+00:00",
       "state": null,
       "do_not_record": false
     },
     {
-      "id": 1072636,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2024-09-07T13:00:00Z",
-      "end": "2024-09-07T16:30:00+03:00",
-      "room": 3178
+      "code": "3ZU3ZR",
+      "id": 1072865,
+      "title": "Open mapping through tropical forest biodiversity conservation",
+      "abstract": "The botanical collection Arboretum and Palmetum Leon Morales Soto houses 412 species from 64 botanical families, totaling 4892 individuals. The mapping carried out by the SAGEMA chapter of YouthMappers allowed sharing valuable information about Colombian flora with the university community, facilitating its conservation and recognition through the integration of collection data into OSM. The project aims to promote the conservation of threatened tropical ecosystems through open mapping. It involved the participation of 12 students and a training strategy through open workshops to replicate the project in other Latin American regions.",
+      "speakers": [
+        "RPBMWS"
+      ],
+      "track": 4512,
+      "start": "2024-09-07T15:30:00+03:00",
+      "end": "2024-09-07T15:50:00+03:00",
+      "room": 3177,
+      "duration": 20,
+      "updated": "2024-09-06T19:28:45.818208+00:00",
+      "state": null,
+      "do_not_record": false
     },
     {
-      "id": 1072635,
+      "id": 1072868,
       "title": {
         "en": "Coffee Break"
       },
@@ -789,16 +763,7 @@
       "room": 3179
     },
     {
-      "id": 1072634,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2024-09-07T13:00:00Z",
-      "end": "2024-09-07T16:30:00+03:00",
-      "room": 3176
-    },
-    {
-      "id": 1072633,
+      "id": 1072870,
       "title": {
         "en": "Coffee Break"
       },
@@ -807,42 +772,26 @@
       "room": 3177
     },
     {
-      "code": "HVVYM7",
-      "id": 1072637,
-      "title": "Generating Ways with the Strava Heatmap",
-      "abstract": "The Strava Global Heatmap visualizes aggregated public GPS traces, guiding athletes worldwide in planning their routes by highlighting popular paths. This presentation demonstrates how the Heatmap, in conjunction with our routing engine, can be utilized to identify and fill in missing ways in OpenStreetMap (OSM). We will discuss an algorithmic strategy for creating generated pathways and introduce a prototype of an interface that facilitates the easy integration of these pathways into OSM. We will showcase how Strava's Heatmap can promote OSM's goal of developing a more comprehensive global map, highlighting a mutually beneficial relationship between the two platforms.",
-      "speakers": [
-        "HHN9VA"
-      ],
-      "track": 4512,
-      "start": "2024-09-07T16:30:00+03:00",
-      "end": "2024-09-07T16:50:00+03:00",
-      "room": 3177,
-      "duration": 20,
-      "updated": "2024-09-06T12:20:23.592067+00:00",
-      "state": null,
-      "do_not_record": false
+      "id": 1072869,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2024-09-07T13:00:00Z",
+      "end": "2024-09-07T16:30:00+03:00",
+      "room": 3176
     },
     {
-      "code": "HLR7MM",
-      "id": 1072638,
-      "title": "Build an OpenStreetMap walking tour with a free and open source video game",
-      "abstract": "Minetest Classroom is a free and open source (https://github.com/ubc-minetest-classroom/minetest_classroom) educational, voxel-based sandbox video game that supports the ability to create digital twins from geospatial data, including OpenStreetMap data. In this hands-on workshop, you will learn how to create your own walking tour from OpenStreetMap data with this powerful game. Participants will be able to join a multiplayer server and experience an OpenStreetMap world first-hand. We will also discuss possible lesson plans for teachers looking to engage students with OpenStreetMap, the possibilities for multi-sensory video game cartography more generally, and the future of creating an OpenStreetMap editor in a video game.",
-      "speakers": [
-        "GZKADJ"
-      ],
-      "track": 4513,
-      "start": "2024-09-07T16:30:00+03:00",
-      "end": "2024-09-07T17:30:00+03:00",
-      "room": 3179,
-      "duration": 60,
-      "updated": "2024-09-06T12:20:23.592082+00:00",
-      "state": null,
-      "do_not_record": false
+      "id": 1072867,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2024-09-07T13:00:00Z",
+      "end": "2024-09-07T16:30:00+03:00",
+      "room": 3178
     },
     {
       "code": "8XCQJB",
-      "id": 1072639,
+      "id": 1072873,
       "title": "OSMF board – what are they even doing?",
       "abstract": "If you have ever wondered what OSMF and OSMF board are doing and why they exist it is a good presentation for you.\r\nWill include a brief overview (as promised in the title) of what they are doing, reason for their existence and why you may want to care about them. And why you may want join the board or one of working groups.\r\nPresented by OSMF board member.",
       "speakers": [
@@ -853,13 +802,47 @@
       "end": "2024-09-07T16:50:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.592097+00:00",
+      "updated": "2024-09-06T19:28:45.818366+00:00",
+      "state": null,
+      "do_not_record": false
+    },
+    {
+      "code": "HVVYM7",
+      "id": 1072871,
+      "title": "Generating Ways with the Strava Heatmap",
+      "abstract": "The Strava Global Heatmap visualizes aggregated public GPS traces, guiding athletes worldwide in planning their routes by highlighting popular paths. This presentation demonstrates how the Heatmap, in conjunction with our routing engine, can be utilized to identify and fill in missing ways in OpenStreetMap (OSM). We will discuss an algorithmic strategy for creating generated pathways and introduce a prototype of an interface that facilitates the easy integration of these pathways into OSM. We will showcase how Strava's Heatmap can promote OSM's goal of developing a more comprehensive global map, highlighting a mutually beneficial relationship between the two platforms.",
+      "speakers": [
+        "HHN9VA"
+      ],
+      "track": 4512,
+      "start": "2024-09-07T16:30:00+03:00",
+      "end": "2024-09-07T16:50:00+03:00",
+      "room": 3177,
+      "duration": 20,
+      "updated": "2024-09-06T19:28:45.818330+00:00",
+      "state": null,
+      "do_not_record": false
+    },
+    {
+      "code": "HLR7MM",
+      "id": 1072872,
+      "title": "Build an OpenStreetMap walking tour with a free and open source video game",
+      "abstract": "Minetest Classroom is a free and open source (https://github.com/ubc-minetest-classroom/minetest_classroom) educational, voxel-based sandbox video game that supports the ability to create digital twins from geospatial data, including OpenStreetMap data. In this hands-on workshop, you will learn how to create your own walking tour from OpenStreetMap data with this powerful game. Participants will be able to join a multiplayer server and experience an OpenStreetMap world first-hand. We will also discuss possible lesson plans for teachers looking to engage students with OpenStreetMap, the possibilities for multi-sensory video game cartography more generally, and the future of creating an OpenStreetMap editor in a video game.",
+      "speakers": [
+        "GZKADJ"
+      ],
+      "track": 4513,
+      "start": "2024-09-07T16:30:00+03:00",
+      "end": "2024-09-07T17:30:00+03:00",
+      "room": 3179,
+      "duration": 60,
+      "updated": "2024-09-06T19:28:45.818348+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "SYRTRW",
-      "id": 1072641,
+      "id": 1072874,
       "title": "Lightning Talks II",
       "abstract": "There will be a board where you can sign up for a lightning talks. There are three slots for lightning talks at this conference. Each lightning talk is five minutes long. The topic must be about OpenStreetMap. Prior submission is not required. But if you are not in Nairobi you can send us a prerecorded lightning talk that we will stream during the conference.\r\n\r\n## E-Comappers activities and growth in Rwanda\r\n_by Liliane Nishimirwe_\r\n\r\n## Hot CWG mentorship\r\n_by Benedicta Ohene_\r\n\r\n## Youthmappers activities and growth in Sri Lanka (2021-2024)\r\n_by Sajeevini Sivajothy_\r\n\r\n## #DEI in OSM  - Ladies in maps Zimbabwe\r\n_by Letwin Pondo_\r\n\r\n## Microgrants program in Latin America\r\n_by Maya Low_",
       "speakers": [
@@ -870,13 +853,13 @@
       "end": "2024-09-07T17:20:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.592126+00:00",
+      "updated": "2024-09-07T08:53:18.443046+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "N7TGMA",
-      "id": 1072640,
+      "id": 1072875,
       "title": "Catching OSM Up with External Data with a Workflow and Tools for Conflation and Validation",
       "abstract": "This report outlines a project to improve the workflow for integrating external open datasets into OpenStreetMap (OSM), ensuring compliance with import guidelines. The process includes tools for conflating data with OSM, supported by roles and tasks specific to this workflow. The AllThePlaces project supports this by extracting and mapping open (government) data to the OSM schema. A new tool, \"DiffedPlaces\", is proposed to automate diffs, perform data matching with an improved machine learning algorithm, and host the results. In addition, the existing OSM Conflator tool set, enhanced with a web-based data validation application, will be connected to DiffedPlaces.",
       "speakers": [
@@ -887,13 +870,13 @@
       "end": "2024-09-07T17:20:00+03:00",
       "room": 3177,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.592111+00:00",
+      "updated": "2024-09-06T19:28:45.818401+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "98YGWG",
-      "id": 1072643,
+      "id": 1072876,
       "title": "Get to know OSGeo and expand Your Open Mapping Toolkit",
       "abstract": "Are you familiar with OpenStreetMap but want to take your geospatial skills to the next level? This workshop introduces you to the Open Source Geospatial Foundation (OSGeo) and how its various software projects interact with OpenStreetMap data. This will help you to unlock new possibilities for analysis, visualization, and more.\r\n\r\nThrough a hands-on session using OSGeoLive, participants will:\r\n- Explore OSGeo platforms like QGIS, PostGIS, and OpenLayers.\r\n- Discover how these tools integrate with OpenStreetMap data through hands-on exercises.",
       "speakers": [
@@ -904,13 +887,13 @@
       "end": "2024-09-08T10:30:00+03:00",
       "room": 3178,
       "duration": 60,
-      "updated": "2024-09-06T12:20:23.592155+00:00",
+      "updated": "2024-09-06T19:28:45.818419+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "XUJWAM",
-      "id": 1072642,
+      "id": 1072877,
       "title": "openrouteservice version 8 - Experiences and insights from 10+ years of running and providing a global OSM-driven, free and open-source routing engine",
       "abstract": "Starting as a small research project at the University of Bonn and later the University of Heidelberg at around 2008, Openrouteservice has been steadily growing since. This ensures that now almost 120,000 users get free and equal access to basic mobility solutions every day. With the release of version 8, this conference talk will give you an exclusive behind-the-scenes look at almost a decade of OpenStreetMap-driven open-source software development and delivery. Our successes and challenges, and how we stayed true to our values, providing free and open-source software as a non-profit organization.",
       "speakers": [
@@ -921,13 +904,13 @@
       "end": "2024-09-08T09:50:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.592141+00:00",
+      "updated": "2024-09-06T19:28:45.818437+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "NHZVNW",
-      "id": 1072644,
+      "id": 1072878,
       "title": "How to develop your own style of OpenMapTiles with your favorite editor?",
       "abstract": "This presentation introduces how to develop your own style of OpenMapTiles for MapLibre GL from scratch with *your favorite editor*.\r\n\r\n- Introduce of OpenMapTiles schema.\r\n- Introduce of Charites to use your favorite editor.\r\n- Introduce of other tools to compile JSON format for MapLibre GL.\r\n\r\nThis presentation describes with how to use command line tools to create MapLibre GL style.\r\nI recommend to use UNIX based operation system or Raspberry Pi.\r\nThe editors supports VS Code, Emacs, or Vim.",
       "speakers": [
@@ -938,13 +921,13 @@
       "end": "2024-09-08T10:20:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.592170+00:00",
+      "updated": "2024-09-06T19:28:45.818456+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "8NU7CS",
-      "id": 1072645,
+      "id": 1072879,
       "title": "Lightning Talks IV",
       "abstract": "There will be a board where you can sign up for a lightning talks. There are three slots for lightning talks at this conference. Each lightning talk is five minutes long. The topic must be about OpenStreetMap. Prior submission is not required. But if you are not in Nairobi you can send us a prerecorded lightning talk that we will stream during the conference.\r\n\r\n## Hot course in OSM data use (new course!)\r\n_by Sam Colchester_\r\n\r\n## OSM Malawi: Insights into the contributions of the OSM community\r\n_by Priscilla Kapolo_\r\n\r\n## Hot Open Summit 2324\r\n_by Geoffrey Kateregga_\r\n\r\n## The grwth of OSM community in Zambia (Local knowledge mappis)\r\n_by Priscovia Ng'ambi_\r\n\r\n## Using OSM in urban planning of informal settlements\r\n_by Rem ígio Chilaule_\r\n\r\n## Find an efficient way foe field mapping & data collection\r\n_by Micheal Kaluba_\r\n\r\n## OSM Malawi: Insights into the contributions of the OSM community\r\n_by Priscilla Kapolo_\r\n\r\n## Hot Open Summit 2024\r\n_by Geoffrey Kateregga_\r\n\r\n## The grwth of OSM community in Zambia (Local knowledge mappis)\r\n_by Priscovia Ng'ambi_\r\n\r\n## Using OSM in urban planning of informal settements\r\n_by Remígio Chilaule_\r\n\r\n## Find an efficient way for field mapping & data collection\r\n_by Micheal Kaluba_",
       "speakers": [
@@ -955,39 +938,12 @@
       "end": "2024-09-08T10:50:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.592185+00:00",
+      "updated": "2024-09-07T11:23:08.029877+00:00",
       "state": null,
       "do_not_record": false
     },
     {
-      "id": 1072647,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2024-09-08T08:00:00Z",
-      "end": "2024-09-08T11:30:00+03:00",
-      "room": 3177
-    },
-    {
-      "id": 1072649,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2024-09-08T08:00:00Z",
-      "end": "2024-09-08T11:30:00+03:00",
-      "room": 3178
-    },
-    {
-      "id": 1072648,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2024-09-08T08:00:00Z",
-      "end": "2024-09-08T11:30:00+03:00",
-      "room": 3179
-    },
-    {
-      "id": 1072646,
+      "id": 1072883,
       "title": {
         "en": "Coffee Break"
       },
@@ -996,25 +952,35 @@
       "room": 3176
     },
     {
-      "code": "YNBJGQ",
-      "id": 1072650,
-      "title": "The worst and best of OpenStreetMap in Ghana (Africa)",
-      "abstract": "Africa is huge, publicly available imagery in OSM might not always be up-to-date but massive data is being created with old imagery in many parts of the continent. Using Ghana as a case study we will dive into this rabbit hole, see and learn to improve data quality in OpenStreetMap.",
-      "speakers": [
-        "EYWYDV"
-      ],
-      "track": 4512,
-      "start": "2024-09-08T11:30:00+03:00",
-      "end": "2024-09-08T12:30:00+03:00",
-      "room": 3178,
-      "duration": 60,
-      "updated": "2024-09-06T12:20:23.592270+00:00",
-      "state": null,
-      "do_not_record": false
+      "id": 1072880,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2024-09-08T08:00:00Z",
+      "end": "2024-09-08T11:30:00+03:00",
+      "room": 3177
+    },
+    {
+      "id": 1072882,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2024-09-08T08:00:00Z",
+      "end": "2024-09-08T11:30:00+03:00",
+      "room": 3179
+    },
+    {
+      "id": 1072881,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2024-09-08T08:00:00Z",
+      "end": "2024-09-08T11:30:00+03:00",
+      "room": 3178
     },
     {
       "code": "PRQKRX",
-      "id": 1072651,
+      "id": 1072885,
       "title": "The Current State of Collaboration between Digital Twin and OSM",
       "abstract": "In recent years, advancements in 3D city models have been instrumental in urban planning and public engagement. In Japan, over 200 cities have adopted open digital twin data in CityGML format as promoted by Project PLATEAU of the Ministry of Land, Infrastructure, Transport and Tourism. This initiative, detailed in Binyu et al.'s research and the 3D City Index report, involves collaboration with the global OpenStreetMap community. Utilizing open database license ODbL, the integration of digital twin data with OpenStreetMap has been explored since 2022, aiming to enhance the global adoption of 3D city models and showcase the benefits of collaborative urban development.",
       "speakers": [
@@ -1025,13 +991,30 @@
       "end": "2024-09-08T11:50:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.592285+00:00",
+      "updated": "2024-09-06T19:28:45.818598+00:00",
+      "state": null,
+      "do_not_record": false
+    },
+    {
+      "code": "YNBJGQ",
+      "id": 1072884,
+      "title": "The worst and best of OpenStreetMap in Ghana (Africa)",
+      "abstract": "Africa is huge, publicly available imagery in OSM might not always be up-to-date but massive data is being created with old imagery in many parts of the continent. Using Ghana as a case study we will dive into this rabbit hole, see and learn to improve data quality in OpenStreetMap.",
+      "speakers": [
+        "EYWYDV"
+      ],
+      "track": 4512,
+      "start": "2024-09-08T11:30:00+03:00",
+      "end": "2024-09-08T12:30:00+03:00",
+      "room": 3178,
+      "duration": 60,
+      "updated": "2024-09-06T19:28:45.818579+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "Z8F8RB",
-      "id": 1072652,
+      "id": 1072886,
       "title": "Do we need 11 000 shop=* values?",
       "abstract": "About work on reducing one of minor problems of OpenStreetMap: rare, unclear and confusing tag values. Such as for example shop=mięsny\r\n\r\nHow cleanup of such tags may help? Why it is dangerous to make this kind of edits? How it can be useful and how it can be problematic or annoying?\r\n\r\nHow it can be done so benefits are much greater than damages?\r\n\r\nWhat kind of help would be welcome?",
       "speakers": [
@@ -1042,15 +1025,15 @@
       "end": "2024-09-08T12:20:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.592299+00:00",
+      "updated": "2024-09-06T19:28:45.818616+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "ZZTZRB",
-      "id": 1072653,
+      "id": 1072887,
       "title": "Lightning Talks III",
-      "abstract": "There will be a board where you can sign up for a lightning talks. There are three slots for lightning talks at this conference. Each lightning talk is five minutes long. The topic must be about OpenStreetMap. Prior submission is not required. But if you are not in Nairobi you can send us a prerecorded lightning talk that we will stream during the conference.\r\n\r\n## Campus Guide: Enhance pus navigation throught and updated OSM\r\n_by Victor Ademoyeru_\r\n\r\n## Mapswipe for web\r\n_by Geoffrey Kateregga_\r\n\r\n## Mapping activities and impact in Uganda by geo-youthmappers\r\n_by Umar Katomg_\r\n\r\n## OSM and OpentherialMap data machine learning\r\n_by Remígio Chilaule_\r\n\r\n## Essentials for a geospatial entrepreneur\r\n_by Antidius Kawamala_\r\n\r\n## Perspective of women participation in OSM (Brief insights of sunray conducted in March 2023\r\n_by Benedicta Ohere_",
+      "abstract": "There will be a board where you can sign up for a lightning talks. There are three slots for lightning talks at this conference. Each lightning talk is five minutes long. The topic must be about OpenStreetMap. Prior submission is not required. But if you are not in Nairobi you can send us a prerecorded lightning talk that we will stream during the conference.\r\n## Campus Guide: Enhance pus navigation throught and updated OSM\r\n_by Victor Ademoyero_\r\n\r\n## Mapswipe for web\r\n_by Geoffrey Kateregga_\r\n\r\n## Mapping activities and impact in Uganda by geo-youthmappers\r\n_by Umar Katomgole_\r\n\r\n## OSM and OpentherialMap data for machine learning\r\n_by Remígio Chilaule_\r\n\r\n## Essentials for a geospatial entrepreneur\r\n_by Antidius Kawamala_\r\n\r\n## Perspective of women participation in OSM (Brief insights of sunray conducted in March 2023\r\n_by Benedicta Ohere_",
       "speakers": [
         "YNFKER"
       ],
@@ -1059,39 +1042,12 @@
       "end": "2024-09-08T12:50:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.592314+00:00",
+      "updated": "2024-09-07T11:19:32.783651+00:00",
       "state": null,
       "do_not_record": false
     },
     {
-      "id": 1072656,
-      "title": {
-        "en": "Lunch Break"
-      },
-      "start": "2024-09-08T10:00:00Z",
-      "end": "2024-09-08T14:30:00+03:00",
-      "room": 3178
-    },
-    {
-      "id": 1072655,
-      "title": {
-        "en": "Lunch Break"
-      },
-      "start": "2024-09-08T10:00:00Z",
-      "end": "2024-09-08T14:30:00+03:00",
-      "room": 3176
-    },
-    {
-      "id": 1072657,
-      "title": {
-        "en": "Lunch Break"
-      },
-      "start": "2024-09-08T10:00:00Z",
-      "end": "2024-09-08T14:30:00+03:00",
-      "room": 3177
-    },
-    {
-      "id": 1072654,
+      "id": 1072891,
       "title": {
         "en": "Lunch Break"
       },
@@ -1100,25 +1056,35 @@
       "room": 3179
     },
     {
-      "code": "TQXSFP",
-      "id": 1072659,
-      "title": "From Source to Map: Strategies for Integrating External Data into OpenStreetMap",
-      "abstract": "Maintaining data quality while uploading large datasets to OpenStreetMap from external sources like KoboToolbox can feel overwhelming. This workshop tackles that challenge head-on! We'll guide participants through the process of integrating the data into OSM, ensuring its integrity every step of the way. Participants will master data conversion techniques to bridge the gap between external collection formats and OSM's structure. They will learn how to avoid duplicates and data loss while maintaining accuracy during upload using the JOSM editor. By the end, they will be equipped to confidently contribute valuable community data to OpenStreetMap and empower their fellow mappers.",
-      "speakers": [
-        "MBQG7X"
-      ],
-      "track": 4512,
-      "start": "2024-09-08T14:30:00+03:00",
-      "end": "2024-09-08T15:30:00+03:00",
-      "room": 3178,
-      "duration": 60,
-      "updated": "2024-09-06T12:20:23.592414+00:00",
-      "state": null,
-      "do_not_record": false
+      "id": 1072890,
+      "title": {
+        "en": "Lunch Break"
+      },
+      "start": "2024-09-08T10:00:00Z",
+      "end": "2024-09-08T14:30:00+03:00",
+      "room": 3177
+    },
+    {
+      "id": 1072889,
+      "title": {
+        "en": "Lunch Break"
+      },
+      "start": "2024-09-08T10:00:00Z",
+      "end": "2024-09-08T14:30:00+03:00",
+      "room": 3176
+    },
+    {
+      "id": 1072888,
+      "title": {
+        "en": "Lunch Break"
+      },
+      "start": "2024-09-08T10:00:00Z",
+      "end": "2024-09-08T14:30:00+03:00",
+      "room": 3178
     },
     {
       "code": "SC7HYF",
-      "id": 1072658,
+      "id": 1072893,
       "title": "Go Out And Map",
       "abstract": "So you want to improve the map of your village or city. How do you do that — install Mapillary and go cycling? Print a map and use a pen to draw over it? Install an editor app and go tapping buttons? Just try to remember everything and bring it home to map in JOSM? Let's see what tools we have and how to make the best map with no money and lots of enthusiasm.",
       "speakers": [
@@ -1129,13 +1095,30 @@
       "end": "2024-09-08T14:50:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.592399+00:00",
+      "updated": "2024-09-06T19:28:45.818786+00:00",
+      "state": null,
+      "do_not_record": false
+    },
+    {
+      "code": "TQXSFP",
+      "id": 1072892,
+      "title": "From Source to Map: Strategies for Integrating External Data into OpenStreetMap",
+      "abstract": "Maintaining data quality while uploading large datasets to OpenStreetMap from external sources like KoboToolbox can feel overwhelming. This workshop tackles that challenge head-on! We'll guide participants through the process of integrating the data into OSM, ensuring its integrity every step of the way. Participants will master data conversion techniques to bridge the gap between external collection formats and OSM's structure. They will learn how to avoid duplicates and data loss while maintaining accuracy during upload using the JOSM editor. By the end, they will be equipped to confidently contribute valuable community data to OpenStreetMap and empower their fellow mappers.",
+      "speakers": [
+        "MBQG7X"
+      ],
+      "track": 4512,
+      "start": "2024-09-08T14:30:00+03:00",
+      "end": "2024-09-08T15:30:00+03:00",
+      "room": 3178,
+      "duration": 60,
+      "updated": "2024-09-06T19:28:45.818758+00:00",
       "state": null,
       "do_not_record": false
     },
     {
       "code": "C8UWGW",
-      "id": 1072660,
+      "id": 1072894,
       "title": "OSMF Board AMA",
       "abstract": "OpenStreetMap Foundation Board Ask Us Anything (i.e. AMA). We will take questions from the audience, or other questions that people can submit before the event, and we will talk about and answer them. We can talk about the past actions of the board, and what future plans we have.",
       "speakers": [
@@ -1153,30 +1136,12 @@
       "end": "2024-09-08T16:00:00+03:00",
       "room": 3176,
       "duration": 60,
-      "updated": "2024-09-06T12:20:23.592428+00:00",
+      "updated": "2024-09-06T19:28:45.818804+00:00",
       "state": null,
       "do_not_record": false
     },
     {
-      "id": 1072663,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2024-09-08T13:00:00Z",
-      "end": "2024-09-08T16:30:00+03:00",
-      "room": 3176
-    },
-    {
-      "id": 1072661,
-      "title": {
-        "en": "Coffee Break"
-      },
-      "start": "2024-09-08T13:00:00Z",
-      "end": "2024-09-08T16:30:00+03:00",
-      "room": 3179
-    },
-    {
-      "id": 1072662,
+      "id": 1072897,
       "title": {
         "en": "Coffee Break"
       },
@@ -1185,7 +1150,16 @@
       "room": 3178
     },
     {
-      "id": 1072664,
+      "id": 1072895,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2024-09-08T13:00:00Z",
+      "end": "2024-09-08T16:30:00+03:00",
+      "room": 3176
+    },
+    {
+      "id": 1072898,
       "title": {
         "en": "Coffee Break"
       },
@@ -1194,8 +1168,17 @@
       "room": 3177
     },
     {
+      "id": 1072896,
+      "title": {
+        "en": "Coffee Break"
+      },
+      "start": "2024-09-08T13:00:00Z",
+      "end": "2024-09-08T16:30:00+03:00",
+      "room": 3179
+    },
+    {
       "code": "8ZVKZV",
-      "id": 1072665,
+      "id": 1072899,
       "title": "Closing Session",
       "abstract": "We say goodby to this year's State of the Map conference and to Nairobi. You will see some impressions of the conference and we say thank you to all volunteers and to the local team of Nairobi. We hope that we can already announce the venue of State of the Map 2025.",
       "speakers": [
@@ -1206,7 +1189,7 @@
       "end": "2024-09-08T16:50:00+03:00",
       "room": 3176,
       "duration": 20,
-      "updated": "2024-09-06T12:20:23.592511+00:00",
+      "updated": "2024-09-06T19:28:45.818911+00:00",
       "state": null,
       "do_not_record": false
     },
@@ -1426,7 +1409,7 @@
       "room": 3177
     }
   ],
-  "version": "1.0.6",
+  "version": "1.0.7",
   "timezone": "Africa/Nairobi",
   "event_start": "2024-09-06",
   "event_end": "2024-09-08",
@@ -1761,11 +1744,6 @@
       "code": "8RD9TG",
       "name": "Julian Psotta",
       "avatar": "https://pretalx.com/media/avatars/slack_profilbild_SRJcULO.png"
-    },
-    {
-      "code": "ENUAPX",
-      "name": "ASSONGTIA ASSONDJI Merveille",
-      "avatar": "https://pretalx.com/media/avatars/Snapchat-1854400299_2KEO1nD.jpg"
     },
     {
       "code": "BCLAGF",

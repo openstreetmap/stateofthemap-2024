@@ -4,7 +4,7 @@ title: "Hands-on data validation on OSM: best practices and tools"
 code: "HCCLGL"
 speaker_names: ['Séverin Ménard', 'Michael Montani']
 affiliations: None
-room: "Amboseli Hall"
+room: "Online Workshops"
 length: "60"
 time: "Friday, 16:30"
 time_iso: "2024-09-06T13:30:00Z"

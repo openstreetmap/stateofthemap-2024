@@ -8,7 +8,7 @@ room: "Maasai Mara"
 length: "20"
 time: "Saturday, 16:30"
 time_iso: "2024-09-07T13:30:00Z"
-resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2024/submissions/8XCQJB/resources/OSMF_board__what_are_they_even_doing_final_YeOzffK.pdf" }]
+resources: [{ description: "Slides", url: "https://pretalx.com/media/sotm2024/submissions/8XCQJB/resources/V2_final_OSMF_board__what_are_they_even_doing_7awOSGW.pdf" }]
 recording: False
 ---
 

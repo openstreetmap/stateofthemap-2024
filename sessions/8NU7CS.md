@@ -58,26 +58,11 @@ _by Priscilla Kapolo_
 ## Hot Open Summit 2324
 _by Geoffrey Kateregga_
 
-## The grwth of OSM community in Zambia (Local knowledge mappis)
+## The growth of OSM community in Zambia (Local knowledge mappis)
 _by Priscovia Ng'ambi_
 
 ## Using OSM in urban planning of informal settlements
 _by Rem ígio Chilaule_
-
-## Find an efficient way foe field mapping &amp; data collection
-_by Micheal Kaluba_
-
-## OSM Malawi: Insights into the contributions of the OSM community
-_by Priscilla Kapolo_
-
-## Hot Open Summit 2024
-_by Geoffrey Kateregga_
-
-## The grwth of OSM community in Zambia (Local knowledge mappis)
-_by Priscovia Ng'ambi_
-
-## Using OSM in urban planning of informal settements
-_by Remígio Chilaule_
 
 ## Find an efficient way for field mapping &amp; data collection
 _by Micheal Kaluba_

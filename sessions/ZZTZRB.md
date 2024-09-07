@@ -13,17 +13,16 @@ recording: False
 ---
 
 There will be a board where you can sign up for a lightning talks. There are three slots for lightning talks at this conference. Each lightning talk is five minutes long. The topic must be about OpenStreetMap. Prior submission is not required. But if you are not in Nairobi you can send us a prerecorded lightning talk that we will stream during the conference.
-
 ## Campus Guide: Enhance pus navigation throught and updated OSM
-_by Victor Ademoyeru_
+_by Victor Ademoyero_
 
 ## Mapswipe for web
 _by Geoffrey Kateregga_
 
 ## Mapping activities and impact in Uganda by geo-youthmappers
-_by Umar Katomg_
+_by Umar Katomgole_
 
-## OSM and OpentherialMap data machine learning
+## OSM and OpentherialMap data for machine learning
 _by Remígio Chilaule_
 
 ## Essentials for a geospatial entrepreneur
