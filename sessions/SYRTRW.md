@@ -27,12 +27,12 @@ _by Sajeevini Sivajothy_
 _by Letwin Pondo_
 
 ## Microgrants program in Latin America
-_by MayaLow_
+_by Maya Low_
 
 <hr>
 
 ## E-Comappers activities and growth in Rwanda
-_by Liliane Nishimirwe_
+_by Nishimirwe Liliane_
 
 ## Hot CWG mentorship
 _by Benedicta Ohene_
@@ -44,5 +44,5 @@ _by Sajeevini Sivajothy_
 _by Letwin Pondo_
 
 ## Microgrants program in Latin America
-_by MayaLow_
+_by Maya Low_
 

@@ -8,7 +8,7 @@ room: "Tsavo Hall"
 length: "20"
 time: "Saturday, 16:30"
 time_iso: "2024-09-07T13:30:00Z"
-resources: [{ description: "Slides", url: "https://docs.google.com/presentation/d/1--ft_HS0XPUZ1QKwvZfF5ylT4cX4jFP2gcwdh8VqwsM/preview" }]
+resources: [{ description: "slides", url: "https://pretalx.com/media/sotm2024/submissions/HVVYM7/resources/SotM_2024_-_Generating_Ways_with_the_Strava_Heatma_HD95Bxq.zip" },{ description: "Slides", url: "https://docs.google.com/presentation/d/1--ft_HS0XPUZ1QKwvZfF5ylT4cX4jFP2gcwdh8VqwsM/preview" }]
 recording: False
 ---
 
