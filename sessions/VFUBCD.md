@@ -8,7 +8,7 @@ room: "Tsavo Hall"
 length: "10"
 time: "Sunday, 11:30"
 time_iso: "2024-09-08T08:30:00Z"
-resources: []
+resources: [{ description: "The presentation doc", url: "https://pretalx.com/media/state-of-the-map-2024-academic-track/submissions/VFUBCD/resources/Kingsley_Chika__CHUKWU_4gSjTai.pdf" }]
 recording: False
 ---
 

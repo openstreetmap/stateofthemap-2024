@@ -8,7 +8,7 @@ room: "Amboseli Hall"
 length: "60"
 time: "Saturday, 14:30"
 time_iso: "2024-09-07T11:30:00Z"
-resources: []
+resources: [{ description: "Workshop Slides", url: "https://pretalx.com/media/sotm2024/submissions/L7SUBJ/resources/Workshop-SotM2024-ohsome-Geoparquet_4iOAJRM.pdf" },{ description: "Workshop Book", url: "https://giscience.github.io/sotm-2024-ohsome-data-insights-workshop/intro.html" },{ description: "Github Repository", url: "https://github.com/GIScience/sotm-2024-ohsome-data-insights-workshop" }]
 recording: False
 ---
 

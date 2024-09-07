@@ -8,7 +8,7 @@ room: "Maasai Mara"
 length: "20"
 time: "Sunday, 11:30"
 time_iso: "2024-09-08T08:30:00Z"
-resources: []
+resources: [{ description: "Presentation", url: "https://speakerdeck.com/fullfull/the-current-state-of-collaboration-between-digital-twin-and-osm" }]
 recording: False
 ---
 

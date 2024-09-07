@@ -8,7 +8,7 @@ room: "Maasai Mara"
 length: "20"
 time: "Sunday, 09:30"
 time_iso: "2024-09-08T06:30:00Z"
-resources: [{ description: "openrouteservice", url: "https://openrouteservice.org" },{ description: "HeiGIT", url: "https://heigit.org" },{ description: "openrouteservice GitHub Code", url: "https://github.com/GIScience/openrouteservice" }]
+resources: [{ description: "Presentation", url: "https://pretalx.com/media/sotm2024/submissions/XUJWAM/resources/SotM_2024_SMT_dj7JS7b.pdf" },{ description: "openrouteservice", url: "https://openrouteservice.org" },{ description: "HeiGIT", url: "https://heigit.org" },{ description: "openrouteservice GitHub Code", url: "https://github.com/GIScience/openrouteservice" }]
 recording: False
 ---
 
