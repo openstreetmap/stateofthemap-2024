@@ -8,7 +8,7 @@ room: "Tsavo Hall"
 length: "20"
 time: "Friday, 12:30"
 time_iso: "2024-09-06T09:30:00Z"
-resources: []
+resources: [{ description: "Presentation slides", url: "https://pretalx.com/media/sotm2024/submissions/WCFXG7/resources/MKT_x_YM_-_SotM_2024_H8JuyBs.pdf" }]
 recording: False
 ---
 

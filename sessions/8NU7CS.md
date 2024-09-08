@@ -6,8 +6,8 @@ speaker_names: ['SotM Working Group']
 affiliations: None
 room: "Maasai Mara"
 length: "20"
-time: "Sunday, 10:30"
-time_iso: "2024-09-08T07:30:00Z"
+time: "Sunday, 12:30"
+time_iso: "2024-09-08T09:30:00Z"
 resources: []
 recording: False
 ---
