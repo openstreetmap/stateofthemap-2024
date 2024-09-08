@@ -8,7 +8,7 @@ room: "Maasai Mara"
 length: "20"
 time: "Sunday, 14:30"
 time_iso: "2024-09-08T11:30:00Z"
-resources: []
+resources: [{ description: "Slides", url: "https://textual.ru/sotm2024-goout-zverik.pdf" }]
 recording: False
 ---
 

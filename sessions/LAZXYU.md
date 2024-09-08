@@ -8,7 +8,7 @@ room: "Tsavo Hall"
 length: "20"
 time: "Sunday, 10:30"
 time_iso: "2024-09-08T07:30:00Z"
-resources: [{ description: "GitHub repository for SOD", url: "https://github.com/achic19/SOD" }]
+resources: [{ description: "Pdf Presentation", url: "https://pretalx.com/media/state-of-the-map-2024-academic-track/submissions/LAZXYU/resources/Final_presentaion__u2CXm6N.pdf" },{ description: "GitHub repository for SOD", url: "https://github.com/achic19/SOD" }]
 recording: False
 ---
 

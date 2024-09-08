@@ -8,7 +8,7 @@ room: "Amboseli Hall"
 length: "60"
 time: "Sunday, 09:30"
 time_iso: "2024-09-08T06:30:00Z"
-resources: []
+resources: [{ description: "Presentation slides", url: "https://pretalx.com/media/sotm2024/submissions/98YGWG/resources/Get_to_know_OSGeo_e71AB2b.pdf" }]
 recording: False
 ---
 
