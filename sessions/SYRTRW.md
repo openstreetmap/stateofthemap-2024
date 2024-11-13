@@ -34,21 +34,21 @@ _by Iman Seleman_
 
 <hr>
 
-## E-Comappers activities and growth in Rwanda
+## EcoMappers activities and growth in Rwanda
 _by Nishimirwe Liliane_
 
 ## Hot CWG mentorship
 _by Benedicta Ohene_
 
-## Youthmappers activities and growth in Sri Lanka (2021-2024)
+## YouthMappers activities and growth in Sri Lanka (2021-2024)
 _by Sajeevini Sivajothy_
 
-## #DEI in OSM  - Ladies in maps Zimbabwe
+## #DEI in OSM - Ladies in Maps Zimbabwe
 _by Letwin Pondo_
 
 ## Microgrants program in Latin America
-_by Maya Low_
+_by Maya Lovo_
 
-## My journey in OSM: Youth mappers Tanzania
+## My journey in OSM: YouthMappers Tanzania
 _by Iman Seleman_
 

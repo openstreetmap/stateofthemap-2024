@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "Analyzing the Spatial Distribution of Fuel Stations in Harare, Zimbabwe: Leveraging OpenStreetMap for Disaster Preparedness, Mitigation and Recovery."
+title: "Analyzing the Spatial Distribution of Fuel Stations in Harare, Zimbabwe: Leveraging OpenStreetMap for Disaster Preparedness, Mitigation and Recovery"
 code: "VFUBCD"
 speaker_names: ['Kingsley Chika CHUKWU']
 affiliations: None

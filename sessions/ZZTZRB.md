@@ -40,15 +40,15 @@ _by Victor Ademoyero_
 ## Mapswipe for web
 _by Geoffrey Kateregga_
 
-## Mapping activities and impact in Uganda by geo-youthmappers
+## Mapping activities and impact in Uganda by Geo-YouthMappers
 _by Umar Katomgole_
 
-## OSM and OpentherialMap data for machine learning
+## OSM and OpenAerialMap data for machine learning
 _by Remígio Chilaule_
 
 ## Essentials for a geospatial entrepreneur
 _by Antidius Kawamala_
 
-## Perspective of women participation in OSM (Brief insights of sunray conducted in March 2023
+## Perspective of women participation in OSM (brief insights of survey conducted in March 2023)
 _by Benedicta Ohere_
 

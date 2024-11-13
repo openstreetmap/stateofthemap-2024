@@ -15,7 +15,7 @@
       "duration": 20,
       "updated": "2024-09-07T22:50:37.805079+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "EWNBAV",
@@ -32,7 +32,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.682362+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "id": 1073131,
@@ -86,7 +86,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.682545+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "AXHHF3",
@@ -103,7 +103,7 @@
       "duration": 60,
       "updated": "2024-09-07T11:32:48.682521+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "C8B93B",
@@ -120,7 +120,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.682566+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "LDB3BA",
@@ -137,7 +137,7 @@
       "duration": 60,
       "updated": "2024-09-07T11:32:48.682587+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "WCFXG7",
@@ -155,7 +155,7 @@
       "duration": 20,
       "updated": "2024-09-07T22:48:04.098584+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "id": 1073140,
@@ -208,7 +208,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.682787+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "FRFJBJ",
@@ -225,7 +225,7 @@
       "duration": 60,
       "updated": "2024-09-07T11:32:48.682808+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "98JMSV",
@@ -242,7 +242,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.682764+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "3D9RGU",
@@ -259,7 +259,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.682828+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "MRQDGE",
@@ -276,12 +276,12 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.682848+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "A7DUFU",
       "id": 1073148,
-      "title": "Women in OSM Tech - What worked best for me.",
+      "title": "Women in OSM Tech - What worked best for me",
       "abstract": "This proposal outlines my journey into the tech sector via OpenStreetMap (OSM) as a woman with no prior tech background. I'll share my transformation from beginner mapper to proficient user, skilled in OSM mapping and QGIS for data analysis.In a field where women's representation is limited, my involvement in OSM Tech stands as a testament to breaking barriers and fostering inclusivity—an opportunity provided to me by OpenMap Development Tanzania (OMDTZ). I’ll show the significance of providing equal opportunities and a supportive environment for women in technology in OSM and highlight the potential of OSM as a catalyst for  personal and professional advancement.",
       "speakers": [
         "QEWN7L"
@@ -293,7 +293,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.682888+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "J9ATMQ",
@@ -310,7 +310,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.682868+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "id": 1073149,
@@ -364,7 +364,7 @@
       "duration": 60,
       "updated": "2024-09-07T11:32:48.683029+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "HCCLGL",
@@ -382,7 +382,7 @@
       "duration": 60,
       "updated": "2024-09-07T11:32:48.683049+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "99HWEX",
@@ -400,7 +400,7 @@
       "duration": 40,
       "updated": "2024-09-07T11:32:48.683068+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "V3FYDH",
@@ -418,7 +418,7 @@
       "duration": 40,
       "updated": "2024-09-07T11:32:48.683009+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "87HBBY",
@@ -435,7 +435,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.683106+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "MRBEFX",
@@ -453,7 +453,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.683087+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "B3EH7D",
@@ -471,7 +471,7 @@
       "duration": 40,
       "updated": "2024-09-07T11:32:48.683125+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "id": 1073160,
@@ -524,7 +524,7 @@
       "duration": 60,
       "updated": "2024-09-07T11:32:48.683240+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "VS77B3",
@@ -542,7 +542,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.683278+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "BXGLWA",
@@ -560,7 +560,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.683259+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "ZHME3F",
@@ -577,7 +577,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.683316+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "T3CXBD",
@@ -594,7 +594,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.683297+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "EBMVWS",
@@ -611,7 +611,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.683334+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "id": 1073171,
@@ -664,7 +664,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.683445+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "HS8SVU",
@@ -681,7 +681,7 @@
       "duration": 40,
       "updated": "2024-09-07T11:32:48.683464+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "L7SUBJ",
@@ -700,7 +700,7 @@
       "duration": 60,
       "updated": "2024-09-07T11:32:48.683483+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "A3Y3BC",
@@ -717,7 +717,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.683503+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "3ZU3ZR",
@@ -734,7 +734,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.683540+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "ZVVQTA",
@@ -751,7 +751,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.683522+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "id": 1073182,
@@ -804,7 +804,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.683655+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "HLR7MM",
@@ -821,7 +821,7 @@
       "duration": 60,
       "updated": "2024-09-07T11:32:48.683693+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "HVVYM7",
@@ -838,7 +838,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.683674+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "SYRTRW",
@@ -855,7 +855,7 @@
       "duration": 20,
       "updated": "2024-09-07T13:04:26.335186+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "N7TGMA",
@@ -872,7 +872,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.683731+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "XUJWAM",
@@ -889,7 +889,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.683769+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "98YGWG",
@@ -906,7 +906,7 @@
       "duration": 60,
       "updated": "2024-09-07T11:32:48.683751+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "NHZVNW",
@@ -923,7 +923,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.683788+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "ZZTZRB",
@@ -940,7 +940,7 @@
       "duration": 20,
       "updated": "2024-09-08T05:54:05.974681+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "id": 1073194,
@@ -993,7 +993,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.683920+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "YNBJGQ",
@@ -1010,7 +1010,7 @@
       "duration": 60,
       "updated": "2024-09-07T11:32:48.683939+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "Z8F8RB",
@@ -1027,7 +1027,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.683958+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "8NU7CS",
@@ -1044,7 +1044,7 @@
       "duration": 20,
       "updated": "2024-09-08T05:54:13.292289+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "id": 1073202,
@@ -1097,7 +1097,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.684139+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "TQXSFP",
@@ -1114,7 +1114,7 @@
       "duration": 60,
       "updated": "2024-09-07T11:32:48.684158+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "C8UWGW",
@@ -1138,7 +1138,7 @@
       "duration": 60,
       "updated": "2024-09-07T11:32:48.684176+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "id": 1073210,
@@ -1191,7 +1191,7 @@
       "duration": 20,
       "updated": "2024-09-07T11:32:48.684293+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "PG3K3G",
@@ -1208,7 +1208,7 @@
       "duration": 20,
       "updated": "2024-07-29T06:51:04.028761+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "R9CVQD",
@@ -1225,7 +1225,7 @@
       "duration": 20,
       "updated": "2024-07-29T06:51:17.974646+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "LAZXYU",
@@ -1242,7 +1242,7 @@
       "duration": 20,
       "updated": "2024-07-29T06:51:33.185765+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "id": 1007290,
@@ -1256,7 +1256,7 @@
     {
       "code": "VFUBCD",
       "id": 1054140,
-      "title": "Analyzing the Spatial Distribution of Fuel Stations in Harare, Zimbabwe: Leveraging OpenStreetMap for Disaster Preparedness, Mitigation and Recovery.",
+      "title": "Analyzing the Spatial Distribution of Fuel Stations in Harare, Zimbabwe: Leveraging OpenStreetMap for Disaster Preparedness, Mitigation and Recovery",
       "abstract": "Whether they are man-made or natural, disasters pose serious risks to communities all over the world. A comprehensive evaluation of gasoline station infrastructure is necessary to ensure public safety and reduce fire dangers. This research, which focuses on Harare, Zimbabwe, uses Geographic Information Systems (GIS) to examine building patterns and access building footprints, road networks, and public facilities using the OpenStreetMap Database. Fuel station mapping and dataset overlaying allow to define fire risk levels that are susceptible to fire hazards and identify danger zones. This study supports risk management, public safety, disaster preparedness, and mitigation initiatives in Harare, Zimbabwe.",
       "speakers": [
         "CPZYT7"
@@ -1268,7 +1268,7 @@
       "duration": 10,
       "updated": "2024-07-29T06:51:50.986393+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "MKPJFW",
@@ -1285,7 +1285,7 @@
       "duration": 10,
       "updated": "2024-07-29T06:51:59.850931+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "HD9RQD",
@@ -1302,7 +1302,7 @@
       "duration": 20,
       "updated": "2024-07-29T06:52:14.135675+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "SHA79S",
@@ -1319,7 +1319,7 @@
       "duration": 20,
       "updated": "2024-07-29T06:52:19.336856+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "id": 1007291,
@@ -1333,7 +1333,7 @@
     {
       "code": "NQHRLV",
       "id": 1054138,
-      "title": "CRISIS MAPPING: TEACHING HIGH SCHOOL ELL STUDENTS HOW TO MAKE MAPS THAT SAVE LIVES",
+      "title": "Crisis Mapping: Teaching High School ELL Students How to Make Maps That Save Lives",
       "abstract": "This paper presents the learning outcomes of a Mini-Mapathon course developed, implemented, and evaluated for the first time in a population of 28 Asian Junior high school ELL students in three Human Geography courses at an international high school. The paper includes an introduction to crisis mapping and concludes with an analysis of students’ knowledge and skill gains, and attitudes towards map making.  Students’ survey responses were analyzed using mixed methods.  In conclusion, the paper proposes that the Mini-Mapathon course could be implemented in other schools with a larger sample size to investigate learning outcomes.",
       "speakers": [
         "P37CFN"
@@ -1345,7 +1345,7 @@
       "duration": 10,
       "updated": "2024-07-29T06:52:30.656502+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "TXYEFS",
@@ -1362,7 +1362,7 @@
       "duration": 10,
       "updated": "2024-07-29T06:52:35.172385+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "FSYR9S",
@@ -1380,7 +1380,7 @@
       "duration": 20,
       "updated": "2024-07-29T06:52:42.659317+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "code": "CDT3PZ",
@@ -1397,7 +1397,7 @@
       "duration": 20,
       "updated": "2024-07-29T06:52:47.960732+00:00",
       "state": null,
-      "do_not_record": false
+      "do_not_record": null
     },
     {
       "id": 1007292,
@@ -1523,327 +1523,457 @@
     {
       "code": "AU9QGF",
       "name": "benedcto adam",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "9N3L7T",
       "name": "Mary Muthee",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "RPM7DD",
       "name": "Humanitarian OpenStreetMap Team (HOT)",
-      "avatar": "https://pretalx.com/media/avatars/Screenshot_from_2023-11-15_13-45-49_hLllkqe.png"
+      "avatar": "https://pretalx.com/media/avatars/RPM7DD_lc5pSqA.png",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/RPM7DD_lc5pSqA_thumbnail.png",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/RPM7DD_lc5pSqA_thumbnail_tiny.png"
     },
     {
       "code": "E8WPXD",
       "name": "Benjamin Herfort",
-      "avatar": "https://pretalx.com/media/avatars/hegit_herfort.benjamin_4zBFLGD.jpg"
+      "avatar": "https://pretalx.com/media/avatars/E8WPXD_ejcU0nR.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/E8WPXD_ejcU0nR_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/E8WPXD_ejcU0nR_thumbnail_tiny.jpg"
     },
     {
       "code": "VWQAZR",
       "name": "Andrew Hain",
-      "avatar": "https://pretalx.com/media/avatars/IMG_20240422_211147_WWOIFro.jpg"
+      "avatar": "https://pretalx.com/media/avatars/VWQAZR_6oWnimA.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/VWQAZR_6oWnimA_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/VWQAZR_6oWnimA_thumbnail_tiny.jpg"
     },
     {
       "code": "SQXFVL",
       "name": "Johanes Petro Machela",
-      "avatar": "https://pretalx.com/media/avatars/johanes_9tUyUu5.jpg"
+      "avatar": "https://pretalx.com/media/avatars/SQXFVL_SksIFLS.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/SQXFVL_SksIFLS_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/SQXFVL_SksIFLS_thumbnail_tiny.jpg"
     },
     {
       "code": "N9BQZ3",
       "name": "Markus Tremmel",
-      "avatar": "https://pretalx.com/media/avatars/49793fad840008b7e93503ce79d8bbc2_89SL0vX.jpg"
+      "avatar": "https://pretalx.com/media/avatars/N9BQZ3_Ha1PX82.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/N9BQZ3_Ha1PX82_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/N9BQZ3_Ha1PX82_thumbnail_tiny.jpg"
     },
     {
       "code": "QEWN7L",
       "name": "Anastazia Caroll",
-      "avatar": "https://pretalx.com/media/avatars/anna_elSHXBA.jpg"
+      "avatar": "https://pretalx.com/media/avatars/QEWN7L_5qOY0hf.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/QEWN7L_5qOY0hf_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/QEWN7L_5qOY0hf_thumbnail_tiny.jpg"
     },
     {
       "code": "MBQG7X",
       "name": "Amour Nyalusi",
-      "avatar": "https://pretalx.com/media/avatars/amour_7J2BKmQ.jpg"
+      "avatar": "https://pretalx.com/media/avatars/MBQG7X_Qv3JRTX.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/MBQG7X_Qv3JRTX_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/MBQG7X_Qv3JRTX_thumbnail_tiny.jpg"
     },
     {
       "code": "QS9XHH",
       "name": "Taro Matsuzawa",
-      "avatar": "https://pretalx.com/media/avatars/45fa000e24f74e28dd6880a61a1cf0b8_LSCaVPw.jpg"
+      "avatar": "https://pretalx.com/media/avatars/QS9XHH_0nHX2up.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/QS9XHH_0nHX2up_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/QS9XHH_0nHX2up_thumbnail_tiny.jpg"
     },
     {
       "code": "LULDTS",
       "name": "Jochen Topf",
-      "avatar": "https://pretalx.com/media/avatars/jochen-topf-512x512_OVtoSRb.jpg"
+      "avatar": "https://pretalx.com/media/avatars/LULDTS_VUTXCUd.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/LULDTS_VUTXCUd_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/LULDTS_VUTXCUd_thumbnail_tiny.jpg"
     },
     {
       "code": "HHN9VA",
       "name": "Derick Yang",
-      "avatar": "https://pretalx.com/media/avatars/smaller_propic_jdKtsHH.jpeg"
+      "avatar": "https://pretalx.com/media/avatars/HHN9VA_Q0XPkkC.jpeg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/HHN9VA_Q0XPkkC_thumbnail.jpeg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/HHN9VA_Q0XPkkC_thumbnail_tiny.jpeg"
     },
     {
       "code": "AXSB3U",
       "name": "Wilson Munyaradzi",
-      "avatar": "https://pretalx.com/media/avatars/wilson_photo_1_NcblRqM.jpg"
+      "avatar": "https://pretalx.com/media/avatars/AXSB3U_KGKVBDx.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/AXSB3U_KGKVBDx_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/AXSB3U_KGKVBDx_thumbnail_tiny.jpg"
     },
     {
       "code": "KEEP87",
       "name": "Laura Mugeha",
-      "avatar": "https://pretalx.com/media/avatars/Laura_Mugeha_GvSEHM5.jpg"
+      "avatar": "https://pretalx.com/media/avatars/KEEP87_072TI9w.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/KEEP87_072TI9w_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/KEEP87_072TI9w_thumbnail_tiny.jpg"
     },
     {
       "code": "CCLRGB",
       "name": "Erick Mnyali",
-      "avatar": "https://pretalx.com/media/avatars/487986933289bbb1547f1145c1c494d0_KG0xF2u.jpg"
+      "avatar": "https://pretalx.com/media/avatars/CCLRGB_O9KJbn5.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/CCLRGB_O9KJbn5_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/CCLRGB_O9KJbn5_thumbnail_tiny.jpg"
     },
     {
       "code": "RPBMWS",
       "name": "Luis Sebastian Bravo Chacon",
-      "avatar": "https://pretalx.com/media/avatars/Dise%C3%B1o_sin_t%C3%ADtulo_1_9YsQ088.png"
+      "avatar": "https://pretalx.com/media/avatars/RPBMWS_oPLyMM6.png",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/RPBMWS_oPLyMM6_thumbnail.png",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/RPBMWS_oPLyMM6_thumbnail_tiny.png"
     },
     {
       "code": "9LCYEQ",
       "name": "Craig Allan",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "EDWH9Q",
       "name": "Taichi Furuhashi",
-      "avatar": "https://pretalx.com/media/avatars/taichifuruhashi_kao202205_jJLLhHc.jpg"
+      "avatar": "https://pretalx.com/media/avatars/EDWH9Q_1ZqB3Av.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/EDWH9Q_1ZqB3Av_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/EDWH9Q_1ZqB3Av_thumbnail_tiny.jpg"
     },
     {
       "code": "GZKADJ",
       "name": "Paul Pickell",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "TER3GY",
       "name": "Pragya Pant",
-      "avatar": "https://pretalx.com/media/avatars/IMG-20240301-WA0002_lAXgJvv.jpg"
+      "avatar": "https://pretalx.com/media/avatars/TER3GY_meSglyr.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/TER3GY_meSglyr_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/TER3GY_meSglyr_thumbnail_tiny.jpg"
     },
     {
       "code": "397ENW",
       "name": "Taylor Reich",
-      "avatar": "https://pretalx.com/media/avatars/itdp_profile_picture_kBbRNWL.jpg"
+      "avatar": "https://pretalx.com/media/avatars/397ENW_DObjgsZ.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/397ENW_DObjgsZ_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/397ENW_DObjgsZ_thumbnail_tiny.jpg"
     },
     {
       "code": "JKGQ9U",
       "name": "OSMF board",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "GXP7GW",
       "name": "Daniele Santini",
-      "avatar": "https://pretalx.com/media/avatars/350658cf72af5f15e831323308fab29d_SpMXZcB.jpg"
+      "avatar": "https://pretalx.com/media/avatars/GXP7GW_sHcyoK0.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/GXP7GW_sHcyoK0_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/GXP7GW_sHcyoK0_thumbnail_tiny.jpg"
     },
     {
       "code": "7RHVP9",
       "name": "Wille Marcel",
-      "avatar": "https://pretalx.com/media/avatars/headshot-2023_ttZmFP7.jpeg"
+      "avatar": "https://pretalx.com/media/avatars/7RHVP9_hdsLksl.jpeg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/7RHVP9_hdsLksl_thumbnail.jpeg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/7RHVP9_hdsLksl_thumbnail_tiny.jpeg"
     },
     {
       "code": "RD7F9S",
       "name": "Sarah Hoffmann",
-      "avatar": "https://pretalx.com/media/avatars/portrait_xNSZKm5.jpg"
+      "avatar": "https://pretalx.com/media/avatars/RD7F9S_gocF2ID.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/RD7F9S_gocF2ID_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/RD7F9S_gocF2ID_thumbnail_tiny.jpg"
     },
     {
       "code": "3PGXJV",
       "name": "Yvonne Darko",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "3PM7NH",
       "name": "Rabina Poudyal",
-      "avatar": "https://pretalx.com/media/avatars/f69ebed9-eeb5-477d-9c5e-b8ac0449d713_qkoRh3L.jpg"
+      "avatar": "https://pretalx.com/media/avatars/3PM7NH_XbjuFev.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/3PM7NH_XbjuFev_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/3PM7NH_XbjuFev_thumbnail_tiny.jpg"
     },
     {
       "code": "TJ9EBM",
       "name": "Ilya Zverev",
-      "avatar": "https://pretalx.com/media/avatars/d3b22622ec4a1a39905c599b50f1eab3_czXaK2s.jpg"
+      "avatar": "https://pretalx.com/media/avatars/TJ9EBM_XbPDHu0.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/TJ9EBM_XbPDHu0_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/TJ9EBM_XbPDHu0_thumbnail_tiny.jpg"
     },
     {
       "code": "WABK8C",
       "name": "Michael Auer",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "XPVECQ",
       "name": "Claire Halleux",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "C7C8DL",
       "name": "Jorieke Vyncke",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "7GBE77",
       "name": "Joshua Ogure",
-      "avatar": "https://pretalx.com/media/avatars/f0fd529c80ead43c55f0c0ef0eed6a95_XJAptVP.jpg"
+      "avatar": "https://pretalx.com/media/avatars/7GBE77_7hGWDwi.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/7GBE77_7hGWDwi_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/7GBE77_7hGWDwi_thumbnail_tiny.jpg"
     },
     {
       "code": "CZLFVR",
       "name": "Diego Gonzalez Ferreiro",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "JBAK7J",
       "name": "Arnalie Vicario",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "KBUVZX",
       "name": "Guillaume Rischard",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "3XXVZL",
       "name": "Roland Olbricht",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "8DNSXM",
       "name": "Zacharia Muindi",
-      "avatar": "https://pretalx.com/media/avatars/headshot_cnowHuK.jpg"
+      "avatar": "https://pretalx.com/media/avatars/8DNSXM_XDddDuA.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/8DNSXM_XDddDuA_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/8DNSXM_XDddDuA_thumbnail_tiny.jpg"
     },
     {
       "code": "HGCMWV",
       "name": "Séverin Ménard",
-      "avatar": "https://pretalx.com/media/avatars/SeverinGeo_thumb_xl3YWza.jpeg"
+      "avatar": "https://pretalx.com/media/avatars/HGCMWV_jvlXxtG.jpeg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/HGCMWV_jvlXxtG_thumbnail.jpeg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/HGCMWV_jvlXxtG_thumbnail_tiny.jpeg"
     },
     {
       "code": "FKFUVW",
       "name": "Daniela Waltersdorfer Jimenez",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "PBXG7S",
       "name": "Sajjad Anwar",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "DWDVZS",
       "name": "Dennis Raylin Chen",
-      "avatar": "https://pretalx.com/media/avatars/Dennis-Chen-2021_vy9YVlt.jpg"
+      "avatar": "https://pretalx.com/media/avatars/DWDVZS_i5bRGYk.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/DWDVZS_i5bRGYk_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/DWDVZS_i5bRGYk_thumbnail_tiny.jpg"
     },
     {
       "code": "EM9MWR",
       "name": "Stefan Keller",
-      "avatar": "https://pretalx.com/media/avatars/Stefan_Keller_VA2ic4a.jpg"
+      "avatar": "https://pretalx.com/media/avatars/EM9MWR_CcnOxL3.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/EM9MWR_CcnOxL3_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/EM9MWR_CcnOxL3_thumbnail_tiny.jpg"
     },
     {
       "code": "3LA7XB",
       "name": "Martin Raifer",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "9GGAN8",
       "name": "Frederik Ramm",
-      "avatar": ""
+      "avatar": "https://pretalx.com/media/avatars/9GGAN8_8EXeAo4.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/9GGAN8_8EXeAo4_thumbnail_default.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/9GGAN8_8EXeAo4_thumbnail_tiny.jpg"
     },
     {
       "code": "8RD9TG",
       "name": "Julian Psotta",
-      "avatar": "https://pretalx.com/media/avatars/slack_profilbild_SRJcULO.png"
+      "avatar": "https://pretalx.com/media/avatars/8RD9TG_xzhQkvh.png",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/8RD9TG_xzhQkvh_thumbnail.png",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/8RD9TG_xzhQkvh_thumbnail_tiny.png"
     },
     {
       "code": "BCLAGF",
       "name": "Michael Montani",
-      "avatar": "https://pretalx.com/media/avatars/202205_MichaelMontani_aUJg26s.jpeg"
+      "avatar": "https://pretalx.com/media/avatars/BCLAGF_Nkcx3PN.jpeg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/BCLAGF_Nkcx3PN_thumbnail.jpeg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/BCLAGF_Nkcx3PN_thumbnail_tiny.jpeg"
     },
     {
       "code": "U3AWDU",
       "name": "Walter Mayeku",
-      "avatar": "https://pretalx.com/media/avatars/IMG-20230209-WA0075_4z2dcjw.jpg"
+      "avatar": "https://pretalx.com/media/avatars/U3AWDU_jEvOhxO.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/U3AWDU_jEvOhxO_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/U3AWDU_jEvOhxO_thumbnail_tiny.jpg"
     },
     {
       "code": "Z9CA8S",
       "name": "Yves Emmanuel NIKOYO EMOUGOU",
-      "avatar": "https://pretalx.com/media/avatars/Yves_1_ekCyr5s.jpg"
+      "avatar": "https://pretalx.com/media/avatars/Z9CA8S_e5EyoLr.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/Z9CA8S_e5EyoLr_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/Z9CA8S_e5EyoLr_thumbnail_tiny.jpg"
     },
     {
       "code": "KGDXUA",
       "name": "Erica Hagen",
-      "avatar": "https://pretalx.com/media/avatars/12b02b776b9e0cb92013f015e52a1f2f_Co1AbWC.jpg"
+      "avatar": "https://pretalx.com/media/avatars/KGDXUA_B4GnPxv.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/KGDXUA_B4GnPxv_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/KGDXUA_B4GnPxv_thumbnail_tiny.jpg"
     },
     {
       "code": "EYWYDV",
       "name": "Enock Seth Nyamador",
-      "avatar": "https://pretalx.com/media/avatars/c9f1c8414921232387d9db66e7646282_kOzx1IP.jpg"
+      "avatar": "https://pretalx.com/media/avatars/EYWYDV_KZH0sZ4.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/EYWYDV_KZH0sZ4_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/EYWYDV_KZH0sZ4_thumbnail_tiny.jpg"
     },
     {
       "code": "YNFKER",
       "name": "SotM Working Group",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "ZBGMZE",
       "name": "Mateusz Konieczny",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "JWED7P",
       "name": "Rafael Troilo",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "WVTSJD",
       "name": "Paweł Struś",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "HN77EN",
       "name": "Marco Minghini",
-      "avatar": "https://pretalx.com/media/avatars/Marco_Helsinki_rsYwHCA.png"
+      "avatar": "https://pretalx.com/media/avatars/HN77EN_vDNuJyT.png",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/HN77EN_vDNuJyT_thumbnail.png",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/HN77EN_vDNuJyT_thumbnail_tiny.png"
     },
     {
       "code": "ZHPUPT",
       "name": "Anna Zanchetta",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "CPZYT7",
       "name": "Kingsley Chika CHUKWU",
-      "avatar": "https://pretalx.com/media/avatars/Kingsley_Chika_CHUKWU_1_OyQc1yq.jpg"
+      "avatar": "https://pretalx.com/media/avatars/CPZYT7_e5kZpK6.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/CPZYT7_e5kZpK6_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/CPZYT7_e5kZpK6_thumbnail_tiny.jpg"
     },
     {
       "code": "RSVU7F",
       "name": "Achituv Cohen",
-      "avatar": "https://pretalx.com/media/avatars/me_3_24_v84j6ZB.png"
+      "avatar": "https://pretalx.com/media/avatars/RSVU7F_IZl8gCG.png",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/RSVU7F_IZl8gCG_thumbnail.png",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/RSVU7F_IZl8gCG_thumbnail_tiny.png"
     },
     {
       "code": "E8WPXD",
       "name": "Benjamin Herfort",
-      "avatar": "https://pretalx.com/media/avatars/hegit_herfort.benjamin_4zBFLGD.jpg"
+      "avatar": "https://pretalx.com/media/avatars/E8WPXD_ejcU0nR.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/E8WPXD_ejcU0nR_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/E8WPXD_ejcU0nR_thumbnail_tiny.jpg"
     },
     {
       "code": "JMPFTG",
       "name": "Luisa Lo Presti",
-      "avatar": ""
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "3UBLLA",
-      "name": "Yair Grinberger & Marco Minghini",
-      "avatar": ""
+      "name": "Yair Grinberger",
+      "avatar": "",
+      "avatar_thumbnail_default": "",
+      "avatar_thumbnail_tiny": ""
     },
     {
       "code": "P37CFN",
       "name": "Dr. Joel Thomas",
-      "avatar": "https://pretalx.com/media/avatars/unnamed_wSscOp1.JPG"
+      "avatar": "https://pretalx.com/media/avatars/P37CFN_Rz2kotn.JPG",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/P37CFN_Rz2kotn_thumbnail.JPG",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/P37CFN_Rz2kotn_thumbnail_tiny.JPG"
     },
     {
       "code": "FCGY3G",
       "name": "Alex Hoferek",
-      "avatar": "https://pretalx.com/media/avatars/HVFOE1428_6K5WS8k.JPG"
+      "avatar": "https://pretalx.com/media/avatars/FCGY3G_k84CEz8.JPG",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/FCGY3G_k84CEz8_thumbnail.JPG",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/FCGY3G_k84CEz8_thumbnail_tiny.JPG"
     },
     {
       "code": "JHKNEZ",
       "name": "Valeria Rossi",
-      "avatar": "https://pretalx.com/media/avatars/foto_profilo_linkedin_S6wVQbS.PNG"
+      "avatar": "https://pretalx.com/media/avatars/JHKNEZ_f5q0FI3.PNG",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/JHKNEZ_f5q0FI3_thumbnail.PNG",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/JHKNEZ_f5q0FI3_thumbnail_tiny.PNG"
     },
     {
       "code": "VV7SZN",
       "name": "Wangshu Wang",
-      "avatar": "https://pretalx.com/media/avatars/wangshu1_PPFjpCv.jpg"
+      "avatar": "https://pretalx.com/media/avatars/VV7SZN_coAcTIL.jpg",
+      "avatar_thumbnail_default": "https://pretalx.com/media/avatars/VV7SZN_coAcTIL_thumbnail.jpg",
+      "avatar_thumbnail_tiny": "https://pretalx.com/media/avatars/VV7SZN_coAcTIL_thumbnail_tiny.jpg"
     }
   ]
 }

@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "CRISIS MAPPING: TEACHING HIGH SCHOOL ELL STUDENTS HOW TO MAKE MAPS THAT SAVE LIVES"
+title: "Crisis Mapping: Teaching High School ELL Students How to Make Maps That Save Lives"
 code: "NQHRLV"
 speaker_names: ['Dr. Joel Thomas']
 affiliations: None

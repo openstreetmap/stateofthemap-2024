@@ -55,14 +55,14 @@ _by Sam Colchester_
 ## OSM Malawi: Insights into the contributions of the OSM community
 _by Priscilla Kapolo_
 
-## Hot Open Summit 2324
+## Hot OpenSummit '23-24
 _by Geoffrey Kateregga_
 
-## The growth of OSM community in Zambia (Local knowledge mappis)
+## The growth of OSM community in Zambia (Local knowledge mapping)
 _by Priscovia Ng'ambi_
 
 ## Using OSM in urban planning of informal settlements
-_by Rem ígio Chilaule_
+_by Remígio Chilaule_
 
 ## Find an efficient way for field mapping &amp; data collection
 _by Micheal Kaluba_

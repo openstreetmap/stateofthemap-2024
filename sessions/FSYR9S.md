@@ -2,7 +2,7 @@
 layout: session
 title: "What happens when VGI is threatened? A systems perspective analysis of the events behind the introduction of rate limiting in OpenStreetMap"
 code: "FSYR9S"
-speaker_names: ['Marco Minghini', 'Yair Grinberger &amp; Marco Minghini']
+speaker_names: ['Marco Minghini', 'Yair Grinberger']
 affiliations: None
 room: "Tsavo Hall"
 length: "20"

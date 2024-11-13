@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "Women in OSM Tech - What worked best for me."
+title: "Women in OSM Tech - What worked best for me"
 code: "A7DUFU"
 speaker_names: ['Anastazia Caroll']
 affiliations: None
