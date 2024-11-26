@@ -1,4 +1,7 @@
 ---
+youtube: fG0ooSTvm1I
+voc: https://media.ccc.de/v/sotm2024-49647-osmf-board-ama
+recordings: [{'size': 642, 'length': 3653, 'mime_type': 'video/mp4', 'language': 'eng', 'filename': 'sotm2024-49647-eng-OSMF_Board_AMA_hd.mp4', 'state': 'new', 'folder': 'h264-hd', 'high_quality': True, 'width': 1920, 'height': 1080, 'updated_at': '2024-11-26T21:18:10.557+01:00', 'recording_url': 'https://cdn.media.ccc.de/events/sotm/2024/h264-hd/sotm2024-49647-eng-OSMF_Board_AMA_hd.mp4', 'url': 'https://api.media.ccc.de/public/recordings/81978', 'event_url': 'https://api.media.ccc.de/public/events/aa4d986f-69d3-5f23-a8b1-a4241b12fddf', 'conference_url': 'https://api.media.ccc.de/public/conferences/sotm2024'}]
 layout: session
 title: "OSMF Board AMA"
 code: "C8UWGW"

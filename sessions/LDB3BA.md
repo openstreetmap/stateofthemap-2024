@@ -11,7 +11,7 @@ room: "Maasai Mara"
 length: "60"
 time: "Friday, 12:00"
 time_iso: "2024-09-06T09:00:00Z"
-resources: []
+resources: [{ description: "Presentation Slides", url: "https://pretalx.com/media/sotm2024/submissions/LDB3BA/resources/SotM_Nairobi_ITDP_i0mDuxD.pdf" }]
 recording: False
 ---
 

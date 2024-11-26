@@ -11,7 +11,7 @@ room: "Maasai Mara"
 length: "20"
 time: "Friday, 15:30"
 time_iso: "2024-09-06T12:30:00Z"
-resources: []
+resources: [{ description: "Presentation Slides", url: "https://pretalx.com/media/sotm2024/submissions/J9ATMQ/resources/A_Novel_Approach__YQMsy7Y.pdf" }]
 recording: False
 ---
 

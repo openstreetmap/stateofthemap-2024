@@ -11,7 +11,7 @@ room: "Maasai Mara"
 length: "20"
 time: "Friday, 10:30"
 time_iso: "2024-09-06T07:30:00Z"
-resources: []
+resources: [{ description: "Presentation Slides", url: "https://pretalx.com/media/sotm2024/submissions/EWNBAV/resources/SOTM_2024_-_Keyno_98Fhdzj.pdf" }]
 recording: False
 ---
 

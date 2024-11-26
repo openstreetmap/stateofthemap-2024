@@ -11,7 +11,7 @@ room: "Tsavo Hall"
 length: "40"
 time: "Friday, 16:30"
 time_iso: "2024-09-06T13:30:00Z"
-resources: []
+resources: [{ description: "Presentation slides", url: "https://pretalx.com/media/sotm2024/submissions/99HWEX/resources/COMMUNITY_CAPACIT_gnMDGIt.pdf" }]
 recording: False
 ---
 

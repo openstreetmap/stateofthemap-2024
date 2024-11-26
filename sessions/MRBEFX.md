@@ -11,7 +11,7 @@ room: "Tsavo Hall"
 length: "20"
 time: "Friday, 17:30"
 time_iso: "2024-09-06T14:30:00Z"
-resources: []
+resources: [{ description: "Presentation slides", url: "https://pretalx.com/media/sotm2024/submissions/MRBEFX/resources/SOTM_NAIROBI_2024_wMrmQT9.pdf" }]
 recording: False
 ---
 

@@ -11,7 +11,7 @@ room: "Maasai Mara"
 length: "20"
 time: "Friday, 17:30"
 time_iso: "2024-09-06T14:30:00Z"
-resources: []
+resources: [{ description: "Slides of &#34;Disaster hackathon 2.0 in Bangladesh&#34;", url: "https://pretalx.com/media/sotm2024/submissions/87HBBY/resources/Disaster_hackatho_RdzLGvl.pdf" },{ description: "Slides of &#34;Impact of anticipatory mapping in disaster preparedness&#34;", url: "https://pretalx.com/media/sotm2024/submissions/87HBBY/resources/Impact_of_anticip_6ymxa8J.pdf" },{ description: "Slides of &#34;Discover OSM with free GIS tools in Africa geoportal&#34;", url: "https://pretalx.com/media/sotm2024/submissions/87HBBY/resources/SotM_2024_Africa__Amtx8ra.pdf" }]
 recording: False
 ---
 
