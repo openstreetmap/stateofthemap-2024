@@ -1,6 +1,6 @@
 ---
 youtube: XsOlrp4Hsec
-youtube: t7GIfiU3ChY
+youtube2: t7GIfiU3ChY
 layout: session
 title: "Academic Lightning Talks II"
 code: "YWH3XD"
